@@ -30,7 +30,7 @@
 	},
 	"INSTALL_LOC" :
 	{
-		"NAME" :	  "FuelTanksPlus",
+		"NAME"      : "FuelTanksPlus",
 		"DIRECTORY" : "NecroBones/FuelTanksPlus"
 	}
 }
