@@ -6,16 +6,16 @@ description: the flat-pack Kiea instructions, written in Kerbalese, unusally pre
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!-- ManualInstallation.md v1.1.1.1
-Lithobrake Exploration Technologies (LET)
+<!-- ManualInstallation.md v1.1.3.0
+Fuel Tanks Plus (FTP)
 created: 01 Oct 2019
 updated: 05 Apr 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# Lithobrake Exploration Technologies (LET)
+# Fuel Tanks Plus (FTP)
 
-A parts pack for exploring other worlds, and returning home. Pods, large legs, large chutes, service bays, long ladders, etc for Kerbal Space Program.
+A set of fuel tanks that are 1.5x the length of the largest stock tanks in each diameter, plus fuel-filled nose cones for those diameters. These tanks are meant to give you some visual choice of styles that are loosely inspired by real-world rockets from NASA, ESA, and private space firms (though that inspiration is mainly in color choice), while maintaining the style established in the Color Coded Canisters mod (since CCC replaces stock visuals, any 'new' tanks should be spun off into a separate pack, and hence we have FTP) For Kerbal Space Program.
 
 ## Installation Instructions
 
@@ -28,9 +28,9 @@ You should be all good! (check for latest version on CurseForge)
 To install, place the NecroBones folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
-  * Delete `<KSP_ROOT>/GameData/NecroBones/LithobrakeExplorationTechnologies`
-* Extract the package's `LithobrakeExplorationTechnologies/` folder into your KSP's as follows:
-  * `<PACKAGE>/NecroBones/LithobrakeExplorationTechnologies` --> `<KSP_ROOT>/GameData/NecroBones/LithobrakeExplorationTechnologies`
+  * Delete `<KSP_ROOT>/GameData/NecroBones/FuelTanksPlus`
+* Extract the package's `NecroBones/` folder into your KSP's GameData as follows:
+  * `<PACKAGE>/NecroBones` --> `<KSP_ROOT>/GameData/NecroBones`
     * Overwrite any preexisting file.
 
 ### If Downloaded from SpaceDock / GitHub / other
@@ -38,35 +38,35 @@ To install, place the NecroBones folder inside your Kerbal Space Program's GameD
 To install, place the GameData folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
-  * Delete `<KSP_ROOT>/GameData/NecroBones/LithobrakeExplorationTechnologies`
-* Extract the package's `GameData/NecroBones/LithobrakeExplorationTechnologies` folder into your KSP's as follows:
-  * `<PACKAGE>/GameData/NecroBones/LithobrakeExplorationTechnologies` --> `<KSP_ROOT>/GameData`
+  * Delete `<KSP_ROOT>/GameData/NecroBones/FuelTanksPlus`
+* Extract the package's `GameData/NecroBones/FuelTanksPlus` folder into your KSP's as follows:
+  * `<PACKAGE>/GameData/NecroBones/FuelTanksPlus` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting file.
 
 ## The following file layout must be present after installation
 
-```
+```markdown
 <KSP_ROOT>
-  [GameData]
-    [NecroBones]
-      [LithobrakeExplorationTechnologies]
-        [Agencies]
+  + [GameData]
+    + [NecroBones]
+      + [FuelTanksPlus]
+        + [Agencies]
           ...
-        [Assets]
+        + [Assets]
           ...
-        [Compatibility]
+        + [Compatibility]
           ...
-        [Localization]
+        + [Localization]
           ...
-        [Parts]
+        + [Parts]
           ...
-        #.#.#.#.htm
-        changelog.md
-        License.txt
-        readme.htm
-        LithobrakeExplorationTechnologies.version
+        * #.#.#.#.htm
+        * changelog.md
+        * License.txt
+        * readme.htm
+        * FuelTanksPlus.version
     ...
-  KSP.log
+  * KSP.log
   ...
 ```
 
