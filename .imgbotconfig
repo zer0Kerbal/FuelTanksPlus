@@ -3,8 +3,8 @@
     "ignoredFiles": [
         "GameData/*",
         "docs/LegalMumboJumbo/*",
-        "GameData/KerbthulhuKineticsProgram/MoarKerbals/*",
-        "GameData/KerbthulhuKineticsProgram/MoarKerbals/Textures/*",
+        "GameData/NecroBones/FuelTanksPlus/*",
+        "GameData/NecroBones/FuelTanksPlus/Textures/*",
         "source/*",
         "**/Assets/**",
         "**/Flags/**",
