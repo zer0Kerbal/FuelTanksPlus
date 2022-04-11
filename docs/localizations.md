@@ -7,14 +7,14 @@ tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- Localizations.md v1.1.3.1
-Lithobrake Exploration Technology (LET)
+Fuel Tanks Plus (FTP)
 created: 01 Feb 2022
 updated: 30 Mar 2022 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
 
-# Lithobrake Exploration Technology (LET)
+# Fuel Tanks Plus (FTP)
 
 [Home](./index.md)
 
