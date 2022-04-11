@@ -7,7 +7,7 @@ tags: parts,invoice,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- PartInvoice.md v1.1.3.1
-Lithobrake Exploration Technology (LET)
+Fuel Tanks Plus (FTP)
 created: 01 Feb 2022
 updated: 30 Mar 2022 -->
 
