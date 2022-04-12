@@ -1,3 +1,7 @@
+0.10.1 (2015-05-28) - Appearance tweaks.
+ - Altered sheen/specular on nuclear LF tanks, and size 3 "silver" tanks.
+ - corrected a mesh mistake on the 2.5m nuclear tanks.
+
 0.10 (2015-05-22) - More tanks.
  - Added a pair of 1.25m nose cone fuel tanks.
  - Added 3 tiers of single-propellant radial tanks (LF, Oxidizer, or MonoProp)
