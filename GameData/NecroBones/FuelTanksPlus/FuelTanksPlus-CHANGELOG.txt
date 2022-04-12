@@ -1,3 +1,13 @@
+1.1 (2015-08-27) - Fixes, New things.
+ - FTP: Added a blue "Delta" variant at the 1.25m size, historically inspired by Delta, Delta II, etc.
+ - FTP: Renamed 2.5m colors, to be more historically minded with regards to Delta IV and Delta IV Heavy.
+    - The blue color is renamed from "Delta" to "Blue"
+    - The orange color is renamed from "Jumbo" to "Delta"
+ - Corrected the base (dry) mass of the triangular probe tank.
+ - Added 2.5m to 3.75m adapter tank.
+ - Added 1.25m to 2.5m adapter tank.
+ - Added 0.625m to 1.25m adapter tank.
+
 1.0.5 (2015-08-23) - Bug fix.
  - Moved README and CHANGELOG to mod's folder.
  - Fixed a problem with one of the RP-400 radial tank's fuel combinations having a dry mass of 125 tons.
