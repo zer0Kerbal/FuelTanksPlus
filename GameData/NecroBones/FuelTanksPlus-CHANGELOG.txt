@@ -1,3 +1,8 @@
+1.0.3 (2015-07-18) - Tweaks.
+ - Will now start including ModuleManager and the InterstellerFuelSwitch folders in the zip archive.
+ - Addressed an issue with the old deprecated parts showing up in the manufacturer's tab.
+ - Added warnings to deprecated parts' descriptions, just in case they show up in a menu somewhere.
+
 1.0.2 (2015-07-17) - Tweaks.
  - Fix for small probe tanks to use InterstellarFuelSwitch properly for appearance changes.
 
