@@ -396,10 +396,11 @@
 
 ---
 
-## 0.10 (2015-05-22) - More tanks.
+## 0.10 (2015-05-22) - More tanks
 
 * Added a pair of 1.25m nose cone fuel tanks
-* Added 3 tiers of single-propellant radial tanks (LF, Oxidizer, or MonoProp)
+* Added 3 tiers of single-propellant radial tanks (LF, Oxidizer, or MonoProp
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #42 - 0.10 (2015-05-22) - More tanks
 * updates #26 - Previous Releases
 
@@ -408,6 +409,7 @@
 ## 0.9.1 (2015-05-19) - Hot fix
 
 * Fixed Interstellar Fuel Switch config for S3-10800 tank.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com>
 * closes #41 - 0.9.1 (2015-05-19) - Hot fix
 * updates #26 - Previous Releases
 
@@ -418,6 +420,7 @@
 * Re-balanced the Oscar-like tanks to correspond to the Oscar-B changes.
 * Adjusted Interstellar Fuel Switch config to not load if CryoEngines is installed (so Cryo can do the right thing).
 * Added LF-only tanks (1.25m and 2.5m) for use with nuclear engines.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com>
 * closes #40 - 0.9 (2015-05-19) - Balance tweaks, Nuclear tanks
 * updates #26 - Previous Releases
 
@@ -427,6 +430,7 @@
 
 * Tweaked attachment node priority order on many tanks for easier attachment in the VAB.
 * Changed the "fuel switching" configs to support Interstellar Fuel Switch.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com>
 * closes #39 - 0.8.2 (2015-05-08) - Fixes, 1.0.2 tweaks
 * updates #26 - Previous Releases
 
@@ -436,6 +440,7 @@
 
 * Corrected the S3-2400 Titan nose tank to be in Large Volume Containment tech node.
 * Converted textures to DDS format.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com>
 * closes #38 - 0.8.1 (2015-05-01) - Fixes, 1.0.1 tweaks
 * updates #26 - Previous Releases
 
@@ -451,6 +456,7 @@
   * Fixed bottom attachment nodes
   * Added attachment profile settings
   * Increased scale of "triangular" tanks by 25% to make them align nicely with the small cubes.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com>
 * closes #37 - 0.8 (2015-04-28) - Beta + KSP 1.0 updates
 * updates #26 - Previous Releases
 
@@ -459,6 +465,7 @@
 ## 0.7.1 (2015-03-25) - Beta
 
 * Corrected fuel capacity of the FL-T50 fuel tank.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com>
 * closes #36 - 0.7.1 (2015-03-25) - Beta
 * updates #26 - Previous Releases
 
@@ -470,6 +477,7 @@
 * Corrected the attachment node size for the 3.75m nose cone tanks.
 * Added "bottom" dome parts for external tanks, in both 2.5m and 3.75m.
 * Added FL-T50 fuel tank.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com>
 * closes #35 - 0.7 (2015-03-19) - Beta
 * updates #26 - Previous Releases
 
@@ -478,6 +486,7 @@
 ## 0.6 (2015-03-02) - Beta, tweaks
 
 * Adjusted normals (light/shadow angles) on many of the fuel tanks.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com>
 * closes #34 - 0.6 (2015-03-02) - Beta, tweaks
 * updates #26 - Previous Releases
 
