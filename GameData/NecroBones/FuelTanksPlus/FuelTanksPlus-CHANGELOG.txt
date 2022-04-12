@@ -1,3 +1,12 @@
+1.9 (2016-05-06) - Update.
+ - Nuclear (single-propellant) tanks capacity increased to match total units for LFO tanks. Names updated accordingly.
+ - B9PartSwitch fuel-switching enabled for most tanks, Switching config overhauled:
+   - Firespitter and InterstellarFuelSwitch support still included, of course.
+   - Calculated values will differ somewhat from the FS/IFS values, for cost, capacity, etc. This is normal.
+   - Radial tanks with texture-switching still rely on FS/IFS for now. Non-switching if only B9 is installed.
+   - B9 mesh switching has been set not to regenerate drag cubes while attaching in the editors.
+ - Crossfeed available (glabally!) for radially attached parts, enable button added to radial tanks.
+
 1.8.3 (2016-04-29) - Hotfix + Tweaks.
  - Various small clean-ups in the fuel-switching config.
  - Fixed a mistake in 1.8.2 that was preventing InterstellarFuelSwitch integration from working correctly.
