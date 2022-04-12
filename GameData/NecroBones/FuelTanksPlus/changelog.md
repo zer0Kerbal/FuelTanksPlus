@@ -49,7 +49,7 @@
 
 ---
 
-## 1.12.0 (2017-04-07) - Tweaks & Fixes
+## 1.12.0.0 (2017-04-07) - Tweaks & Fixes
 
 * Corrected a typo that was preventing the B9PartSwitch patches from applying correctly on the radial tanks.
 * Slightly increased the performance of the 2m/3m stack decouplers, and increased their propellant maximums.
@@ -62,7 +62,7 @@
 
 ---
 
-## 1.11.0 (2016-10-10) - KSP 1.2 update
+## 1.11.0.0 (2016-10-10) - KSP 1.2 update
 
 * Includes a "Kerbal X Plus" sample rocket, provided by StevieC (untested on my side, so far).
 * Updated categories for decouplers.
@@ -72,7 +72,7 @@
 
 ---
 
-## 1.10.0 (2016-06-04) - Update
+## 1.10.0.0 (2016-06-04) - Update
 
 * Altered switcher priorities for mesh switching, to match fuel switching rules.
 * Added color choices from some adjacent diameters to the 1.25m and 2.5m tanks.

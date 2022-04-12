@@ -1,3 +1,10 @@
+1.12 (2017-04-07) - Tweaks & Fixes.
+ - Corrected a typo that was preventing the B9PartSwitch patches from applying correctly on the radial tanks.
+ - Slightly increased the performance of the 2m/3m stack decouplers, and increased their propellant maximums.
+ - Changed ModularFuelTanks config to use consolidated wildcard patch.
+ - Removed "cryogenic" tank type assignments from the MFT configs.
+ - Stack decouplers in sizes 1.25m, 2.5m, and 3.75m collider updates, now actually hollow.
+
 1.11 (2016-10-10) - KSP 1.2 update.
  - Includes a "Kerbal X Plus" sample rocket, provided by StevieC (untested on my side, so far).
  - Updated categories for decouplers.
