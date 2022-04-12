@@ -22,5 +22,5 @@ http://spacedock.info/mod/92/Fuel%20Tanks%20Plus
 Curse:
 http://www.curse.com/ksp-mods/kerbal/227356-fuel-tanks-plus
 
-This is being shared under the CC-NC-SA license:
+This is being shared under the CC-BY-NC-SA license:
 http://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,3 +1,6 @@
+1.8.1 (2016-04-24) - KSP 1.1 minor update.
+ - Fix for fuel-switching to properly disable when something else is adding it (such as CryoEngines), relating to change in ModuleManager's logic.
+
 1.8 (2016-04-02) - KSP 1.1 minor update.
  - Added search tags.
  - Updated included copies of dependencies to 1.1 compatible versions.
