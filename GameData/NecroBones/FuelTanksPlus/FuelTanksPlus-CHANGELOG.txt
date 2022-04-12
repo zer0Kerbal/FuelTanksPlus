@@ -1,3 +1,7 @@
+0.8.1 (2015-05-01) - Fixes
+ - Corrected the S3-2400 Titan nose tank to be in Large Volume Containment tech node.
+ - Converted textures to DDS format.
+
 0.8 (2015-04-28) - Beta + KSP 1.0 updates
  - Corrected Xenon options for Fuel Switcher.
  - KSP 1.0 fixes, including but not limited to:

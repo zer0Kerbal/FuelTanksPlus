@@ -436,7 +436,7 @@
 
 ---
 
-## 0.8.1 (2015-05-01) - Fixes, 1.0.1 tweaks
+## 0.8.1.0 (2015-05-01) - Fixes, 1.0.1 tweaks
 
 * Corrected the S3-2400 Titan nose tank to be in Large Volume Containment tech node.
 * Converted textures to DDS format.
