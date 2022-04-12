@@ -1,4 +1,8 @@
-0.8.1 (2015-05-01) - Fixes
+0.8.2 (2015-05-08) - Fixes, 1.0.2 tweaks
+ - Tweaked attachment node priority order on many tanks for easier attachment in the VAB.
+ - Changed the "fuel switching" configs to support Interstellar Fuel Switch.
+
+0.8.1 (2015-05-01) - Fixes, 1.0.1 tweaks
  - Corrected the S3-2400 Titan nose tank to be in Large Volume Containment tech node.
  - Converted textures to DDS format.
 

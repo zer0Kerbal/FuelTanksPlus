@@ -387,7 +387,7 @@
 
 ---
 
-## 0.10.1 (2015-05-28) - Appearance tweaks
+## 0.10.1.0 (2015-05-28) - Appearance tweaks
 
 * Altered sheen/specular on nuclear LF tanks, and size 3 "silver" tanks.
 * corrected a mesh mistake on the 2.5m nuclear tanks.
@@ -396,7 +396,7 @@
 
 ---
 
-## 0.10 (2015-05-22) - More tanks
+## 0.10.0.0 (2015-05-22) - More tanks
 
 * Added a pair of 1.25m nose cone fuel tanks
 * Added 3 tiers of single-propellant radial tanks (LF, Oxidizer, or MonoProp
@@ -406,7 +406,7 @@
 
 ---
 
-## 0.9.1 (2015-05-19) - Hot fix
+## 0.9.1.0 (2015-05-19) - Hot fix
 
 * Fixed Interstellar Fuel Switch config for S3-10800 tank.
 * Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com>
@@ -415,7 +415,7 @@
 
 ---
 
-## 0.9 (2015-05-19) - Balance tweaks, Nuclear tanks
+## 0.9.0.0 (2015-05-19) - Balance tweaks, Nuclear tanks
 
 * Re-balanced the Oscar-like tanks to correspond to the Oscar-B changes.
 * Adjusted Interstellar Fuel Switch config to not load if CryoEngines is installed (so Cryo can do the right thing).
@@ -426,7 +426,7 @@
 
 ---
 
-## 0.8.2 (2015-05-08) - Fixes, 1.0.2 tweaks
+## 0.8.2.0 (2015-05-08) - Fixes, 1.0.2 tweaks
 
 * Tweaked attachment node priority order on many tanks for easier attachment in the VAB.
 * Changed the "fuel switching" configs to support Interstellar Fuel Switch.
