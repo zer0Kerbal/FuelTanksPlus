@@ -1,3 +1,8 @@
+1.0.5 (2015-08-23) - Bug fix.
+ - Moved README and CHANGELOG to mod's folder.
+ - Fixed a problem with one of the RP-400 radial tank's fuel combinations having a dry mass of 125 tons.
+ - Lowered the dry mass of radial tanks for non-monopropellant configurations.
+
 1.0.4 (2015-07-31) - Tweaks.
  - Now including a (disabled by default) Module Manager config for re-enabling deprecated parts in the VAB/SPH.
     - This should not be relied upon as a long-term solution. 
