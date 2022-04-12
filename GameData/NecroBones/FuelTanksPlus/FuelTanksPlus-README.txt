@@ -1,0 +1,26 @@
+Fuel Tanks Plus
+
+by Ed T. Toton III, aka NecroBones.
+
+
+Installation:
+
+1. Simply copy the "FuelTanksPlus" folder into your GameData folder. If upgrading from a 
+previous version, be sure to delete the old one from GameData first (this is the cleanest option).
+
+2. Also make sure you have a current copy of ModuleManager, and the Firespitter Core (DLL). These
+can be found through CKAN or KerbalStuff.
+
+
+
+Forum Thread:
+http://forum.kerbalspaceprogram.com/threads/108238
+
+Kerbal Stuff:
+https://kerbalstuff.com/mod/529/Fuel%20Tanks%20Plus
+
+Curse:
+http://www.curse.com/ksp-mods/kerbal/227356-fuel-tanks-plus
+
+This is being shared under the CC-NC-SA license:
+http://creativecommons.org/licenses/by-nc-sa/4.0/
