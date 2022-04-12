@@ -15,7 +15,7 @@ updated: 04 Apr 2022 -->
 
 # Fuel Tanks Plus (FTP)
 
-***Micro Shuttle and Rescue Vehicle*** for three (3) kerbals by Fruit Bat Industries. This is ***not*** a SSTO.
+A set of fuel tanks that are longer than largest stock tanks in each diameter, plus fuel-filled nose cones for those diameters. These are meant to give you some visual choice of styles that are loosely inspired by real-world rockets from NASA, ESA, and private space firms (though that inspiration is mainly in color choice), while maintaining the style established in the Color Coded Canisters mod.
 
 
 
