@@ -1,3 +1,7 @@
+1.6 (2016-01-11) - Tweaks.
+ - Increased propellant and thrust for 2.5m and 3.75m decouplers.
+ - Sharpened the appearance of the checkered 1.25m long tank (Mercury setting).
+
 1.5 (2015-12-17) - Tweaks.
  - Rewrote the fuel-switching config.
     - Should play more nicely with other mods that affect fuel switching.
