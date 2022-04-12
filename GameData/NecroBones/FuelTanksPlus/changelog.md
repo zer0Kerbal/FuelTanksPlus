@@ -10,99 +10,109 @@
 | spacedock  | (https://spacedock.info/mod/92)                                  |
 | ckan       | FuelTanksPlus                                                    |
 
-## 2.0.2 (2018-03-14) - RCS fixes
+## 2.0.2.0 (2018-03-14) - RCS fixes
 
 * Rebalanced the smaller monopropellant tanks to match their stock counterparts.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #78 - 2.0.2 (2018-03-14) - RCS fixes
 * updates #26 - Previous Releases
 
 ---
 
-## 2.0.1 (2018-03-13) - Minor fixes
+## 2.0.1.0 (2018-03-13) - Minor fixes
 
 * Removed shrouds from nuclear tanks and added them to the color-switcher (just one color currently)
 * Removed extraneous IFS/FS/B9 configs from the size-0 tanks.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #77 - 2.0.1 (2018-03-13) - Minor fixes
 * updates #26 - Previous Releases
 
 ---
 
-## 2.0 (2018-03-12) - Overhaul for 1.4
+## 2.0.0.0 (2018-03-12) - Overhaul for 1.4
 
 * Altered color/mesh switching to use new 1.4 stock switcher (except the radial tanks).
 * Note: Saved colors in existing vessels may need to be manually updated or relaunched to correct.
 * Removed most end-cap shrouds.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #76 - 2.0.0 (2018-03-12) - Overhaul for 1.
 * updates #26 - Previous Releases
 
 ---
 
-## 1.12.1 (2017-04-09) - MFT fix
+## 1.12.1.0 (2017-04-09) - MFT fix
 
 * Corrected some MM patch issues for ModularFuelTanks.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #75 - 1.12.1 (2017-04-09) - MFT fix
 * updates #26 - Previous Releases
 
 ---
 
-## 1.12 (2017-04-07) - Tweaks & Fixes
+## 1.12.0 (2017-04-07) - Tweaks & Fixes
 
 * Corrected a typo that was preventing the B9PartSwitch patches from applying correctly on the radial tanks.
 * Slightly increased the performance of the 2m/3m stack decouplers, and increased their propellant maximums.
 * Changed ModularFuelTanks config to use consolidated wildcard patch.
 * Removed "cryogenic" tank type assignments from the MFT configs.
 * Stack decouplers in sizes 1.25m, 2.5m, and 3.75m collider updates, now actually hollow.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #74 - 1.12 (2017-04-07) - Tweaks & Fixes
 * updates #26 - Previous Releases
 
 ---
 
-## 1.11 (2016-10-10) - KSP 1.2 update
+## 1.11.0 (2016-10-10) - KSP 1.2 update
 
 * Includes a "Kerbal X Plus" sample rocket, provided by StevieC (untested on my side, so far).
 * Updated categories for decouplers.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #73 - 1.11 (2016-10-10) - KSP 1.2 update
 * updates #26 - Previous Releases
 
 ---
 
-## 1.10 (2016-06-04) - Update
+## 1.10.0 (2016-06-04) - Update
 
 * Altered switcher priorities for mesh switching, to match fuel switching rules.
 * Added color choices from some adjacent diameters to the 1.25m and 2.5m tanks.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #72 - 1.10 (2016-06-04) - Update
 * updates #26 - Previous Releases
 
 ---
 
-## 1.9.3 (2016-05-10) - Tweaks
+## 1.9.3.0 (2016-05-10) - Tweaks
 
 * Altered the color-switching rules to be based on variables rather than part names, for more flexibility and support for part duplication.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #71 - 1.9.3 (2016-05-10) - Tweaks
 * updates #26 - Previous Releases
 
 ---
 
-## 1.9.2 (2016-05-07) - Fuel Switching Tweaks
+## 1.9.2.0 (2016-05-07) - Fuel Switching Tweaks
 
 * Added InterstellarFuelSwitch 2.0.2 flags to re-tie radial tank texture to fuel type.
 * Reduced dry mass of radial tanks when containing MonoPropellant, to better match stock tanks (Firespitter and InterstellarFuelSwitch).
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #70 - 1.9.2 (2016-05-07) - Fuel Switching Tweaks
 * updates #26 - Previous Releases
 
 ---
 
-## 1.9.1 (2016-05-06) - Fuel Switching Tweaks
+## 1.9.1.0 (2016-05-06) - Fuel Switching Tweaks
 
 * Added minimum tech requirements for some fuels in the fuel switchers, when using InterstellarFuelSwitch 2.0.1+.
 * InterstellarFuelSwitch GUI names updated for IFS 2.0.1.
 * InterstellarFuelSwitch prioritized ahead of B9PartSwitch to take advantage of tech levels.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #69 - 1.9.1 (2016-05-06) - Fuel Switching Tweaks
 * updates #26 - Previous Releases
 
 ---
 
-## 1.9 (2016-05-06) - Update
+## 1.9.0.0 (2016-05-06) - Update
 
 * Nuclear (single-propellant) tanks capacity increased to match total units for LFO tanks. Names updated accordingly.
 * B9PartSwitch fuel-switching enabled for most tanks, Switching config overhauled:
@@ -111,16 +121,18 @@
   * Radial tanks with texture-switching still rely on FS/IFS for now. Non-switching if only B9 is installed.
   * B9 mesh switching has been set not to regenerate drag cubes while attaching in the editors.
 * Crossfeed available (globally!) for radially attached parts, enable button added to radial tanks.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #68 - 1.9 (2016-05-06) - Update
 * updates #26 - Previous Releases
 
 ---
 
-## 1.8.3 (2016-04-29) - Hotfix + Tweaks
+## 1.8.3.0 (2016-04-29) - Hotfix + Tweaks
 
 * Various small clean-ups in the fuel-switching config.
 * Fixed a mistake in 1.8.2 that was preventing InterstellarFuelSwitch integration from working correctly.
 * Started on FuelSwitch compatibility with B9PartSwitch, currently mixed module configuration.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #67 - 1.8.3 (2016-04-29) - Hotfix + Tweaks
 * updates #26 - Previous Releases
 
@@ -129,6 +141,7 @@
 ## 1.8.2.0 (2016-04-28) - Mesh switching compatibility
 
 * Added support for B9PartSwitch. Firespitter and InterstellarFuelSwitch still work too, of course.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #66 - 1.8.2 (2016-04-28) - Mesh switching compatibility
 * updates #26 - Previous Releases
 

@@ -1,3 +1,8 @@
+1.8.3 (2016-04-29) - Hotfix + Tweaks.
+ - Various small clean-ups in the fuel-switching config.
+ - Fixed a mistake in 1.8.2 that was preventing InterstellarFuelSwitch integration from working correctly.
+ - Started on FuelSwitch compatibility with B9PartSwitch, currently mixed module configuration.
+
 1.8.2 (2016-04-28) - Mesh switching compatibility
  - Added support for B9PartSwitch. Firespitter and InterstellarFuelSwitch still work too, of course.
 
