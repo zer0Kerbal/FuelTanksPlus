@@ -35,7 +35,7 @@ These tanks are meant to give you some visual choice of styles that are loosely 
 
 <a width="1024" height="601" src="https://www.youtube.com/embed/wuxzfhtiCgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></a>
 
-[!KSP FuelTanksPlus 1.0 Overhaul](https://img.youtube.com/vi/wuxzfhtiCgI/0.jpg)](https://www.youtube.com/watch?v=wuxzfhtiCgI)
+[![KSP FuelTanksPlus 1.0 Overhaul](https://img.youtube.com/vi/wuxzfhtiCgI/0.jpg)](https://www.youtube.com/watch?v=wuxzfhtiCgI)
 
 #### review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 
@@ -151,7 +151,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 
 #### Original (0) - Author: [`@NecroBones`][necrobones]
 
-> Forum: [Thread][MOD:0:thread] - Download: [CurseForge][MOD:0:download] - Source: SpaceDock][MOD:0:source]
+> Forum: [Thread][MOD:0:thread] - Download: [CurseForge][MOD:0:download] - Source: [SpaceDock][MOD:0:source]
 > License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
 
 <!-- mod links -->
