@@ -14,10 +14,10 @@ the Intersteller Fuel Switch mod (preferred). These can be found through CKAN or
 
 
 Forum Thread:
-http://forum.kerbalspaceprogram.com/threads/108238
+http://forum.kerbalspaceprogram.com/index.php?/topic/97541-FuelTanksPlus
 
-Kerbal Stuff:
-https://kerbalstuff.com/mod/529/Fuel%20Tanks%20Plus
+SpaceDock:
+http://spacedock.info/mod/92/Fuel%20Tanks%20Plus
 
 Curse:
 http://www.curse.com/ksp-mods/kerbal/227356-fuel-tanks-plus

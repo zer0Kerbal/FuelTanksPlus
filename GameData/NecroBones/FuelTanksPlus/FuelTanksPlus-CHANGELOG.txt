@@ -1,3 +1,16 @@
+1.7 (2016-03-11) Minor fixes, removal of deprecated parts.
+ - Corrected capitalization of "ModularFuelTanks" in the fuel-switching rules.
+ - Added MonoPropellant as a choice for LFO tanks in the fuel-switching rules.
+ - Slightly increased the Oscar-A/C/D dry masses to match mass ratios of larger tanks.
+ - Removed the deprecated parts (deprecated as of FTP 1.0) from this pack.
+    - Still available via optional compatibility pack "Fuel Tanks Plus Deprecated".
+    - These parts were disabled in FTP more than 6 months ago. Deprecation pack only needed for vessels built before then.
+    - Available in these locations:
+       - http://spacedock.info/mod/387/Fuel%20Tanks%20Plus%20Deprecated
+       - http://ksp.necrobones.com/files/FuelTanksPlus/
+       - CKAN
+ - Moved ModuleManager patches to a "Patches" folder.
+
 1.6 (2016-01-11) - Tweaks.
  - Increased propellant and thrust for 2.5m and 3.75m decouplers.
  - Sharpened the appearance of the checkered 1.25m long tank (Mercury setting).
