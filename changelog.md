@@ -462,7 +462,7 @@
 
 ---
 
-## 0.7.1 (2015-03-25) - Beta
+## 0.7.1.0-beta (2015-03-25) - Beta
 
 * Corrected fuel capacity of the FL-T50 fuel tank.
 * Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com>
@@ -471,7 +471,7 @@
 
 ---
 
-## 0.7.0.0 (2015-03-19) - Beta
+## 0.7.0.0-beta (2015-03-19) - Beta
 
 * Moved the 3.75m nose cone tanks to the "Very Heavy Rocketry" tech node (alongside the other 3.75m tanks)
 * Corrected the attachment node size for the 3.75m nose cone tanks.
