@@ -15,7 +15,7 @@
 * Rebalanced the smaller monopropellant tanks to match their stock counterparts.
 * Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #78 - 2.0.2 (2018-03-14) - RCS fixes
-* updates #26 - Previous Releases
+* closes #26 - Previous Releases
 
 ---
 
