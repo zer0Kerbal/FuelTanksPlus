@@ -1,6 +1,18 @@
+1.2 (2015-08-31) - Minor update.
+ - Corrected a texture alignment problem with the 0.625m tanks when using reduced texture resolution.
+ - Added new red color option to the 0.625m tanks.
+ - Added a second, shorter 3.75m to 2.5m adapter tank. 
+ - Added mod support settings for adapter tanks.
+    - Added TweakScale (adapter) settings.
+    - Added Modular Fuel Tanks settings.
+    - Added Fuel Switch settings.
+
+1.1.1 (2015-08-27) - Hotfix
+ - Corrected the transparent meshes in the FL-T50 fuel tank.
+
 1.1 (2015-08-27) - Fixes, New things.
- - FTP: Added a blue "Delta" variant at the 1.25m size, historically inspired by Delta, Delta II, etc.
- - FTP: Renamed 2.5m colors, to be more historically minded with regards to Delta IV and Delta IV Heavy.
+ - Added a blue "Delta" variant at the 1.25m size, historically inspired by Delta, Delta II, etc.
+ - Renamed 2.5m colors, to be more historically minded with regards to Delta IV and Delta IV Heavy.
     - The blue color is renamed from "Delta" to "Blue"
     - The orange color is renamed from "Jumbo" to "Delta"
  - Corrected the base (dry) mass of the triangular probe tank.
