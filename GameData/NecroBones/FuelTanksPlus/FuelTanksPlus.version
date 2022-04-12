@@ -1,5 +1,5 @@
 {
-	"NAME"		     : "FuelTanksPlus (FTP)",
+	"NAME"		     : "Fuel Tanks Plus (FTP)",
 	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/FuelTanksPlus.version",
 	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/FuelTanksPlus/releases/latest",
 	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/changelog.md",
@@ -13,7 +13,7 @@
 	{
 		"MAJOR" : 1,
 		"MINOR" : 8,
-		"PATCH" : 1,
+		"PATCH" : 2,
 		"BUILD" : 0
 	},
 	"KSP_VERSION" :
