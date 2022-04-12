@@ -126,7 +126,7 @@
 
 ---
 
-## 1.8.2 (2016-04-28) - Mesh switching compatibility
+## 1.8.2.0 (2016-04-28) - Mesh switching compatibility
 
 * Added support for B9PartSwitch. Firespitter and InterstellarFuelSwitch still work too, of course.
 * closes #66 - 1.8.2 (2016-04-28) - Mesh switching compatibility
@@ -134,7 +134,7 @@
 
 ---
 
-## 1.8.1 (2016-04-24) - KSP 1.1 minor update
+## 1.8.1.0 (2016-04-24) - KSP 1.1 minor update
 
 * Fix for fuel-switching to properly disable when something else is adding it (such as CryoEngines), relating to change in ModuleManager's logic.
 * closes #65 - 1.8.1 (2016-04-24) - KSP 1.1 minor update
@@ -142,7 +142,7 @@
 
 ---
 
-## 1.8 (2016-04-02) - KSP 1.1 minor update
+## 1.8.0.0 (2016-04-02) - KSP 1.1 minor update
 
 * Added search tags.
 * Updated included copies of dependencies to 1.1 compatible versions.
@@ -151,7 +151,7 @@
 
 ---
 
-## 1.7 (2016-03-11) Minor fixes, removal of deprecated parts
+## 1.7.0.0 (2016-03-11) Minor fixes, removal of deprecated parts
 
 * Corrected capitalization of "ModularFuelTanks" in the fuel-switching rules.
 * Added MonoPropellant as a choice for LFO tanks in the fuel-switching rules.
@@ -169,7 +169,7 @@
 
 ---
 
-## 1.6 (2016-01-11) - Tweaks
+## 1.6.0.0 (2016-01-11) - Tweaks
 
 * Increased propellant and thrust for 2.5m and 3.75m decouplers.
 * Sharpened the appearance of the checkered 1.25m long tank (Mercury setting).
@@ -178,7 +178,7 @@
 
 ---
 
-## 1.5 (2015-12-17) - Tweaks
+## 1.5.0.0 (2015-12-17) - Tweaks
 
 * Rewrote the fuel-switching config.
   * Should play more nicely with other mods that affect fuel switching.

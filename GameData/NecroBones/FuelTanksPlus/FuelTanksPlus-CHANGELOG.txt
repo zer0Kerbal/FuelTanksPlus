@@ -1,3 +1,16 @@
+1.5 (2015-12-17) - Tweaks.
+ - Rewrote the fuel-switching config.
+    - Should play more nicely with other mods that affect fuel switching.
+    - Consolidated patches to reduce complexity.
+    - Capacities standardized based on mass, so some values will have changed slightly.
+ - Added "FuelTanksPlus_ATM.cfg" with settings to attempt to disable or dissuade ActiveTextureManagement for this mod.
+    - Can optionally be deleted to return to ATM defaults.
+    - ATM known to occasionally have caching issues with remapped/shared textures in my mods.
+    - FuelTanksPlus is already very memory efficient and uses DDS, so ATM doesn't help much for this case.
+    - May need to delete ATM's cache if using ATM and some textures still aren't appearing.
+ - Replaced some placeholder images with smaller versions that will be more obvious when reassignment fails.
+ - Corrected a typo with Agency mentality.
+
 1.4 (2015-12-04) - Update.
  - Added stack decouplers with built-in separation motors, and color-changing capability.
 

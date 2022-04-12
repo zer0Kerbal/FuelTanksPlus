@@ -1,0 +1,525 @@
+@PART[TPtank3mL15000]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 12960,15840;25920;31680
+		basePartMass = 18
+	}
+}
+@PART[TPtank3mL11250]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 9720,11880;19440;23760
+		basePartMass = 15
+	}
+}
+@PART[TPtank3mL05625]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 4860,5940;9720;11880
+		basePartMass = 7.5
+	}
+}
+@PART[TPtank3mL03750]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 3240,3960;6480;7920
+		basePartMass = 4.5
+	}
+}
+@PART[TPtank3mL00938]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 810,990;1620;1980
+		basePartMass = 1.25
+	}
+}
+@PART[TPtank2mL15000]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 5760,7040;11520;14080
+		basePartMass = 8
+	}
+}
+@PART[TPtank2mL11250]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 4320,5280;8640;10560
+		basePartMass = 6
+	}
+}
+@PART[TPtank2mL07500]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 2880,3520;5760;7040
+		basePartMass = 4
+	}
+}
+@PART[TPtank2mL05625]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 2160,2640;4320;5280
+		basePartMass = 3
+	}
+}
+@PART[TPtank2mL03750]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 1440,1760;2880;3520
+		basePartMass = 2
+	}
+}
+@PART[TPtank2mL01875]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 720,880;1440;1760
+		basePartMass = 1
+	}
+}
+@PART[TPtank2mL00469]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 180,220;360;440
+		basePartMass = 0.25
+	}
+}
+@PART[TPtank1mL05625]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 540,660;1080;1320
+		basePartMass = 0.75
+	}
+}
+@PART[TPtank1mL00313]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 22.5,27.5;45;55
+		basePartMass = 0.0375
+	}
+}
+@PART[TPtank0mL03750]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer;Xenon
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer;XenonGas
+		resourceAmounts = 90,110;180;220;1750
+		basePartMass = 0.125
+	}
+}
+@PART[TPtank0mL01875]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer;Xenon
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer;XenonGas
+		resourceAmounts = 45,55;90;110;875
+		basePartMass = 0.0625
+	}
+}
+@PART[TPtank0mL00938]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer;Xenon
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer;XenonGas
+		resourceAmounts = 22.5,27.5;45;55;437.5
+		basePartMass = 0.0375
+	}
+}
+@PART[TPtank0mL01350]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer;Xenon
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer;XenonGas
+		resourceAmounts = 36,44;72;88;665
+		basePartMass = 0.0475
+	}
+}
+@PART[TPtank0mL00700]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer;Xenon
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer;XenonGas
+		resourceAmounts = 25.2,30.8;50.4;61.6;490
+		basePartMass = 0.035
+	}
+}
+@PART[TPtank0mL00175]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer;Xenon
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer;XenonGas
+		resourceAmounts = 9,11;18;22;135
+		basePartMass = 0.007
+	}
+}
+@PART[TPcone0m*]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 18,22;36;44
+		basePartMass = 0.02
+	}
+}
+@PART[TPcone1m*]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 57.6,70.4;115.2;140.8
+		basePartMass = 0.08
+	}
+}
+@PART[TPcone2m*]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 720,880;1440;1760
+		basePartMass = 1
+	}
+}
+@PART[TPcone3m*]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 1080,1320;2160;2640
+		basePartMass = 1.5
+	}
+}
+@PART[TPdome1m*]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 45,55;90;110
+		basePartMass = 0.0625
+	}
+}
+@PART[TPdome2m*]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 360,440;720;880
+		basePartMass = 0.5
+	}
+}
+@PART[TPdome3m*]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 540,660;1080;1320
+		basePartMass = 0.75
+	}
+}
+@PART[TPtankTri]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;Xenon;MonoPropellant
+		resourceNames = LiquidFuel,Oxidizer;XenonGas;MonoPropellant
+		resourceAmounts = 22.5,27.5;2800;235
+		basePartMass = 0.035
+		tankMass = 0.0;0.09;0.0
+	}
+}
+@PART[TPtankCube125]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;Xenon;MonoPropellant
+		resourceNames = LiquidFuel,Oxidizer;XenonGas;MonoPropellant
+		resourceAmounts = 36,44;980;130
+		basePartMass = 0.07
+	}
+}
+@PART[TPtankCube075]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;Xenon;MonoPropellant
+		resourceNames = LiquidFuel,Oxidizer;XenonGas;MonoPropellant
+		resourceAmounts = 8.1,9.9;210;28
+		basePartMass = 0.015
+	}
+}
+@PART[TPtankCube050]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;Xenon;MonoPropellant
+		resourceNames = LiquidFuel,Oxidizer;XenonGas;MonoPropellant
+		resourceAmounts = 2.7,3.3;140;18
+		basePartMass = 0.01
+	}
+}
+@PART[TPtank1mL00938-Nuke]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel;Oxidizer;Xenon;MonoPropellant;Ore
+		resourceNames = LiquidFuel;Oxidizer;XenonGas;MonoPropellant;Ore
+		resourceAmounts = 180;220;5250;235;187.5
+		basePartMass = 0.125
+		tankMass = 0.0;0.0;0.2875;0;0.125
+	}
+}
+@PART[TPtank1mL01875-Nuke]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel;Oxidizer;Xenon;MonoPropellant;Ore
+		resourceNames = LiquidFuel;Oxidizer;XenonGas;MonoPropellant;Ore
+		resourceAmounts = 360;440;10500;470;375
+		basePartMass = 0.25
+		tankMass = 0.0;0.0;0.575;0;0.25
+	}
+}
+@PART[TPtank1mL03750-Nuke]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel;Oxidizer;Xenon;MonoPropellant;Ore
+		resourceNames = LiquidFuel;Oxidizer;XenonGas;MonoPropellant;Ore
+		resourceAmounts = 720;880;21000;940;750
+		basePartMass = 0.5
+		tankMass = 0.0;0.0;1.15;0;0.5
+	}
+}
+@PART[TPtank2mL01875-Nuke]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel;Oxidizer;Xenon;MonoPropellant;Ore
+		resourceNames = LiquidFuel;Oxidizer;XenonGas;MonoPropellant;Ore
+		resourceAmounts = 1440;1760;42000;1880;1500
+		basePartMass = 1.0
+		tankMass = 0.0;0.0;2.3;0;1.0
+	}
+}
+@PART[TPtank2mL03750-Nuke]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel;Oxidizer;Xenon;MonoPropellant;Ore
+		resourceNames = LiquidFuel;Oxidizer;XenonGas;MonoPropellant;Ore
+		resourceAmounts = 2880;3520;84000;3760;3000
+		basePartMass = 2.0
+		tankMass = 0.0;0.0;4.6;0;2.0
+	}
+}
+@PART[TPtank2mL07500-Nuke]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel;Oxidizer;Xenon;MonoPropellant;Ore
+		resourceNames = LiquidFuel;Oxidizer;XenonGas;MonoPropellant;Ore
+		resourceAmounts = 5760;7040;168000;7520;6000
+		basePartMass = 4.0
+		tankMass = 0.0;0.0;9.2;0;4.0
+	}
+}
+@PART[TPtank3mL03750-Nuke]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel;Oxidizer;Xenon;MonoPropellant;Ore
+		resourceNames = LiquidFuel;Oxidizer;XenonGas;MonoPropellant;Ore
+		resourceAmounts = 6480;7920;189000;8460;6750
+		basePartMass = 4.5
+		tankMass = 0.0;0.0;10.35;0;4.5
+	}
+}
+@PART[TPtank3m2mA]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 2284.2,2791.8;4568.4;5583.6
+		basePartMass = 3.1725
+	}
+}
+@PART[TPtank3m2mA2]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 1370.52,1675.08;2741.04;3350.16
+		basePartMass = 1.9035
+	}
+}
+@PART[TPtank2m1mA]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 360,440;720;880
+		basePartMass = 0.5
+	}
+}
+@PART[TPtank1m0mA]:FOR[FuelTanksPlus]:NEEDS[!InterstellarFuelSwitch|InterstellarFuelSwitch&!CryoEngines]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch|CryoEngines] = FSfuelSwitch
+		name:NEEDS[InterstellarFuelSwitch&!CryoEngines] = InterstellarFuelSwitch
+		resourceGui:NEEDS[InterstellarFuelSwitch] = LiquidFuel+Oxidizer;LiquidFuel;Oxidizer
+		resourceNames = LiquidFuel,Oxidizer;LiquidFuel;Oxidizer
+		resourceAmounts = 45,55;90;110
+		basePartMass = 0.0625
+	}
+}
+@PART[TP*]:HAS[@]:NEEDS[InterstellarFuelSwitch]
+{
+    	@MODULE[InterstellarFuelSwitch]
+	{
+		%volumeMultiplier = 1
+    		%massMultiplier = 1
+	}
+}
+//@PART[TP*]:HAS[#module[FSfuelSwitch]]:NEEDS[FSfuelSwitch]
+//{
+//	!RESOURCE[LiquidFuel] {}
+//	!RESOURCE[Oxidizer] {}
+//}
