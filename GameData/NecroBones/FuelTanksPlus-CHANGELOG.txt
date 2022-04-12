@@ -1,3 +1,8 @@
+1.0.4 (2015-07-31) - Tweaks.
+ - Now including a (disabled by default) Module Manager config for re-enabling deprecated parts in the VAB/SPH.
+    - This should not be relied upon as a long-term solution. 
+ - Corrected a mistake with dry-mass of the FLT-50-FTP tank in the fuel switching config. 
+
 1.0.3 (2015-07-18) - Tweaks.
  - Will now start including ModuleManager and the InterstellerFuelSwitch folders in the zip archive.
  - Addressed an issue with the old deprecated parts showing up in the manufacturer's tab.
