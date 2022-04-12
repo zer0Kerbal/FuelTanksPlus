@@ -1,3 +1,7 @@
+2.0 (2018-03-12) - Overhaul for 1.4
+ - Altered color/mesh switching to use new 1.4 stock switcher (except the radial tanks).
+ - Note: Saved colors in existing vessels may need to be manually updated or relaunched to correct.
+
 1.12.1 (2017-04-09) - MFT fix.
  - Corrected some MM patch issues for ModularFuelTanks.
 

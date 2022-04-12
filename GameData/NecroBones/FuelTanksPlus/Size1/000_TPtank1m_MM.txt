@@ -1,0 +1,75 @@
+@PART[TP*]:HAS[#FTPcolorSwitch[1m]]:AFTER[FuelTanksPlus]
+{
+	@MODEL
+	{
+		texture = TPtank0m-Specular, FuelTanksPlus/Size0/TPtank0m-Specular
+		texture = TPtank2m-Specular, FuelTanksPlus/Size2/TPtank2m-Specular
+	}
+}
+@PART[TP*]:HAS[#FTPcolorSwitch[1m]]:NEEDS[Firespitter|InterstellarFuelSwitch]:AFTER[FuelTanksPlus]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch] = FSmeshSwitch
+		name:NEEDS[InterstellarFuelSwitch] = InterstellarMeshSwitch
+		objects = TPtank1m-White;TPtank1m-Checkered;TPtank1m-Black;TPtank1m-Green;TPtank1m-Blue;TPtank1m-0mRed;TPtank1m-2mRed;TPtank1m-2mBlue
+		objectDisplayNames = Vega;Redstone;Vanguard;Soyuz;Delta;Titan;Atlas;Blue
+		affectColliders = false
+		buttonName = Next Color Scheme
+		previousButtonName = Previous Color Scheme
+	}
+	!FTPcolorSwitch = delete
+}
+
+@PART[TP*]:HAS[#FTPcolorSwitch[1m]]:NEEDS[B9PartSwitch&!Firespitter&!InterstellarFuelSwitch]:AFTER[FuelTanksPlus]
+{
+	MODULE
+	{
+		name = ModuleB9PartSwitch
+		moduleID = meshSwitch
+		switcherDescription = Color Scheme
+		affectDragCubes = false
+
+		SUBTYPE
+		{
+			name = Vega
+			transform = TPtank1m-White
+		}
+		SUBTYPE
+		{
+			name = Redstone
+			transform = TPtank1m-Checkered
+		}
+		SUBTYPE
+		{
+			name = Vanguard
+			transform = TPtank1m-Black
+		}
+		SUBTYPE
+		{
+			name = Soyuz
+			transform = TPtank1m-Green
+		}
+		SUBTYPE
+		{
+			name = Delta
+			transform = TPtank1m-Blue
+		}
+		SUBTYPE
+		{
+			name = Titan
+			transform = TPtank1m-0mRed
+		}
+		SUBTYPE
+		{
+			name = Atlas
+			transform = TPtank1m-2mRed
+		}
+		SUBTYPE
+		{
+			name = Blue
+			transform = TPtank1m-2mBlue
+		}
+	}
+	!FTPcolorSwitch = delete
+}
