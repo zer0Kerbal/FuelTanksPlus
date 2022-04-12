@@ -509,7 +509,7 @@
 
 ---
 
-## 0.3 (2015-02-02) - Beta, more tanks
+## 0.3.0.0-beta (2015-02-02) - Beta, more tanks
 
 * Added three 0.625m tanks.
 * closes #31 - 0.3 (2015-02-02) - Beta, more tanks
