@@ -1,3 +1,10 @@
+0.11 (2015-06-12) - New things.
+ - Added support for Modular Fuel Systems (Modular Fuel Tanks).
+ - Added support for Deadly Reentry.
+ - Added white and orange double-length tanks.
+ - Added 3.75m nuclear (LF-only) tank (one length for now). 
+ - Reconverted textures to DDS format (again).
+
 0.10.1 (2015-05-28) - Appearance tweaks.
  - Altered sheen/specular on nuclear LF tanks, and size 3 "silver" tanks.
  - corrected a mesh mistake on the 2.5m nuclear tanks.
