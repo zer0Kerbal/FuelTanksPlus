@@ -1,5 +1,9 @@
+1.0.1 (2015-07-17) - Tweaks.
+ - Added more preferential use of InterstellarFuelSwitch over the Firespitter system for all switchers.
+ - Interstellar is now preferred over Firespitter, but either will work. 
+
 1.0 (2015-07-17) - Major Overhaul.
- - Updated to version "1.0" to indicate large-scale voerhaul (major version revision).
+ - Updated to version "1.0" to indicate large-scale overhaul (major version revision).
  - Consolidated same-size tanks into single menu objects, with tweakables to choose appearance.
  - Now requires Module Manager and the Firespitter Core as dependencies to function.
  - Old single-color tanks are deprecated, but temporarily included for compatiblity. 
