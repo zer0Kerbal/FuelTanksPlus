@@ -483,7 +483,7 @@
 
 ---
 
-## 0.6 (2015-03-02) - Beta, tweaks
+## 0.6.0.0-beta (2015-03-02) - Beta, tweaks
 
 * Adjusted normals (light/shadow angles) on many of the fuel tanks.
 * Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com>
