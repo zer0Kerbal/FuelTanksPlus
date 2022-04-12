@@ -1,3 +1,7 @@
+0.10 (2015-05-22) - More tanks.
+ - Added a pair of 1.25m nose cone fuel tanks.
+ - Added 3 tiers of single-propellant radial tanks (LF, Oxidizer, or MonoProp)
+
 0.9.1 (2015-05-19) - Hot fix.
  - Fixed Interstellar Fuel Switch config for S3-10800 tank.
 
