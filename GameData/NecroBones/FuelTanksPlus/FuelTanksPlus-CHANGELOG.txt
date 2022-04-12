@@ -1,3 +1,9 @@
+1.2.2 (2015-10-08) - Tweaks.
+ - Renamed the 0.625m red variant "Titan", after the thrust vectoring tanks on the Centaur/Titan LOWER STAGE rocket boosters.
+ - Corrected the attachment node size on the adapter fuel tanks.
+ - Moved the 0.625m-1.25m adapter tank to the "Miniaturization" tech node.
+ - Moved the 1.25m-2.5m adapter tank down to the "Fuel Systems" tech node.
+
 1.2.1 (2015-09-14) - Tweaks.
  - Renamed the 0.625m red variant "Centaur", after the thrust vectoring tanks on the Centaur rocket boosters.
  - Added missing TweakScale settings for 1.25m nose cones.
