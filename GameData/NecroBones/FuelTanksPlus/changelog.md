@@ -446,7 +446,7 @@
 
 ---
 
-## 0.8 (2015-04-28) - Beta + KSP 1.0 updates
+## 0.8.0.0-beta (2015-04-28) - Beta + KSP 1.0 updates
 
 * Corrected Xenon options for Fuel Switcher.
 * KSP 1.0 fixes, including but not limited to:
