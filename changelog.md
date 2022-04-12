@@ -13,6 +13,8 @@
 ## 2.0.2 (2018-03-14) - RCS fixes
 
 * Rebalanced the smaller monopropellant tanks to match their stock counterparts.
+* closes #78 - 2.0.2 (2018-03-14) - RCS fixes
+* updates #26 - Previous Releases
 
 ---
 
@@ -20,6 +22,8 @@
 
 * Removed shrouds from nuclear tanks and added them to the color-switcher (just one color currently)
 * Removed extraneous IFS/FS/B9 configs from the size-0 tanks.
+* closes #77 - 2.0.1 (2018-03-13) - Minor fixes
+* updates #26 - Previous Releases
 
 ---
 
@@ -28,12 +32,16 @@
 * Altered color/mesh switching to use new 1.4 stock switcher (except the radial tanks).
 * Note: Saved colors in existing vessels may need to be manually updated or relaunched to correct.
 * Removed most end-cap shrouds.
+* closes #76 - 2.0.0 (2018-03-12) - Overhaul for 1.
+* updates #26 - Previous Releases
 
 ---
 
 ## 1.12.1 (2017-04-09) - MFT fix
 
 * Corrected some MM patch issues for ModularFuelTanks.
+* closes #75 - 1.12.1 (2017-04-09) - MFT fix
+* updates #26 - Previous Releases
 
 ---
 
@@ -44,6 +52,8 @@
 * Changed ModularFuelTanks config to use consolidated wildcard patch.
 * Removed "cryogenic" tank type assignments from the MFT configs.
 * Stack decouplers in sizes 1.25m, 2.5m, and 3.75m collider updates, now actually hollow.
+* closes #74 - 1.12 (2017-04-07) - Tweaks & Fixes
+* updates #26 - Previous Releases
 
 ---
 
@@ -51,6 +61,8 @@
 
 * Includes a "Kerbal X Plus" sample rocket, provided by StevieC (untested on my side, so far).
 * Updated categories for decouplers.
+* closes #73 - 1.11 (2016-10-10) - KSP 1.2 update
+* updates #26 - Previous Releases
 
 ---
 
@@ -58,12 +70,16 @@
 
 * Altered switcher priorities for mesh switching, to match fuel switching rules.
 * Added color choices from some adjacent diameters to the 1.25m and 2.5m tanks.
+* closes #72 - 1.10 (2016-06-04) - Update
+* updates #26 - Previous Releases
 
 ---
 
 ## 1.9.3 (2016-05-10) - Tweaks
 
 * Altered the color-switching rules to be based on variables rather than part names, for more flexibility and support for part duplication.
+* closes #71 - 1.9.3 (2016-05-10) - Tweaks
+* updates #26 - Previous Releases
 
 ---
 
@@ -71,6 +87,8 @@
 
 * Added InterstellarFuelSwitch 2.0.2 flags to re-tie radial tank texture to fuel type.
 * Reduced dry mass of radial tanks when containing MonoPropellant, to better match stock tanks (Firespitter and InterstellarFuelSwitch).
+* closes #70 - 1.9.2 (2016-05-07) - Fuel Switching Tweaks
+* updates #26 - Previous Releases
 
 ---
 
@@ -79,6 +97,8 @@
 * Added minimum tech requirements for some fuels in the fuel switchers, when using InterstellarFuelSwitch 2.0.1+.
 * InterstellarFuelSwitch GUI names updated for IFS 2.0.1.
 * InterstellarFuelSwitch prioritized ahead of B9PartSwitch to take advantage of tech levels.
+* closes #69 - 1.9.1 (2016-05-06) - Fuel Switching Tweaks
+* updates #26 - Previous Releases
 
 ---
 
@@ -91,6 +111,8 @@
   * Radial tanks with texture-switching still rely on FS/IFS for now. Non-switching if only B9 is installed.
   * B9 mesh switching has been set not to regenerate drag cubes while attaching in the editors.
 * Crossfeed available (globally!) for radially attached parts, enable button added to radial tanks.
+* closes #68 - 1.9 (2016-05-06) - Update
+* updates #26 - Previous Releases
 
 ---
 
@@ -99,18 +121,24 @@
 * Various small clean-ups in the fuel-switching config.
 * Fixed a mistake in 1.8.2 that was preventing InterstellarFuelSwitch integration from working correctly.
 * Started on FuelSwitch compatibility with B9PartSwitch, currently mixed module configuration.
+* closes #67 - 1.8.3 (2016-04-29) - Hotfix + Tweaks
+* updates #26 - Previous Releases
 
 ---
 
 ## 1.8.2 (2016-04-28) - Mesh switching compatibility
 
 * Added support for B9PartSwitch. Firespitter and InterstellarFuelSwitch still work too, of course.
+* closes #66 - 1.8.2 (2016-04-28) - Mesh switching compatibility
+* updates #26 - Previous Releases
 
 ---
 
 ## 1.8.1 (2016-04-24) - KSP 1.1 minor update
 
 * Fix for fuel-switching to properly disable when something else is adding it (such as CryoEngines), relating to change in ModuleManager's logic.
+* closes #65 - 1.8.1 (2016-04-24) - KSP 1.1 minor update
+* updates #26 - Previous Releases
 
 ---
 
@@ -118,6 +146,8 @@
 
 * Added search tags.
 * Updated included copies of dependencies to 1.1 compatible versions.
+* closes #64 - 1.8 (2016-04-02) - KSP 1.1 minor update
+* updates #26 - Previous Releases
 
 ---
 
@@ -134,6 +164,8 @@
     * http://ksp.necrobones.com/files/FuelTanksPlus/
     * CKAN
 * Moved ModuleManager patches to a "Patches" folder.
+* closes #63 - 1.7 (2016-03-11) Minor fixes, removal of deprecated parts.	ty
+* updates #26 - Previous Releases
 
 ---
 
@@ -141,6 +173,8 @@
 
 * Increased propellant and thrust for 2.5m and 3.75m decouplers.
 * Sharpened the appearance of the checkered 1.25m long tank (Mercury setting).
+* closes #62 - 1.6 (2016-01-11) - Tweaks
+* updates #26 - Previous Releases
 
 ---
 
@@ -157,12 +191,16 @@
   * May need to delete ATM's cache if using ATM and some textures still aren't appearing.
 * Replaced some placeholder images with smaller versions that will be more obvious when reassignment fails.
 * Corrected a typo with Agency mentality.
+* closes #61 - 1.5 (2015-12-17) - Tweaks
+* updates #26 - Previous Releases
 
 ---
 
 ## 1.4 (2015-12-04) - Update
 
 * Added stack decouplers with built-in separation motors, and color-changing capability.
+* closes #60 - 1.4 (2015-12-04) - Update
+* updates #26 - Previous Releases
 
 ---
 
@@ -170,6 +208,8 @@
 
 * Corrected the fuel-switching capacities for the 0.625m tanks.
 * Added missing placeholder textures in Size1 category.
+* closes #59 - 1.3.1 (2015-11-11) - Tweaks
+* updates #26 - Previous Releases
 
 ---
 
@@ -180,6 +220,8 @@
 * Added 1.25m semi-spherical bottom tank.
 * Added "half height" monopropellant tanks for 0.625m, 1.25m, 2.5m, and 3.75m.
 * Minor consolidation in TweakScale configs.
+* closes #58 - 1.3 (2015-10-21) - Update
+* updates #26 - Previous Releases
 
 ---
 
@@ -189,6 +231,8 @@
 * Corrected the attachment node size on the adapter fuel tanks.
 * Moved the 0.625m-1.25m adapter tank to the "Miniaturization" tech node.
 * Moved the 1.25m-2.5m adapter tank down to the "Fuel Systems" tech node.
+* closes #57 - 1.2.2 (2015-10-08) - Tweaks
+* updates #26 - Previous Releases
 
 ---
 
@@ -196,6 +240,8 @@
 
 * Renamed the 0.625m red variant "Centaur", after the thrust vectoring tanks on the Centaur rocket boosters.
 * Added missing TweakScale settings for 1.25m nose cones.
+* closes #56 - 1.2.1 (2015-09-14) - Tweaks
+* updates #26 - Previous Releases
 
 ---
 
@@ -208,12 +254,16 @@
   * Added TweakScale (adapter) settings.
   * Added Modular Fuel Tanks settings.
   * Added Fuel Switch settings.
+* closes #55 - 1.2 (2015-08-31) - Minor update
+* updates #26 - Previous Releases
 
 ---
 
 ## 1.1.1 (2015-08-27) - Hotfix
 
 * Corrected the transparent meshes in the FL-T50 fuel tank.
+* closes #54 - 1.1.1 (2015-08-27) - Hotfix
+* updates #26 - Previous Releases
 
 ---
 
@@ -227,6 +277,8 @@
 * Added 2.5m to 3.75m adapter tank.
 * Added 1.25m to 2.5m adapter tank.
 * Added 0.625m to 1.25m adapter tank.
+* closes #53 - 1.1 (2015-08-27) - Fixes, New things
+* updates #26 - Previous Releases
 
 ---
 
@@ -235,6 +287,8 @@
 * Moved README and CHANGELOG to mod's folder.
 * Fixed a problem with one of the RP-400 radial tank's fuel combinations having a dry mass of 125 tons.
 * Lowered the dry mass of radial tanks for non-monopropellant configurations.
+* closes #52 - 1.0.5 (2015-08-23) - Bug fix
+* updates #26 - Previous Releases
 
 ---
 
@@ -243,6 +297,8 @@
 * Now including a (disabled by default) Module Manager config for re-enabling deprecated parts in the VAB/SPH.
   * This should not be relied upon as a long-term solution.
 * Corrected a mistake with dry-mass of the FLT-50-FTP tank in the fuel switching config.
+* closes #51 - 1.0.4 (2015-07-31) - Tweaks
+* updates #26 - Previous Releases
 
 ---
 
@@ -251,12 +307,16 @@
 * Will now start including ModuleManager and the InterstellerFuelSwitch folders in the zip archive.
 * Addressed an issue with the old deprecated parts showing up in the manufacturer's tab.
 * Added warnings to deprecated parts' descriptions, just in case they show up in a menu somewhere.
+* closes #50 - 1.0.3 (2015-07-18) - Tweaks
+* updates #26 - Previous Releases
 
 ---
 
 ## 1.0.2 (2015-07-17) - Tweaks
 
 * Fix for small probe tanks to use InterstellarFuelSwitch properly for appearance changes.
+* closes #49 - 1.0.2 (2015-07-17) - Tweaks
+* updates #26 - Previous Releases
 
 ---
 
@@ -264,6 +324,8 @@
 
 * Added more preferential use of InterstellarFuelSwitch over the Firespitter system for all switchers.
 * Interstellar is now preferred over Firespitter, but either will work.
+* closes #48 - 1.0.1 (2015-07-17) - Tweaks
+* updates #26 - Previous Releases
 
 ---
 
@@ -290,6 +352,8 @@
   * "Nuclear" tanks now have LF, Oxidizer, Monopropellant, and Xenon options, but remain single-propellant tanks.
 * Various minor mesh/texture fixes.
 * Restored flag and agency icons to PNG format instead of DDS.
+* closes #47 - 1.0 (2015-07-17) - Major Overhaul
+* updates #26 - Previous Releases
 
 ---
 
@@ -297,6 +361,8 @@
 
 * Corrected a mistake in Modular Fuel Tanks config for the cube tanks.
 * Added an optional "FuelTanksPlus_RemoveShrouds" ModuleManager config. To disable auto-shrouds, change from "txt" to "cfg".
+* closes #46 - 0.11.2 (2015-07-06) - Minor update
+* updates #26 - Previous Releases
 
 ---
 
@@ -304,6 +370,8 @@
 
 * Added white 3.75m 2x tank.
 * Added missing MFT/IFS configs for the 3.75m nuke tank.
+* closes #45 - 0.11.1 (2015-06-14) - One more tank
+* updates #26 - Previous Releases
 
 ---
 
@@ -314,6 +382,8 @@
 * Added white and orange double-length 2.5m tanks.
 * Added 3.75m nuclear (LF-only) tank (one length for now).
 * Reconverted textures to DDS format (again).
+* closes #44 - 0.11 (2015-06-12) - New things
+* updates #26 - Previous Releases
 
 ---
 
@@ -321,6 +391,8 @@
 
 * Altered sheen/specular on nuclear LF tanks, and size 3 "silver" tanks.
 * corrected a mesh mistake on the 2.5m nuclear tanks.
+* closes #43 - 0.10.1 (2015-05-28) - Appearance tweaks
+* updates #26 - Previous Releases
 
 ---
 
@@ -328,12 +400,16 @@
 
 * Added a pair of 1.25m nose cone fuel tanks
 * Added 3 tiers of single-propellant radial tanks (LF, Oxidizer, or MonoProp)
+* closes #42 - 0.10 (2015-05-22) - More tanks
+* updates #26 - Previous Releases
 
 ---
 
 ## 0.9.1 (2015-05-19) - Hot fix
 
 * Fixed Interstellar Fuel Switch config for S3-10800 tank.
+* closes #41 - 0.9.1 (2015-05-19) - Hot fix
+* updates #26 - Previous Releases
 
 ---
 
@@ -342,6 +418,8 @@
 * Re-balanced the Oscar-like tanks to correspond to the Oscar-B changes.
 * Adjusted Interstellar Fuel Switch config to not load if CryoEngines is installed (so Cryo can do the right thing).
 * Added LF-only tanks (1.25m and 2.5m) for use with nuclear engines.
+* closes #40 - 0.9 (2015-05-19) - Balance tweaks, Nuclear tanks
+* updates #26 - Previous Releases
 
 ---
 
@@ -349,6 +427,8 @@
 
 * Tweaked attachment node priority order on many tanks for easier attachment in the VAB.
 * Changed the "fuel switching" configs to support Interstellar Fuel Switch.
+* closes #39 - 0.8.2 (2015-05-08) - Fixes, 1.0.2 tweaks
+* updates #26 - Previous Releases
 
 ---
 
@@ -356,6 +436,8 @@
 
 * Corrected the S3-2400 Titan nose tank to be in Large Volume Containment tech node.
 * Converted textures to DDS format.
+* closes #38 - 0.8.1 (2015-05-01) - Fixes, 1.0.1 tweaks
+* updates #26 - Previous Releases
 
 ---
 
@@ -369,12 +451,16 @@
   * Fixed bottom attachment nodes
   * Added attachment profile settings
   * Increased scale of "triangular" tanks by 25% to make them align nicely with the small cubes.
+* closes #37 - 0.8 (2015-04-28) - Beta + KSP 1.0 updates
+* updates #26 - Previous Releases
 
 ---
 
 ## 0.7.1 (2015-03-25) - Beta
 
 * Corrected fuel capacity of the FL-T50 fuel tank.
+* closes #36 - 0.7.1 (2015-03-25) - Beta
+* updates #26 - Previous Releases
 
 ---
 
@@ -384,12 +470,16 @@
 * Corrected the attachment node size for the 3.75m nose cone tanks.
 * Added "bottom" dome parts for external tanks, in both 2.5m and 3.75m.
 * Added FL-T50 fuel tank.
+* closes #35 - 0.7 (2015-03-19) - Beta
+* updates #26 - Previous Releases
 
 ---
 
 ## 0.6 (2015-03-02) - Beta, tweaks
 
 * Adjusted normals (light/shadow angles) on many of the fuel tanks.
+* closes #34 - 0.6 (2015-03-02) - Beta, tweaks
+* updates #26 - Previous Releases
 
 ---
 
@@ -399,6 +489,8 @@
   * Three LFO "cube" tanks in varying sizes.
   * Two "triangular" tanks, one with LFO and the other with Xenon.
 * Added support for Fuel Switcher.
+* closes #33 - 0.5 (2015-02-18) - Beta, probes
+* updates #26 - Previous Releases
 
 ---
 
@@ -412,29 +504,39 @@
 * Added three more 0.625m "Oscar" tanks in several sizes, with a spread of mass/fuel/size ratios to fill the gaps.
 * Added Orange/White 2.5m and 3.75m tanks that are 3/4 the length of the longest stock tanks in those sizes.
 * Added white 2.5m and 3.75m tanks that are half the length of the smallest stock tanks in those sizes.
+* closes #32 - 0.4 (2015-02-07) - Beta
+* updates #26 - Previous Releases
 
 ---
 
 ## 0.3 (2015-02-02) - Beta, more tanks
 
 * Added three 0.625m tanks.
+* closes #31 - 0.3 (2015-02-02) - Beta, more tanks
+* updates #26 - Previous Releases
 
 ---
 
 ## 0.2.1 (2015-01-28) - Beta fixes
 
 * Removed excess oxidizer from fueled nose cones.
+* closes #30 - 0.2.1 (2015-01-28) - Beta fixes
+* updates #26 - Previous Releases
 
 ---
 
 ## 0.2 (2015-01-28) - `More tanks!`
 
 * Added three 1.25m tanks.
+* closes #29 - 0.2 (2015-01-28) - More tanks
+* updates #26 - Previous Releases
 
 ---
 
 ## 0.1 (2015-01-23) - Initial Beta
 
 * First release.
+* closes #28 - 0.0.1.0 (2015-01-23) - Initial Beta
+* updates #26 - Previous Releases
 
 ---
