@@ -1,3 +1,6 @@
+1.12.1 (2017-04-09) - MFT fix.
+ - Corrected some MM patch issues for ModularFuelTanks.
+
 1.12 (2017-04-07) - Tweaks & Fixes.
  - Corrected a typo that was preventing the B9PartSwitch patches from applying correctly on the radial tanks.
  - Slightly increased the performance of the 2m/3m stack decouplers, and increased their propellant maximums.
