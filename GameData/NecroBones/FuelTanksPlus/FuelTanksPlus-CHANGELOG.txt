@@ -1,3 +1,26 @@
+1.0 (2015-07-17) - Major Overhaul.
+ - Updated to version "1.0" to indicate large-scale voerhaul (major version revision).
+ - Consolidated same-size tanks into single menu objects, with tweakables to choose appearance.
+ - Now requires Module Manager and the Firespitter Core as dependencies to function.
+ - Old single-color tanks are deprecated, but temporarily included for compatiblity. 
+    - Will not be re-usable in VAB from menus, but saved vessels will still load with a warning. 
+    - PLEASE DISCONTINUE USE ASAP, from both saved vessels and deployed vessels in the world.
+    - Replace with new versions from the menus, to use the new features.
+    - These will be removed in a subsequent update, eventually.
+ - Added color options to tank sizes that were "missing", now that the options no longer spams the menus.
+ - New additional color choices:
+    - size 0: White/Black
+    - Size 1: Black
+    - Size 2: Black, White/Black
+    - Size 3: Black, White/Black, Orange
+ - Fuel switching turned on by default. 
+    - Will still use Interstellar Fuel Switch if available, otherwise defaults to FSfuelSwitch.
+    - Radial canister tanks switch fuels with color selection.
+    - Small "probe" tanks now have choices between LFO, Xenon, or Monopropellant.
+    - "Nuclear" tanks now have LF, Oxidizer, Monopropellant, and Xenon options, but remain single-propellant tanks.
+ - Various minor mesh/texture fixes.
+ - Restored flag and agency icons to PNG format instead of DDS.
+
 0.11.2 (2015-07-06) - Minor update.
  - Corrected a mistake in Modular Fuel Tanks config for the cube tanks.
  - Added an optional "FuelTanksPlus_RemoveShrouds" ModuleManager config. To disable auto-shrouds, change from "txt" to "cfg".
