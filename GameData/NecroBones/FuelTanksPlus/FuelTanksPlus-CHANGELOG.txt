@@ -1,3 +1,7 @@
+1.8 (2016-04-02) - KSP 1.1 minor update.
+ - Added search tags.
+ - Updated included copies of dependencies to 1.1 compatible versions.
+
 1.7 (2016-03-11) Minor fixes, removal of deprecated parts.
  - Corrected capitalization of "ModularFuelTanks" in the fuel-switching rules.
  - Added MonoPropellant as a choice for LFO tanks in the fuel-switching rules.
@@ -6,9 +10,9 @@
     - Still available via optional compatibility pack "Fuel Tanks Plus Deprecated".
     - These parts were disabled in FTP more than 6 months ago. Deprecation pack only needed for vessels built before then.
     - Available in these locations:
-       - http://spacedock.info/mod/387/Fuel%20Tanks%20Plus%20Deprecated
-       - http://ksp.necrobones.com/files/FuelTanksPlus/
-       - CKAN
+        - http://spacedock.info/mod/387/Fuel%20Tanks%20Plus%20Deprecated
+        - http://ksp.necrobones.com/files/FuelTanksPlus/
+        - CKAN
  - Moved ModuleManager patches to a "Patches" folder.
 
 1.6 (2016-01-11) - Tweaks.
