@@ -494,7 +494,7 @@
 
 ---
 
-## 0.4 (2015-02-07) - Beta
+## 0.4.0.0-beta (2015-02-07) - Beta
 
 * Fixed the cap-shrouds to be hidden from the menu icons for the 1.25m tanks.
 * Changed TweakScale config to use wildcards instead of duplicating settings for every tank.

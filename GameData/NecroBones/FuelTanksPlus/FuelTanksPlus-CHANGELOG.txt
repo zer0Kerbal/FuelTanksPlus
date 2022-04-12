@@ -1,3 +1,13 @@
+0.4 (2015-02-07) - Beta
+ - Fixed the cap-shrouds to be hidden from the menu icons for the 1.25m tanks.
+ - Changed TweakScale config to use wildcards instead of duplicating settings for every tank.
+ - Altered appearance of the grey "Oscar" 0.62m tank to have fewer ribs.
+ - Renamed most tanks to have better name sorting alongside the stock tanks. 
+ - Mildly increased torque/breaking strength on 1.25m, 2.5m, and 3.75m cylindrical tanks.
+ - Added three more 0.625m "Oscar" tanks in several sizes, with a spread of mass/fuel/size ratios to fill the gaps.
+ - Added Orange/White 2.5m and 3.75m tanks that are 3/4 the length of the longest stock tanks in those sizes.
+ - Added white 2.5m and 3.75m tanks that are half the length of the smallest stock tanks in those sizes.
+
 0.3 (2015-02-02) - Beta, more tanks
  - Added three 0.625m tanks.
 
