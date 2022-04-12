@@ -8,8 +8,8 @@ Installation:
 1. Simply copy the "FuelTanksPlus" folder into your GameData folder. If upgrading from a 
 previous version, be sure to delete the old one from GameData first (this is the cleanest option).
 
-2. Also make sure you have a current copy of ModuleManager, and the Firespitter Core (DLL). These
-can be found through CKAN or KerbalStuff.
+2. Also make sure you have a current copy of ModuleManager, and either the Firespitter Core (DLL) or
+the Intersteller Fuel Switch mod (preferred). These can be found through CKAN or KerbalStuff.
 
 
 

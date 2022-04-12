@@ -259,15 +259,16 @@
 
 ---
 
-## 1.1.1 (2015-08-27) - Hotfix
+## 1.1.1.0 (2015-08-27) - Hotfix
 
 * Corrected the transparent meshes in the FL-T50 fuel tank.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #54 - 1.1.1 (2015-08-27) - Hotfix
 * updates #26 - Previous Releases
 
 ---
 
-## 1.1 (2015-08-27) - Fixes, New things
+## 1.1.0.0 (2015-08-27) - Fixes, New things
 
 * Added a blue "Delta" variant at the 1.25m size, historically inspired by Delta, Delta II, etc.
 * Renamed 2.5m colors, to be more historically minded with regards to Delta IV and Delta IV Heavy.
@@ -277,53 +278,59 @@
 * Added 2.5m to 3.75m adapter tank.
 * Added 1.25m to 2.5m adapter tank.
 * Added 0.625m to 1.25m adapter tank.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #53 - 1.1 (2015-08-27) - Fixes, New things
 * updates #26 - Previous Releases
 
 ---
 
-## 1.0.5 (2015-08-23) - Bug fix
+## 1.0.5.0 (2015-08-23) - Bug fix
 
 * Moved README and CHANGELOG to mod's folder.
 * Fixed a problem with one of the RP-400 radial tank's fuel combinations having a dry mass of 125 tons.
 * Lowered the dry mass of radial tanks for non-monopropellant configurations.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #52 - 1.0.5 (2015-08-23) - Bug fix
 * updates #26 - Previous Releases
 
 ---
 
-## 1.0.4 (2015-07-31) - Tweaks
+## 1.0.4.0 (2015-07-31) - Tweaks
 
 * Now including a (disabled by default) Module Manager config for re-enabling deprecated parts in the VAB/SPH.
   * This should not be relied upon as a long-term solution.
 * Corrected a mistake with dry-mass of the FLT-50-FTP tank in the fuel switching config.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #51 - 1.0.4 (2015-07-31) - Tweaks
 * updates #26 - Previous Releases
 
 ---
 
-## 1.0.3 (2015-07-18) - Tweaks
+## 1.0.3.0 (2015-07-18) - Tweaks
 
 * Will now start including ModuleManager and the InterstellerFuelSwitch folders in the zip archive.
 * Addressed an issue with the old deprecated parts showing up in the manufacturer's tab.
 * Added warnings to deprecated parts' descriptions, just in case they show up in a menu somewhere.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #50 - 1.0.3 (2015-07-18) - Tweaks
 * updates #26 - Previous Releases
 
 ---
 
-## 1.0.2 (2015-07-17) - Tweaks
+## 1.0.2.0 (2015-07-17) - Tweaks
 
 * Fix for small probe tanks to use InterstellarFuelSwitch properly for appearance changes.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #49 - 1.0.2 (2015-07-17) - Tweaks
 * updates #26 - Previous Releases
 
 ---
 
-## 1.0.1 (2015-07-17) - Tweaks
+## 1.0.1.0 (2015-07-17) - Tweaks
 
 * Added more preferential use of InterstellarFuelSwitch over the Firespitter system for all switchers.
 * Interstellar is now preferred over Firespitter, but either will work.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #48 - 1.0.1 (2015-07-17) - Tweaks
 * updates #26 - Previous Releases
 
