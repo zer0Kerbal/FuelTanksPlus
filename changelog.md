@@ -471,7 +471,7 @@
 
 ---
 
-## 0.7 (2015-03-19) - Beta
+## 0.7.0.0 (2015-03-19) - Beta
 
 * Moved the 3.75m nose cone tanks to the "Very Heavy Rocketry" tech node (alongside the other 3.75m tanks)
 * Corrected the attachment node size for the 3.75m nose cone tanks.
