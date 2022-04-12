@@ -1,4 +1,14 @@
-# Changelog
+# Changelog  
+  
+| modName    | Fuel Tanks Plus (FTP)                                            |
+| ---------- | ---------------------------------------------------------------- |
+| license    | CC-BY-NC-SA-4.0                                                  |
+| author     | NecroBones and zer0Kerbal                                        |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207702-*) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/FuelTanksPlus)         |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/FuelTanksPlus)       |
+| spacedock  | (https://spacedock.info/mod/92)                                  |
+| ckan       | FuelTanksPlus                                                    |
 
 ## 2.0.2 (2018-03-14) - RCS fixes
 
