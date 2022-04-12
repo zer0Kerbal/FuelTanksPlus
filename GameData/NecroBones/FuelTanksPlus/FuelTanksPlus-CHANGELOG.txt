@@ -1,3 +1,13 @@
+0.8 (2015-04-28) - Beta + KSP 1.0 updates
+ - Corrected Xenon options for Fuel Switcher.
+ - KSP 1.0 fixes, including but not limited to:
+    - Costs, max temps, and tech tree assignments of all fuel tanks
+    - Mass adjustments on 0.625m and 3.75m tanks
+    - Capacity adjustments on tanks close to Oscar-B
+    - Fixed bottom attachment nodes
+    - Added attachment profile settings
+    - Increased scale of "triangular" tanks by 25% to make them align nicely with the small cubes.
+
 0.7.1 (2015-03-25) - Beta
  - Corrected fuel capacity of the FL-T50 fuel tank.
 
