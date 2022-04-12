@@ -1,3 +1,7 @@
+1.10 (2016-06-04) - Update.
+ - Altered switcher priorities for mesh switching, to match fuel switching rules.
+ - Added color choices from some adjacent diameters to the 1.25m and 2.5m tanks.
+
 1.9.3 (2016-05-10) - Tweaks.
  - Altered the color-switching rules to be based on variables rather than part names, for more flexibility and support for part duplication.
 
