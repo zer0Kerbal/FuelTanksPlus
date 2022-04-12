@@ -1,6 +1,11 @@
-2.0 (2018-03-12) - Overhaul for 1.4
+2.0.1 (2018-03-13) - Minor fixes.
+ - Removed shrouds from nuclear tanks and added them to the color-switcher (just one color currently)
+ - Removed extraneous IFS/FS/B9 configs from the size-0 tanks.
+
+2.0.0 (2018-03-12) - Overhaul for 1.4
  - Altered color/mesh switching to use new 1.4 stock switcher (except the radial tanks).
  - Note: Saved colors in existing vessels may need to be manually updated or relaunched to correct.
+ - Removed most end-cap shrouds.
 
 1.12.1 (2017-04-09) - MFT fix.
  - Corrected some MM patch issues for ModularFuelTanks.
