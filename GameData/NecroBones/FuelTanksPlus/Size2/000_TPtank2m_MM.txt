@@ -1,0 +1,86 @@
+@PART[TP*]:HAS[#FTPcolorSwitch[2m]]:AFTER[FuelTanksPlus]
+{
+	@MODEL
+	{
+		texture = TPtank1m-Specular, FuelTanksPlus/Size1/TPtank1m-Specular
+		texture = TPtank3m-Specular, FuelTanksPlus/Size3/TPtank3m-Specular
+	}
+}
+@PART[TP*]:HAS[#FTPcolorSwitch[2m]]:NEEDS[Firespitter|InterstellarFuelSwitch]:AFTER[FuelTanksPlus]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch] = FSmeshSwitch
+		name:NEEDS[InterstellarFuelSwitch] = InterstellarMeshSwitch
+		objects = TPtank2m-Orange,TPtank2m-Orange2;TPtank2m-White;TPtank2m-Checkered;TPtank2m-Black;TPtank2m-Blue;TPtank2m-Red;TPtank2m-1mBlue;TPtank2m-1mGreen;TPtank2m-3mSilver;TPtank2m-3mTan
+		objectDisplayNames = Delta4;Antares;Gemini;Black;Blue;Atlas;Delta2;Soyuz;Titan;Ariane
+		affectColliders = false
+		buttonName = Next Color Scheme
+		previousButtonName = Previous Color Scheme
+	}
+	!FTPcolorSwitch = delete
+}
+
+@PART[TP*]:HAS[#FTPcolorSwitch[2m]]:NEEDS[B9PartSwitch&!Firespitter&!InterstellarFuelSwitch]:AFTER[FuelTanksPlus]
+{
+	MODULE
+	{
+		name = ModuleB9PartSwitch
+		moduleID = meshSwitch
+		switcherDescription = Color Scheme
+		affectDragCubes = false
+
+		SUBTYPE
+		{
+			name = Delta4
+			transform = TPtank2m-Orange
+			transform = TPtank2m-Orange2
+		}		
+		SUBTYPE
+		{
+			name = Antares
+			transform = TPtank2m-White
+		}		
+		SUBTYPE
+		{
+			name = Gemini
+			transform = TPtank2m-Checkered
+		}		
+		SUBTYPE
+		{
+			name = Black
+			transform = TPtank2m-Black
+		}		
+		SUBTYPE
+		{
+			name = Blue
+			transform = TPtank2m-Blue
+		}		
+		SUBTYPE
+		{
+			name = Atlas
+			transform = TPtank2m-Red
+		}
+		SUBTYPE
+		{
+			name = Delta2
+			transform = TPtank2m-1mBlue
+		}		
+		SUBTYPE
+		{
+			name = Soyuz
+			transform = TPtank2m-1mGreen
+		}
+		SUBTYPE
+		{
+			name = Titan
+			transform = TPtank2m-3mSilver
+		}		
+		SUBTYPE
+		{
+			name = Ariane
+			transform = TPtank2m-3mTan
+		}
+	}
+	!FTPcolorSwitch = delete
+}
