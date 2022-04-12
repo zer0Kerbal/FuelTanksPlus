@@ -483,12 +483,13 @@
 
 ---
 
-## 0.5 (2015-02-18) - Beta, probes
+## 0.5.0.0-beta (2015-02-18) - Beta, probes
 
 * Added several probe/satellite tanks:
   * Three LFO "cube" tanks in varying sizes.
   * Two "triangular" tanks, one with LFO and the other with Xenon.
 * Added support for Fuel Switcher.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com>
 * closes #33 - 0.5 (2015-02-18) - Beta, probes
 * updates #26 - Previous Releases
 
