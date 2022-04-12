@@ -1,3 +1,9 @@
+0.5 (2015-02-18) - Beta, probes
+ - Added several probe/satellite tanks:
+    - Three LFO "cube" tanks in varying sizes.
+    - Two "triangular" tanks, one with LFO and the other with Xenon.
+ - Added support for Fuel Switcher.
+
 0.4 (2015-02-07) - Beta
  - Fixed the cap-shrouds to be hidden from the menu icons for the 1.25m tanks.
  - Changed TweakScale config to use wildcards instead of duplicating settings for every tank.

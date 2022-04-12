@@ -483,12 +483,13 @@
 
 ---
 
-## 0.5 (2015-02-18) - Beta, probes
+## 0.5.0.0-beta (2015-02-18) - Beta, probes
 
 * Added several probe/satellite tanks:
   * Three LFO "cube" tanks in varying sizes.
   * Two "triangular" tanks, one with LFO and the other with Xenon.
 * Added support for Fuel Switcher.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com>
 * closes #33 - 0.5 (2015-02-18) - Beta, probes
 * updates #26 - Previous Releases
 
@@ -504,6 +505,7 @@
 * Added three more 0.625m "Oscar" tanks in several sizes, with a spread of mass/fuel/size ratios to fill the gaps.
 * Added Orange/White 2.5m and 3.75m tanks that are 3/4 the length of the longest stock tanks in those sizes.
 * Added white 2.5m and 3.75m tanks that are half the length of the smallest stock tanks in those sizes.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com>
 * closes #32 - 0.4 (2015-02-07) - Beta
 * updates #26 - Previous Releases
 
