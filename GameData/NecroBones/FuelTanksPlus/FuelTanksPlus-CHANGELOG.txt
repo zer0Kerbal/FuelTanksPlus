@@ -1,3 +1,7 @@
+1.2.1 (2015-09-14) - Tweaks.
+ - Renamed the 0.625m red variant "Centaur", after the thrust vectoring tanks on the Centaur rocket boosters.
+ - Added missing TweakScale settings for 1.25m nose cones.
+
 1.2 (2015-08-31) - Minor update.
  - Corrected a texture alignment problem with the 0.625m tanks when using reduced texture resolution.
  - Added new red color option to the 0.625m tanks.
