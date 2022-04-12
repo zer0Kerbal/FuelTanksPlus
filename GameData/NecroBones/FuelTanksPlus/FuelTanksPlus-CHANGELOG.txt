@@ -1,3 +1,6 @@
+2.0.2 (2018-03-14) - RCS fixes
+ - Rebalanced the smaller monopropellant tanks to match their stock counterparts.
+
 2.0.1 (2018-03-13) - Minor fixes.
  - Removed shrouds from nuclear tanks and added them to the color-switcher (just one color currently)
  - Removed extraneous IFS/FS/B9 configs from the size-0 tanks.
