@@ -329,7 +329,7 @@
 
 ---
 
-## 1.0 (2015-07-17) - Major Overhaul
+## 1.0.0.0 (2015-07-17) - Major Overhaul
 
 * Updated to version "1.0" to indicate large-scale overhaul (major version revision).
 * Consolidated same-size tanks into single menu objects, with tweakables to choose appearance.
@@ -352,36 +352,40 @@
   * "Nuclear" tanks now have LF, Oxidizer, Monopropellant, and Xenon options, but remain single-propellant tanks.
 * Various minor mesh/texture fixes.
 * Restored flag and agency icons to PNG format instead of DDS.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #47 - 1.0 (2015-07-17) - Major Overhaul
 * updates #26 - Previous Releases
 
 ---
 
-## 0.11.2 (2015-07-06) - Minor update
+## 0.11.2.0 (2015-07-06) - Minor update
 
 * Corrected a mistake in Modular Fuel Tanks config for the cube tanks.
 * Added an optional "FuelTanksPlus_RemoveShrouds" ModuleManager config. To disable auto-shrouds, change from "txt" to "cfg".
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #46 - 0.11.2 (2015-07-06) - Minor update
 * updates #26 - Previous Releases
 
 ---
 
-## 0.11.1 (2015-06-14) - `One more tank!`
+## 0.11.1.0 (2015-06-14) - `One more tank!`
 
 * Added white 3.75m 2x tank.
 * Added missing MFT/IFS configs for the 3.75m nuke tank.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #45 - 0.11.1 (2015-06-14) - One more tank
 * updates #26 - Previous Releases
 
 ---
 
-## 0.11 (2015-06-12) - New things
+## 0.11.0.0 (2015-06-12) - New things
 
 * Added support for Modular Fuel Systems (Modular Fuel Tanks).
 * Added support for Deadly Reentry.
 * Added white and orange double-length 2.5m tanks.
 * Added 3.75m nuclear (LF-only) tank (one length for now).
 * Reconverted textures to DDS format (again).
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #44 - 0.11 (2015-06-12) - New things
 * updates #26 - Previous Releases
 
@@ -391,6 +395,7 @@
 
 * Altered sheen/specular on nuclear LF tanks, and size 3 "silver" tanks.
 * corrected a mesh mistake on the 2.5m nuclear tanks.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #43 - 0.10.1 (2015-05-28) - Appearance tweaks
 * updates #26 - Previous Releases
 
