@@ -1,3 +1,6 @@
+1.4 (2015-12-04) - Update.
+ - Added stack decouplers with built-in separation motors, and color-changing capability.
+
 1.3.1 (2015-11-11) - Tweaks.
  - Corrected the fuel-switching capacities for the 0.625m tanks.
  - Added missing placeholder textures in Size1 category.
