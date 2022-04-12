@@ -196,7 +196,7 @@
 
 ---
 
-## 1.4 (2015-12-04) - Update
+## 1.4.0.0 (2015-12-04) - Update
 
 * Added stack decouplers with built-in separation motors, and color-changing capability.
 * closes #60 - 1.4 (2015-12-04) - Update
@@ -204,7 +204,7 @@
 
 ---
 
-## 1.3.1 (2015-11-11) - Tweaks
+## 1.3.1.0 (2015-11-11) - Tweaks
 
 * Corrected the fuel-switching capacities for the 0.625m tanks.
 * Added missing placeholder textures in Size1 category.
@@ -213,7 +213,7 @@
 
 ---
 
-## 1.3 (2015-10-21) - Update
+## 1.3.0.0 (2015-10-21) - Update
 
 * Adjusted MM configs so that color switching buttons appear after fuel switching in menus.
 * Added 0.625 semi-spherical cap tank.
@@ -225,7 +225,7 @@
 
 ---
 
-## 1.2.2 (2015-10-08) - Tweaks
+## 1.2.2.0 (2015-10-08) - Tweaks
 
 * Renamed the 0.625m red variant "Titan", after the thrust vectoring tanks on the Centaur/Titan LOWER STAGE rocket boosters.
 * Corrected the attachment node size on the adapter fuel tanks.
@@ -236,7 +236,7 @@
 
 ---
 
-## 1.2.1 (2015-09-14) - Tweaks
+## 1.2.1.0 (2015-09-14) - Tweaks
 
 * Renamed the 0.625m red variant "Centaur", after the thrust vectoring tanks on the Centaur rocket boosters.
 * Added missing TweakScale settings for 1.25m nose cones.
@@ -245,7 +245,7 @@
 
 ---
 
-## 1.2 (2015-08-31) - Minor update
+## 1.2.0.0 (2015-08-31) - Minor update
 
 * Corrected a texture alignment problem with the 0.625m tanks when using reduced texture resolution.
 * Added new red color option to the 0.625m tanks.
@@ -311,6 +311,7 @@
 * Will now start including ModuleManager and the InterstellerFuelSwitch folders in the zip archive.
 * Addressed an issue with the old deprecated parts showing up in the manufacturer's tab.
 * Added warnings to deprecated parts' descriptions, just in case they show up in a menu somewhere.
+* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #50 - 1.0.3 (2015-07-18) - Tweaks
 * updates #26 - Previous Releases
 
