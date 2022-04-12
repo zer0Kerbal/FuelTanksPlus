@@ -1,3 +1,9 @@
+0.7 (2015-03-19) - Beta
+ - Moved the 3.75m nose cone tanks to the "Very Heavy Rocketry" tech node (alongside the other 3.75m tanks)
+ - Corrected the attachment node size for the 3.75m nose cone tanks.
+ - Added "bottom" dome parts for external tanks, in both 2.5m and 3.75m.
+ - Added FL-T50 fuel tank.
+
 0.6 (2015-03-02) - Beta, tweaks
  - Adjusted normals (light/shadow angles) on many of the fuel tanks.
 
