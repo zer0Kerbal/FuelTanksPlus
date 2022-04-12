@@ -311,7 +311,6 @@
 * Will now start including ModuleManager and the InterstellerFuelSwitch folders in the zip archive.
 * Addressed an issue with the old deprecated parts showing up in the manufacturer's tab.
 * Added warnings to deprecated parts' descriptions, just in case they show up in a menu somewhere.
-* Co-Authored-By: NecroBones <10134364+NecroBones@users.noreply.github.com
 * closes #50 - 1.0.3 (2015-07-18) - Tweaks
 * updates #26 - Previous Releases
 
