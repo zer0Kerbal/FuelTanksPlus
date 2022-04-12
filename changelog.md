@@ -517,7 +517,7 @@
 
 ---
 
-## 0.2.1 (2015-01-28) - Beta fixes
+## 0.2.1.0 (2015-01-28) - Beta fixes
 
 * Removed excess oxidizer from fueled nose cones.
 * closes #30 - 0.2.1 (2015-01-28) - Beta fixes
