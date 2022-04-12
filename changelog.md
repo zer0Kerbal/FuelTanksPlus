@@ -525,7 +525,7 @@
 
 ---
 
-## 0.2 (2015-01-28) - `More tanks!`
+## 0.0.2.0 (2015-01-28) - `More tanks!`
 
 * Added three 1.25m tanks.
 * closes #29 - 0.2 (2015-01-28) - More tanks
@@ -533,7 +533,7 @@
 
 ---
 
-## 0.1 (2015-01-23) - Initial Beta
+## 0.0.1.0 (2015-01-23) - Initial Beta
 
 * First release.
 * closes #28 - 0.0.1.0 (2015-01-23) - Initial Beta

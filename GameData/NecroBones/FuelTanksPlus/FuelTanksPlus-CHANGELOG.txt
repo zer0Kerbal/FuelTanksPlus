@@ -1,2 +1,5 @@
-0.1 (2015-01-22) - Initial Beta
+0.2 (2015-01-28) - More tanks!
+ - Added three 1.25m tanks.
+
+0.1 (2015-01-23) - Initial Beta
  - First release.
