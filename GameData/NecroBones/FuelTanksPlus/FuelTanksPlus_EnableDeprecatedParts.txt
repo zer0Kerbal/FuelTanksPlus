@@ -1,0 +1,42 @@
+
+// This is a ModuleManager config that will re-enable the old deprecated parts
+// in the VAB/SPH menus. To activate, simply rename the file from 'txt' to 'cfg'.
+
+@PART[TPtankCube?????|TPtankTri0?|TPtank?mL?????-*|TPtankR??-*|TPtank1mCone?|TPcone?m-*|TPdome?m-*]:AFTER[FuelTanksPlus]
+{
+	@category = FuelTank
+	@manufacturer = FTP-DEPRECATED
+}
+@PART[TPtankCube00500|TPtankCube00750|TPtankCube01250|TPtankTri01]:AFTER[FuelTanksPlus]
+{
+	@TechRequired = propulsionSystems
+}
+@PART[TPtankTri02]:AFTER[FuelTanksPlus]
+{
+	@TechRequired = ionPropulsion
+}
+@PART[TPtank0mL?????-*]:AFTER[FuelTanksPlus]
+{
+	@TechRequired = precisionPropulsion
+}
+@PART[TPtank1mL00313-White]:AFTER[FuelTanksPlus]
+{
+	@TechRequired = basicRocketry
+}
+@PART[TPtank1mL05625-*|TPtank1mCone?|TPtank2mL00469-White]:AFTER[FuelTanksPlus]
+{
+	@TechRequired = fuelSystems
+}
+@PART[TPtankR0?-*|TPtank1mCone?|TPcone2m-*|TPdome2m-*|TPtank2mL05625-White]:AFTER[FuelTanksPlus]
+{
+	@TechRequired = advFuelSystems
+}
+@PART[TPtank2mL11250-*|TPtank2mL15000-*|TPdome3m-*|TPcone3m-*|TPtank3mL00938-White]:AFTER[FuelTanksPlus]
+{
+	@TechRequired = largeVolumeContainment
+}
+@PART[TPtank3mL05625-White|TPtank3mL11250-*|TPtank3mL15000-White]:AFTER[FuelTanksPlus]
+{
+	@TechRequired = highPerformanceFuelSystems
+}
+
