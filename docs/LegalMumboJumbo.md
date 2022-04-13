@@ -7,10 +7,10 @@ tags: legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!--
-LegalMumboJumbo.md v1.0.4.1
+LegalMumboJumbo.md v1.0.4.2
 Fuel Tanks Plus (FTP)
 created: 01 Feb 2022
-updated: 30 Mar 2022
+updated: 12 Apr 2022
 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
@@ -18,10 +18,9 @@ updated: 30 Mar 2022
 
 # Fuel Tanks Plus (FTP)
 
-[Home](/index.md)
+[Home](./index.html)
 
-* License
-  * ![License](./LegalMumboJumbo/License.md)
+* [License](./LegalMumboJumbo/License.md)
 * Forums
   * ![Forum](./LegalMumboJumbo/FORUM-01.png)
   <!-- * ![Forum](./LegalMumboJumbo/FORUM-02.png) -->
