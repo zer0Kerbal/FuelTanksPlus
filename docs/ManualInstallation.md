@@ -1,12 +1,12 @@
 ---
 permalink: /ManualInstallation.html
-title: ManualInstallation
+title: Manual Installation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
 # layout: bare
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!-- ManualInstallation.md v1.1.5.0
+<!-- ManualInstallation.md v1.1.7.0
 Fuel Tanks Plus (FTP)
 created: 01 Oct 2019
 updated: 11 Apr 2022 -->
@@ -31,9 +31,10 @@ To install, place the NecroBones folder inside your Kerbal Space Program's GameD
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
   * Delete `<KSP_ROOT>/GameData/NecroBones/FuelTanksPlus`
-* Extract the package's `NecroBones/` folder into your KSP's GameData as follows:
-  * `<PACKAGE>/NecroBones` --> `<KSP_ROOT>/GameData/NecroBones`
+* Extract the package's `NecroBones/` folder into your KSP's GameData folder as follows:
+  * `<PACKAGE>/NecroBones` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting file.
+  * you should end up with `<KSP_ROOT>/GameData/NecroBones/FuelTanksPlus`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
@@ -41,9 +42,10 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
   * Delete `<KSP_ROOT>/GameData/NecroBones/FuelTanksPlus`
-* Extract the package's `GameData/NecroBones/` folder into your KSP's root folder as follows:
+* Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData/` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
+  * you should end up with `<KSP_ROOT>/GameData/NecroBones/FuelTanksPlus`
 
 ## The following file layout must be present after installation
 
