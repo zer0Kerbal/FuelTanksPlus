@@ -11,7 +11,11 @@ Fuel Tanks Plus (FTP)
 created: 01 Feb 2022
 updated: 30 Mar 2022 -->
 
-# Lithobrake Exploration Technologies (LET)
+# Fuel Tanks Plus (FTP)
+
+[Home](./index.md)
+
+A set of fuel tanks that are 1.5x the length of the largest stock tanks in each diameter, plus fuel-filled nose cones for those diameters. These tanks are meant to give you some visual choice of styles that are loosely inspired by real-world rockets from NASA, ESA, and private space firms (though that inspiration is mainly in color choice), while maintaining the style established in the Color Coded Canisters mod (since CCC replaces stock visuals, any 'new' tanks should be spun off into a separate pack, and hence we have FTP) For Kerbal Space Program.
 
 ## Parts Invoice
 
