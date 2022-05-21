@@ -34,7 +34,6 @@
   * [Why-not.md]
   * [Why.md] v1.1.0.0
   * [_config.yml]
-  * [changelog.md]
 * closes #134 - docs/
 
 ### Localization
