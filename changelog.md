@@ -53,7 +53,9 @@
 
 ### Compatability
 
-* Move from Patches to Compatibility
+* Move
+  * Patches to Compatibility
+  * [Themes.cfg] to Config/
 * Rename all to remove the FuelTanksPlus_ prefix
 * 
 FuelTanksPlus_DeadlyReentry.cfg:10:1: Unexpected '{<0x7B>'
