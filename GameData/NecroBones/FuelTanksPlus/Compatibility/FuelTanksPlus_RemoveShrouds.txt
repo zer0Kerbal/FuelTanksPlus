@@ -1,0 +1,14 @@
+
+// This is a ModuleManager config that will disable the auto-shrouds on the 
+// fuel tanks. To activate, simply rename the file from 'txt' to 'cfg'.
+
+@PART[TPtank0m*|TPtank1m*|TPtank2m*|TPtank3m*]:AFTER[FuelTanksPlus]
+{
+
+	node_stack_disabled = 0.0, -1000.0, 0.0, 0.0, 1.0, 0.0, 0
+
+	@MODULE[ModuleJettison],*
+	{
+		@bottomNodeName = disabled
+	}
+}
