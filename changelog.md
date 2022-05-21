@@ -58,7 +58,9 @@
   * [Themes.cfg] to Config/
 * Rename all to remove the FuelTanksPlus_ prefix
 * 
-FuelTanksPlus_DeadlyReentry.cfg:10:1: Unexpected '{<0x7B>'
+* [FuelTanksPlus_DeadlyReentry.cfg]
+  * missing MODULE keyword
+* 
 FuelTanksPlus_ATM.cfg:7:3: Unexpected '/<0x2F>'
 
 
