@@ -1,0 +1,80 @@
+	MODULE
+	{
+		name = ModulePartVariants
+		primaryColor = #907218
+		secondaryColor = #685311
+		baseDisplayName = Monopropellant Gold
+		baseThemeName = FTPradGold
+		VARIANT
+		{
+			name = FTPradBlack
+			displayName = Radial Black
+			themeName = FTPradBlack
+			primaryColor = #000000
+			secondaryColor = #111111
+			TEXTURE
+			{
+				mainTextureURL = FuelTanksPlus/Radial/TPtankR-rimBlack-Specular
+			}
+		}
+		VARIANT
+		{
+			name = FTPradRed
+			displayName = Radial Red
+			themeName = FTPradRed
+			primaryColor = #711d1d
+			secondaryColor = #501515
+			TEXTURE
+			{
+				mainTextureURL = FuelTanksPlus/Radial/TPtankR-rimRed-Specular
+			}
+		}
+		VARIANT
+		{
+			name = FTPradBlue
+			displayName = Radial Blue
+			themeName = FTPradBlue
+			primaryColor = #16376d
+			secondaryColor = #0d2243
+			TEXTURE
+			{
+				mainTextureURL = FuelTanksPlus/Radial/TPtankR-rimBlue-Specular
+			}
+		}
+	}
+
+
+
+
+VARIANTTHEME
+{
+	name = FTPradGold
+	displayName = Monopropellant Gold
+	description = Monopropellant Gold
+	primaryColor = #907218
+	secondaryColor = #685311
+}
+VARIANTTHEME
+{
+	name = FTPradBlack
+	displayName = Radial Black
+	description = Radial Black
+	primaryColor = #907218
+	secondaryColor = #685311
+}
+VARIANTTHEME
+{
+	name = FTPradRed
+	displayName = Radial Red
+	description = Radial Red
+	primaryColor = #711d1d
+	secondaryColor = #501515
+}
+VARIANTTHEME
+{
+	name = FTPradBlue
+	displayName = Radial Blue
+	description = Radial Blue
+	primaryColor = #16376d
+	secondaryColor = #0d2243
+}
