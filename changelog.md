@@ -60,9 +60,9 @@
 * 
 FuelTanksPlus_DeadlyReentry.cfg:10:1: Unexpected '{<0x7B>'
 FuelTanksPlus_ATM.cfg:7:3: Unexpected '/<0x2F>'
-/RCS/TPmono0mL01875.cfg:29:2: Unexpected 'T<0x54>'
 
 
+[TPmono0mL01875.cfg] = missing equals
 ### Status
 
 * Issues
