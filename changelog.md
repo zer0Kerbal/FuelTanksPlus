@@ -10,8 +10,6 @@
 | spacedock  | (https://spacedock.info/mod/92)                                  |
 | ckan       | FuelTanksPlus                                                    |
 
-<<<<<<< Updated upstream
-=======
 ## Version 2.0.3.0-adoption `<EDITION>` edition
 
 * 20 May 2022
@@ -52,7 +50,6 @@
 
 ---
 
->>>>>>> Stashed changes
 ## 2.0.2.0 (2018-03-14) - RCS fixes
 
 * Rebalanced the smaller monopropellant tanks to match their stock counterparts.

@@ -58,4 +58,4 @@ updated: 27 Mar 2022
 
 <!-- https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_11_2015/avatar_96x96.gif.787b9a3478ccb83beb330a550f437d88.thumb.gif.5afcf23f2446f3774eeeeca98687261b.gif -->
 
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+<!-- this file CC BY-NC-ND 3.0 Unported by zer0Kerbal -->
