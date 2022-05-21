@@ -10,6 +10,49 @@
 | spacedock  | (https://spacedock.info/mod/92)                                  |
 | ckan       | FuelTanksPlus                                                    |
 
+<<<<<<< Updated upstream
+=======
+## Version 2.0.3.0-adoption `<EDITION>` edition
+
+* 20 May 2022
+* Released for Kerbal Space Program 1.12.x
+
+### docs/
+
+* Update
+  * [Attribution.md] v1.0.6.0
+  * [ManualInstallation.md] v1.1.7.0
+* Add
+  * [404-petunia.md]
+  * [404.md] v1.0.3.1
+  * [Disclaimer.md] v1.0.0.0
+  * [HowItWorks.md] v1.1.0.0
+  * [LegalMumboJumbo.md] v1.0.5.0
+  * [Localizations.md] v1.1.3.1
+  * [Marketing.md] v1.0.0.0
+  * [Notices.md] v1.0.0.0
+  * [PartInvoice.md] v1.1.3.1
+  * [resourceFlow.md] v1.0.1.0
+  * [Why-not.md]
+  * [Why.md] v1.1.0.0
+  * [_config.yml]
+  * [changelog.md]
+* closes #134 - docs/
+
+### Localization
+
+* Create
+  * Localization/
+    * <en-us.cfg>
+    * [readme.md] v2.1.1.0
+    * [quickstart.md] v1.0.1.0
+* Updates # - Localization Master
+* Closes # - Localization - English (United States)] <en-us.cfg>
+
+
+---
+
+>>>>>>> Stashed changes
 ## 2.0.2.0 (2018-03-14) - RCS fixes
 
 * Rebalanced the smaller monopropellant tanks to match their stock counterparts.
