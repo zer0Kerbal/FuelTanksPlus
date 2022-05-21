@@ -37,6 +37,10 @@
   * [changelog.md]
 * closes #134 - docs/
 
+### Assets
+
+* updates #135 - Asset Updates
+
 ### Localization
 
 * Create
@@ -44,9 +48,17 @@
     * <en-us.cfg>
     * [readme.md] v2.1.1.0
     * [quickstart.md] v1.0.1.0
-* Updates # - Localization Master
-* Closes # - Localization - English (United States)] <en-us.cfg>
+* Updates #7 - Localization Master
+* Closes #8 - Localization - English (United States)] <en-us.cfg>
 
+### Status
+
+* Issues
+  * closes #2 - Fuel Tanks Plus (FTP) 2.0.3.0-adoption `<EDITION>`
+  * closes #3 - Adoption - GitHub
+  * closes #4 - Adoption Legal MumboJumbo
+  * closes #5 - Adoption Documentation
+  * closes #6 - Adoption - social media
 
 ---
 
