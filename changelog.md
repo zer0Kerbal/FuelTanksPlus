@@ -57,14 +57,15 @@
   * Patches to Compatibility
   * [Themes.cfg] to Config/
 * Rename all to remove the FuelTanksPlus_ prefix
-* 
 * [FuelTanksPlus_DeadlyReentry.cfg]
   * missing MODULE keyword
-* 
-FuelTanksPlus_ATM.cfg:7:3: Unexpected '/<0x2F>'
+* [ActiveTextureManager.cfg.0]
+  * deactivated (no longer needed)
+* move FS meshswitch optional patches
+  * Compatibility/FSMeshSwitch/
 
+* [TPmono0mL01875.cfg] = missing equals
 
-[TPmono0mL01875.cfg] = missing equals
 ### Status
 
 * Issues
