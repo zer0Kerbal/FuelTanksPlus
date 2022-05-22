@@ -48,16 +48,43 @@ this file: CC BY-ND 4.0 by zer0Kerbal --># Changelog
   * [changelog.md]
 * closes #134 - docs/
 
+### Assets
+
+* updates #135 - Asset Updates
+
 ### Localization
 
 * Create
   * Localization/
     * <en-us.cfg>
-    * [readme.md] v2.1.1.0
-    * [quickstart.md] v1.0.1.0
-* Updates # - Localization Master
-* Closes # - Localization - English (United States)] <en-us.cfg>
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
+* Updates #7 - Localization Master
+* Closes #8 - Localization - English (United States)] <en-us.cfg>
 
+### Compatability
+
+* Move
+  * Patches to Compatibility
+  * [Themes.cfg] to Config/
+* Rename all to remove the FuelTanksPlus_ prefix
+* [FuelTanksPlus_DeadlyReentry.cfg]
+  * missing MODULE keyword
+* [ActiveTextureManager.cfg.0]
+  * deactivated (no longer needed)
+* move FS meshswitch optional patches
+  * Compatibility/FSMeshSwitch/
+
+* [TPmono0mL01875.cfg] = missing equals
+
+### Status
+
+* Issues
+  * closes #2 - Fuel Tanks Plus (FTP) 2.0.3.0-adoption `<EDITION>`
+  * closes #3 - Adoption - GitHub
+  * closes #4 - Adoption Legal MumboJumbo
+  * closes #5 - Adoption Documentation
+  * closes #6 - Adoption - social media
 
 ---
 
