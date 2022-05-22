@@ -46,10 +46,25 @@
 * Create
   * Localization/
     * <en-us.cfg>
-    * [readme.md] v2.1.1.0
-    * [quickstart.md] v1.0.1.0
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
 * Updates #7 - Localization Master
 * Closes #8 - Localization - English (United States)] <en-us.cfg>
+
+### Compatability
+
+* Move
+  * Patches to Compatibility
+  * [Themes.cfg] to Config/
+* Rename all to remove the FuelTanksPlus_ prefix
+* [FuelTanksPlus_DeadlyReentry.cfg]
+  * missing MODULE keyword
+* [ActiveTextureManager.cfg.0]
+  * deactivated (no longer needed)
+* move FS meshswitch optional patches
+  * Compatibility/FSMeshSwitch/
+
+* [TPmono0mL01875.cfg] = missing equals
 
 ### Status
 
