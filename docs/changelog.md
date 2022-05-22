@@ -1,4 +1,15 @@
-# Changelog  
+---
+permalink: /Changelog.html
+title: The Change Log
+description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
+tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
+---
+
+<!-- hdr-changelog.md v1.0.0.0
+Fuel Tanks Plus (FTP)
+created: 13 May 2022
+updated:
+this file: CC BY-ND 4.0 by zer0Kerbal --># Changelog  
   
 | modName    | Fuel Tanks Plus (FTP)                                            |
 | ---------- | ---------------------------------------------------------------- |
@@ -37,10 +48,6 @@
   * [changelog.md]
 * closes #134 - docs/
 
-### Assets
-
-* updates #135 - Asset Updates
-
 ### Localization
 
 * Create
@@ -48,32 +55,9 @@
     * <en-us.cfg>
     * [readme.md] v2.1.1.0
     * [quickstart.md] v1.0.1.0
-* Updates #7 - Localization Master
-* Closes #8 - Localization - English (United States)] <en-us.cfg>
+* Updates # - Localization Master
+* Closes # - Localization - English (United States)] <en-us.cfg>
 
-### Compatability
-
-* Move
-  * Patches to Compatibility
-  * [Themes.cfg] to Config/
-* Rename all to remove the FuelTanksPlus_ prefix
-* [FuelTanksPlus_DeadlyReentry.cfg]
-  * missing MODULE keyword
-* [ActiveTextureManager.cfg.0]
-  * deactivated (no longer needed)
-* move FS meshswitch optional patches
-  * Compatibility/FSMeshSwitch/
-
-* [TPmono0mL01875.cfg] = missing equals
-
-### Status
-
-* Issues
-  * closes #2 - Fuel Tanks Plus (FTP) 2.0.3.0-adoption `<EDITION>`
-  * closes #3 - Adoption - GitHub
-  * closes #4 - Adoption Legal MumboJumbo
-  * closes #5 - Adoption Documentation
-  * closes #6 - Adoption - social media
 
 ---
 
