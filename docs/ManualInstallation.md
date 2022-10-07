@@ -6,10 +6,10 @@ description: the flat-pack Kiea instructions, written in Kerbalese, unusally pre
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!-- ManualInstallation.md v1.1.7.0
+<!-- ManualInstallation.md v1.1.8.1
 Fuel Tanks Plus (FTP)
 created: 01 Oct 2019
-updated: 18 Apr 2022 -->
+updated: 29 Jul 2022 -->
 
 <!-- based upon work by Lisias -->
 
@@ -29,9 +29,9 @@ You should be all good! (check for latest version on CurseForge)
 
 To install, place the NecroBones folder inside your Kerbal Space Program's GameData folder:
 
-* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
+* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
   * Delete `<KSP_ROOT>/GameData/NecroBones/FuelTanksPlus`
-* Extract the package's `NecroBones/` folder into your KSP's GameData folder as follows:
+* Extract the package's `NecroBones` folder into your KSP's GameData folder as follows:
   * `<PACKAGE>/NecroBones` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting file.
   * you should end up with `<KSP_ROOT>/GameData/NecroBones/FuelTanksPlus`
@@ -40,7 +40,7 @@ To install, place the NecroBones folder inside your Kerbal Space Program's GameD
 
 To install, place the GameData folder inside your Kerbal Space Program folder:
 
-* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
+* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
   * Delete `<KSP_ROOT>/GameData/NecroBones/FuelTanksPlus`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData/` --> `<KSP_ROOT>`
@@ -53,27 +53,33 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [NecroBones]
-      + [FuelTanksPlus]
-        + [Agencies]
+      + [Fuel Tanks Plus Ltd (FTPL)][FTPL]
+        ...
+        + [FuelTanksPlus]
+          + [Assets]
+            ...
+          + [Compatibility]
+            ...
+          + [Localization]
+            ...
+          + [Parts]
+            ...
+          * #.#.#.#.htm
+          * Attributions.htm
+          * CC-BY-NC-SA-4.0.txt
+          * changelog.md
+          * ManualInstallation.htm
+          * readme.htm
+          * FuelTanksPlus.version
           ...
-        + [Assets]
-          ...
-        + [Compatibility]
-          ...
-        + [Localization]
-          ...
-        + [Parts]
-          ...
-        * #.#.#.#.htm
-        * changelog.md
-        * License.txt
-        * readme.htm
-        * FuelTanksPlus.version
-    ...
+      ...
+    * ModuleManager.ConfigCache
   * KSP.log
   ...
 ```
 
 ### Dependencies
 
-* none
+* [Fuel Tanks Plus Ltd (FTPL)][FTPL]
+
+[FTPL]: https://forum.kerbalspaceprogram.com/threads/209628-*/ "FTP Ltd"
