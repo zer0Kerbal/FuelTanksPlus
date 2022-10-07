@@ -172,8 +172,8 @@ or [![CKAN][ckan:img]][ckan:url]
 [![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
 
 *and it is true.*
-[MOD:attr]: https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/Attribution.md "Attribution"
-[MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/changelog.md "Changelog"
+[MOD:attr]: https://zer0kerbal.github.io/FuelTanksPlus/Attributions "Attribution"
+[MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/changelog.md  "Changelog"
 [MOD:discu]: https://github.com/zer0Kerbal/FuelTanksPlus/discussions "Discussions"
 [MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/207702-*/ "Fuel Tanks Plus Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/FuelTanksPlus/issues "Issues"
