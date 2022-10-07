@@ -1,12 +1,12 @@
-<!-- readme.md v1.6.8.0
-Fuel Tanks Plus (FTP)
+<!-- readme.md v1.6.9.9
+FuelTanksPlus (ABBV)
 created: 17 Jul 2017
-updated: 17 May 2022 -->
+updated: 04 Oct 2022 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
-[![Fuel Tanks Plus][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
-[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][CKAN:shd]][CKAN:url]   
+[![FuelTanksPlus][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][ckan:shd]][ckan:url]   
 [![Pages][MOD:pages:shd]][MOD:pages]
 
 
@@ -21,16 +21,20 @@ A set of fuel tanks that are longer than largest stock tanks in each diameter, p
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
+<img src="https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/img/HeroLogo_1920x1920.png" alt="FuelTanksPlus Hero" width="50%" height="50%">
+
 What is "Fuel Tanks Plus" exactly? Simply, it's a set of fuel tanks that are 1.5x the length of the largest stock tanks in each diameter, plus fuel-filled nose cones for those diameters.
 
 These tanks are meant to give you some visual choice of styles that are loosely inspired by real-world rockets from NASA, ESA, and private space firms (though that inspiration is mainly in color choice), while maintaining the style established in the Color Coded Canisters mod (since CCC replaces stock visuals, any "new" tanks should be spun off into a separate pack, and hence we have FTP).
 
-### See More
+### See more
 
-* Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
-* Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]
-* Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:known]
-* GitHub Pages : See [Pages][MOD:pages]
+>* [GitHub Pages][MOD:pages]
+>* [Marketing Slicks][MOD:markt]
+>* [Parts Catalog][MOD:parts] for part pictures
+>* [Discussions][MOD:discu] or [KSP Forums][MOD:forum] for discussions and news
+>* [ChangeLog][MOD:chlog] for more details of changes
+>* [Known Issues][MOD:issue] for more details of feature requests and known issues
 
 ---
 
@@ -62,44 +66,56 @@ These tanks are meant to give you some visual choice of styles that are loosely 
 ### Help Wanted
 
 > * Compatibility patches
-> * additional textures
+> * Contracts for these glorious parts
+> * Variant textures
 > * Switch to stock variant textures
 > * Model updates to Unity 2019
+> * Marketing Images and Videos such as hero shots, animated gifs, short highlights
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
 
 ---
 
 ### Localization
 
+>* ![English][EN] English
+>* ***your translation here***
+>
+> HELP WANTED - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
+
+---
+
 ### Installation Directions [^1]
 
 ***Use***
   CurseForge/OverWolf App (currently does not install dependencies)  
 
-  <a href="https://download.curseforge.com/">
-    <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
-</a>
+  <a href="https://download.curseforge.com/"> <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="25%" height="25%"></a>
 
-or [![CKAN][CKAN:img]][CKAN:url]
+or [![CKAN][ckan:img]][ckan:url]
 
 ### Dependencies
 
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
+* [Fuel Tanks Plus Ltd (FTPL)][FTPL]
 
 ### Suggests
 
-#### Part of the NecroBones suite of mods, that work nicely together
-
-* [Modular Rocket Systems (MRS)][MRS] stock-alike parts pack, NASA-like alternatives, and filling the gaps
-* [Module Rocket Systems LITE version (MSRL)][MRSL]
-* [SpaceY Heavy Lifters][SPY] stock-balanced large rocket parts, 5m parts, large SRBs
-* [Color Coded Canisters (CCC)][CCC] (beautification replacement models/textures for stock tanks, with color-coded end caps, and auto-closing shrouds
-* [Fuel Tanks Plus (FTP)][FTP] collection of large stock-like tanks with Color Coded Canister style
-* [ColorFuel Lines (CFL)][CFL] color-selectable fuel lines
-* [Lithobrake Exploration Technologies (LET)][LET] lander parts, large chutes/legs/ladders/etc
-* [The Burger Mod (BURG)][BURG]
-* [Joolian Discovery (JOOL)][JOOL]
-* [The Elephant Engine (ELEP)][ELEP]
+* Other [Fuel Tanks Plus Ltd (FTPL)][FTPL] mods:
+  * [Fuel Tanks Plus (FTP)][FTP]
+  * [Fuel Tanks Plus Xtra Kerbal (FTPXK)][FTPXK]
+  * [Fuel Tanks Plus IS (FTPIS)][FTPIS]
+* Part of the NecroBones suite of mods, that work nicely together
+  * [Modular Rocket Systems (MRS)][MRS] stock-alike parts pack, NASA-like alternatives, and filling the gaps
+  * [Module Rocket Systems LITE version (MSRL)][MRSL]
+  * [SpaceY Heavy Lifters][SPY] stock-balanced large rocket parts, 5m parts, large SRBs
+  * [SpaceY Expanded][SPYE] agency, flags, and common files for all SpaceY addons
+  * [Color Coded Canisters (CCC)][CCC] (beautification replacement models/textures for stock tanks, with color-coded end caps, and auto-closing shrouds
+  * [Fuel Tanks Plus (FTP)][FTP] collection of large stock-like tanks with Color Coded Canister style
+  * [ColorFuel Lines (CFL)][CFL] color-selectable fuel lines
+  * [Lithobrake Exploration Technologies (LET)][LET] lander parts, large chutes/legs/ladders/etc
+  * [The Burger Mod (BURG)][BURG]
+  * [Joolian Discovery (JOOL)][JOOL]
+  * [The Elephant Engine (ELEP)][ELEP]
 
 ### Supports
 
@@ -117,8 +133,6 @@ or [![CKAN][CKAN:img]][CKAN:url]
 * [Firespitter][fs]
 * [Interstellar Fuel Switch][InterstellarFuelSwitch-Core]
 
----
-
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
   <p><b>red box below is a link to forum post on how to get support</b></p>
   <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*">
@@ -128,7 +142,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 ### Credits and Special Thanks
 
-* [`NecroBones`][necrobones] for creating this glorious mod
+* [`NecroBones`][necrobones] for creating this glorious mod!
 * see [Attribution.md][MOD:attr] for more comprehensive list
 
 ### Legal Mumbo Jumbo (License *provenance*)
@@ -141,28 +155,32 @@ or [![CKAN][CKAN:img]][CKAN:url]
 > ##### Disclaimer(s)
 >
 > ***All bundled mods are distributed under their own licenses***  
-> ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***
+> ***All assets, including but not limited to: animations, models, sounds and textures are distributed under their own licenses***
+
+##### see [Notices.md][MOD:notic] for more *legal Mumbo Jumbo*
 
 #### Original (0) - Author: [`NecroBones`][necrobones]
 
 > Forum: [Thread][MOD:0:thread] - Download: [CurseForge][MOD:0:dnload] - Source: [SpaceDock][MOD:0:source]
 > License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
 
----
+### DONATIONS: How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]  
 
-### How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]  
+> ***Completely voluntary, absolutely amazing, and really does help me out a lot!***
+> quote from <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/32393-*/"><img border="0" alt="cybutek" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2020_06/kappa-kerbal-anarchy.thumb.png.673a2f6f7b36cc60a35c24efef217246.png" width="25px" height="25px"> cybutek</a> creator of <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/17833-130-*/" alt="Kerbal Engineer Redux (KER)"> Kerbal Engineer</a>
 
 [![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
 
-<!-- mod links -->
+*and it is true.*
 [MOD:attr]: https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/Attribution.md "Attribution"
-[MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/changelog.md  "Changelog"
-[MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
+[MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/changelog.md "Changelog"
 [MOD:discu]: https://github.com/zer0Kerbal/FuelTanksPlus/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/207702-*/ "FuelTanksPlus Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/207702-*/ "Fuel Tanks Plus Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/FuelTanksPlus/issues "Issues"
-[MOD:licns]: https://github.com/zer0Kerbal/FuelTanksPlus/blob/master/LICENSE "Github License"
-[MOD:pages]: https://zer0kerbal.github.io/FuelTanksPlus/ "GitHub Pages"
+[MOD:markt]: https://zer0kerbal.github.io/FuelTanksPlus/Marketing "Marketing Slicks"
+[MOD:notic]: https://zer0kerbal.github.io/FuelTanksPlus/Notices "Notices"
+[MOD:parts]: https://zer0kerbal.github.io/FuelTanksPlus/PartsCatalog "Parts Catalog"
+[MOD:pages]: https://zer0kerbal.github.io/FuelTanksPlus "GitHub Pages"
 
 <!--- mod -->
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/json/mod.json
@@ -174,7 +192,6 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [MOD:0:thread]:https://forum.kerbalspaceprogram.com/index.php?/topic/97541-*/ "KSP Forum"
 [MOD:0:dnload]: https://www.curseforge.com/kerbal/ksp-mods/fueltanksplus "CurseForge"
 
-<!--- license provenance-->
 [LIC:0:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
 [LIC:0:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
 [LIC:0:shd]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-SA 4.0"
@@ -196,7 +213,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [GITHUB:shd]: https://img.shields.io/badge/Github-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=github "GitHub"
 
 [SPCDCK:url]: http://spacedock.info/mod/92 "SpaceDock"
-[SPCDCK:shd]:  https://img.shields.io/badge/SpaceDock-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA1MDAgNTAwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1MDAgNTAwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+Cgkuc3Qwe2ZpbGw6IzFBMUExQTt9Cgkuc3Qxe2ZpbGw6IzA1Nzg5Mzt9Cgkuc3Qye2ZpbGw6IzA3QUNEMjt9Cjwvc3R5bGU+CjxwYXRoIGlkPSJYTUxJRF8xXyIgY2xhc3M9InN0MCIgZD0iTTQwMCwwLjZIMTAwYy01NSwwLTEwMCw0NS0xMDAsMTAwVjQwMGMwLDU1LDQ1LDEwMCwxMDAsMTAwaDMwMGM1NSwwLDEwMC00NSwxMDAtMTAwVjEwMC42CglDNTAwLDQ1LjYsNDU1LDAuNiw0MDAsMC42eiIvPgo8ZyBpZD0iWE1MSURfNl8iPgoJPGcgaWQ9IlhNTElEXzlfIj4KCQk8cGF0aCBpZD0iWE1MSURfMTdfIiBjbGFzcz0ic3QxIiBkPSJNMTgzLjMsMTY1LjljNi40LTMuNiwxNi45LTMuNiwyMy4zLDBMNDY3LjQsMzE0YzYuNCwzLjYsNi40LDkuNiwwLDEzLjJMMjA2LjYsNDc0LjQKCQkJYy02LjQsMy42LTE3LjcsNi42LTI1LDYuNmgtNDQuOGMtNy40LDAtOC4xLTMtMS43LTYuNmwyNjEtMTQ3LjJjNi40LTMuNiw2LjQtOS42LDAtMTMuMkwxNzEsMTg2Yy02LjQtMy42LTYuNC05LjYsMC0xMy4yCgkJCUwxODMuMywxNjUuOXoiLz4KCTwvZz4KCTxnIGlkPSJYTUxJRF84XyI+CgkJPHBhdGggaWQ9IlhNTElEXzE2XyIgY2xhc3M9InN0MiIgZD0iTTMxOC44LDE5Yy03LjQsMC0xOC42LDIuOC0yNSw2LjRMMzMsMTczLjRjLTYuNCwzLjYtNi40LDkuNSwwLDEzLjFsMjYwLjcsMTQ3LjEKCQkJYzYuNCwzLjYsMTYuOSwzLjYsMjMuMywwbDEyLjMtN2M2LjQtMy42LDYuNC05LjUsMC0xMy4ybC0yMjUuMS0xMjdjLTYuNC0zLjYtNi40LTkuNSwwLTEzLjJMMzY1LjYsMjUuNGM2LjQtMy42LDUuNi02LjQtMS43LTYuNAoJCQlIMzE4Ljh6Ii8+Cgk8L2c+CjwvZz4KPC9zdmc+Cg==  "SpaceDock"
+[SPCDCK:shd]:  https://img.shields.io/badge/SpaceDock-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA1MDAgNTAwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1MDAgNTAwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+Cgkuc3Qwe2ZpbGw6IzFBMUExQTt9Cgkuc3Qxe2ZpbGw6IzA1Nzg5Mzt9Cgkuc3Qye2ZpbGw6IzA3QUNEMjt9Cjwvc3R5bGU+CjxwYXRoIGlkPSJYTUxJRF8xXyIgY2xhc3M9InN0MCIgZD0iTTQwMCwwLjZIMTAwYy01NSwwLTEwMCw0NS0xMDAsMTAwVjQwMGMwLDU1LDQ1LDEwMCwxMDAsMTAwaDMwMGM1NSwwLDEwMC00NSwxMDAtMTAwVjEwMC42CglDNTAwLDQ1LjYsNDU1LDAuNiw0MDAsMC42eiIvPgo8ZyBpZD0iWE1MSURfNl8iPgoJPGcgaWQ9IlhNTElEXzlfIj4KCQk8cGF0aCBpZD0iWE1MSURfMTdfIiBjbGFzcz0ic3QxIiBkPSJNMTgzLjMsMTY1LjljNi40LTMuNiwxNi45LTMuNiwyMy4zLDBMNDY3LjQsMzE0YzYuNCwzLjYsNi40LDkuNiwwLDEzLjJMMjA2LjYsNDc0LjQKCQkJYy02LjQsMy42LTE3LjcsNi42LTI1LDYuNmgtNDQuOGMtNy40LDAtOC4xLTMtMS43LTYuNmwyNjEtMTQ3LjJjNi40LTMuNiw2LjQtOS42LDAtMTMuMkwxNzEsMTg2Yy02LjQtMy42LTYuNC05LjYsMC0xMy4yCgkJCUwxODMuMywxNjUuOXoiLz4KCTwvZz4KCTxnIGlkPSJYTUxJRF84XyI+CgkJPHBhdGggaWQ9IlhNTElEXzE2XyIgY2xhc3M9InN0MiIgZD0iTTMxOC44LDE5Yy03LjQsMC0xOC42LDIuOC0yNSw2LjRMMzMsMTczLjRjLTYuNCwzLjYtNi40LDkuNSwwLDEzLjFsMjYwLjcsMTQ3LjEKCQkJYzYuNCwzLjYsMTYuOSwzLjYsMjMuMywwbDEyLjMtN2M2LjQtMy42LDYuNC05LjUsMC0xMy4ybC0yMjUuMS0xMjdjLTYuNC0zLjYtNi40LTkuNSwwLTEzLjJMMzY1LjYsMjUuNGM2LjQtMy42LDUuNi02LjQtMS43LTYuNAoJCQlIMzE4Ljh6Ii8+Cgk8L2c+CjwvZz4KPC9zdmc+Cg== "SpaceDock"
 
 <!-- Kerbal Space Program -->
 [KSP:url]: https://kerbalspaceprogram.com/ "Kerbal Space Program"
@@ -216,6 +233,10 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [ELEP]: https://www.curseforge.com/kerbal/ksp-mods/elephantengine "The Elephant Engine"
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells"
+
+[FTPL]: https://forum.kerbalspaceprogram.com/threads/209628-*/ "FTP Ltd"
+[FTPXK]: https://forum.kerbalspaceprogram.com/index.php?/topic/207702-*/ "Fuel Tanks Plus XL (FTPXK)"
+[FTPIS]: https://forum.kerbalspaceprogram.com/index.php?/topic/207702-*/ "Fuel Tanks Plus IS (FTPIS)"
 
 [fs]: https://github.com/snjo/Firespitter "Firespitter"
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
@@ -242,22 +263,23 @@ or [![CKAN][CKAN:img]][CKAN:url]
 <!-- Localization -->
 [lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
 [qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
-[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png "English"  
-[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png "Português Brasil"
-[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/CH.png "中文"  
-[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/DE.png "Deutsch"  
-[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/ES.png "Español"  
-[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/FR.png "Français"  
-[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png "Italiano"  
-[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/JA.png "日本語"  
-[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/KO.png "한국어"  
-[MX]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/MX.png "Mexicano Español"  
-[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NL.png "Dutch"  
-[NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NO.png "Norsk"
-[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/PO.png "Polski"  
-[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png "Русский"  
-[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/SW.png "Svenska"  
-[TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TW.png "国语"
+[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png "English"
+[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/BR.png "Português Brasil"
+[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/CH.png "中文"
+[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/DE.png "Deutsch"
+[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png "Español"
+[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/FR.png "Français"
+[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/IT.png "Italiano"
+[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/JA.png "日本語"
+[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/KO.png "한국어"
+[MX]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/MX.png "Mexicano Español"
+[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NL.png "Dutch"
+[NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NO.png "Norsk"
+[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/PO.png "Polski"
+[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png "Русский"
+[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/SW.png "Svenska"
+[TR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TR.png "Türk"
+[TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TW.png "国语"
 
 [curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
 [reddit]: https://www.reddit.com/user/zer0Kerbal
@@ -265,8 +287,8 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [twitter]: https://twitter.com/zer0Kerbal
 [youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
 
-[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 [necrobones]:  https://forum.kerbalspaceprogram.com/index.php?/profile/102159-*/ "NecroBones"
+[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
 ---
 
@@ -274,9 +296,15 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 Track progress: issues [here][MOD:issue] and projects [here](https://github.com/zer0Kerbal/FuelTanksPlus/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
-[<img align="left" alt="kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | buy me a coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" />][twitter]
+[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/twitter-32.ico" />][twitter]</br>
+
+##### Release Schedule
+
+1. GitHub, reaching first manual installers and users of KSP-AVC. Right now.
+2. CurseForge. Right now.
+3. SpaceDock (and CKAN users). Soon™
 
 <!-- footnotes -->
-[^1]: this isn't a mod. ;P
-[^2]: ***may*** work on other versions (YMMV)
+[^1]: this isn't a mod. ;P  
+[^2]: ***may*** work on other versions (YMMV)  
 [^3]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*

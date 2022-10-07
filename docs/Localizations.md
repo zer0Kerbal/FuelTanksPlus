@@ -5,10 +5,10 @@ description: camera goes *click-click*
 tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!-- Localizations.md v1.1.5.0
+<!-- Localizations.md v1.1.7.0
 Fuel Tanks Plus (FTP)
 created: 01 Feb 2022
-updated: 13 May 2022 -->
+updated: 03 Jun 2022 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <div class="fa-3x">
@@ -34,7 +34,7 @@ __These localizations for KSP and its DLC's are available through Steam:__
 * ![Русский][RU] Russian (Русский) <ru.cfg>  
 * ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>  
 
-## Included just in case
+## Additionally Included
 
 * ![Español Mexicano][MX] Mexican Spanish (Español Mexicano) <es-mx.cfg>  
 * ![한국어][KO] [Korean (한국어) <ko.cfg>  
@@ -42,6 +42,7 @@ __These localizations for KSP and its DLC's are available through Steam:__
 * ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>  
 * ![Polski][PO] Polish (Polski) <pl.cfg>  
 * ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>  
+* ![Türk][TR] Turkish (Türk) <tr-tr.cfg>  
 * ![国语][TW] Taiwanese (国语) <zh-tw.cfg>
 
 <!-- Localization -->
