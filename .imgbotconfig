@@ -2,7 +2,7 @@
     "schedule": "weekly",
     "ignoredFiles": [
         "GameData/*",
-        "GameData/NecroBones/FuelTanksPlus/*",
+        "GameData/FTP/FuelTanksPlus/*",
         "source/*",
         "**/@thumbs/**",
         "**/Agencies/**",
