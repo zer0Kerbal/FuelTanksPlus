@@ -1,0 +1,52 @@
+@PART[TP*]:HAS[#FTPcolorSwitch[0m]]:NEEDS[Firespitter|InterstellarFuelSwitch]:AFTER[FuelTanksPlus]
+{
+	MODULE
+	{
+		name:NEEDS[!InterstellarFuelSwitch] = FSmeshSwitch
+		name:NEEDS[InterstellarFuelSwitch] = InterstellarMeshSwitch
+		objects = TPtank0m-Grey;TPtank0m-White;TPtank0m-Checkered;TPtank0m-Black;TPtank0m-Red
+		objectDisplayNames = Oscar;Juno;Astrobee;Brant;Titan
+		affectColliders = false
+		buttonName = Next Color Scheme
+		previousButtonName = Previous Color Scheme
+	}
+	!FTPcolorSwitch = delete
+}
+
+@PART[TP*]:HAS[#FTPcolorSwitch[0m]]:NEEDS[B9PartSwitch&!Firespitter&!InterstellarFuelSwitch]:AFTER[FuelTanksPlus]
+{
+	MODULE
+	{
+		name = ModuleB9PartSwitch
+		moduleID = meshSwitch
+		switcherDescription = Color Scheme
+		affectDragCubes = false
+
+		SUBTYPE
+		{
+			name = Oscar
+			transform = TPtank0m-Grey
+		}
+		SUBTYPE
+		{
+			name = Juno
+			transform = TPtank0m-White
+		}
+		SUBTYPE
+		{
+			name = Astrobee
+			transform = TPtank0m-Checkered
+		}
+		SUBTYPE
+		{
+			name = Brant
+			transform = TPtank0m-Black
+		}
+		SUBTYPE
+		{
+			name = Titan
+			transform = TPtank0m-Red
+		}
+	}
+	!FTPcolorSwitch = delete
+}
