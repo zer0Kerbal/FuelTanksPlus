@@ -6,11 +6,11 @@
 
 ACTIVE_TEXTURE_MANAGER_CONFIG
 {
-	folder = NecroBones/FuelTanksPlus
+	folder = FTP/FuelTanksPlus
 	enabled  = true
 	OVERRIDES
 	{
-		NecroBones/FuelTanksPlus/.*
+		FTP/FuelTanksPlus/.*
 		{
 			compress = false
 			mipmaps = false
