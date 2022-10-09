@@ -13,3 +13,5 @@
 - [Marketing](Marketing.md)
 - [Notices](Notices.md)
 - [PartsCatalog](PartsCatalog.md)
+- [Troubleshooting](Troubleshooting.md)
+- [changelog](changelog.md)
