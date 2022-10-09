@@ -21,38 +21,48 @@ this file: CC BY-ND 4.0 by zer0Kerbal --># Changelog
 | spacedock  | (https://spacedock.info/mod/92)                                  |
 | ckan       | FuelTanksPlus                                                    |
 
-## Version 2.0.3.0-adoption `<EDITION>` edition
+## Version 2.0.99.0-adoption `<Thank you NecroBones>` edition
 
-* 20 May 2022
+* 09 Oct 2022
 * Released for Kerbal Space Program 1.12.x
 
-### docs/
+### Summary 2.0.99.0
+
+* Adoption by zer0Kerbal
+* First in a series of updates, breaking down the update from one massive to several smaller and more manageable updates
+* Parts updated in this release
+  * Probe
+    * TPtankCube0050
+    * TPtankCube0075
+    * TPtankCube0125
+    * TPtankTri
+  * Radial
+    * TPtankR01
+    * TPtankR02
+    * TPtankR03
+
+### docs/ 2.0.99.0
 
 * Update
   * [Attribution.md] v1.0.6.0
   * [ManualInstallation.md] v1.1.7.0
 * Add
-  * [404-petunia.md]
   * [404.md] v1.0.3.1
-  * [Disclaimer.md] v1.0.0.0
-  * [HowItWorks.md] v1.1.0.0
   * [LegalMumboJumbo.md] v1.0.5.0
   * [Localizations.md] v1.1.3.1
   * [Marketing.md] v1.0.0.0
   * [Notices.md] v1.0.0.0
-  * [PartInvoice.md] v1.1.3.1
-  * [resourceFlow.md] v1.0.1.0
-  * [Why-not.md]
+  * [PartCatalog.md] v1.1.3.1
   * [Why.md] v1.1.0.0
   * [_config.yml]
   * [changelog.md]
 * closes #134 - docs/
 
-### Assets
+### Assets 2.0.99.0
 
 * updates #135 - Asset Updates
 
-### Localization
+### Localization 2.0.99.0
 
 * Create
   * Localization/
@@ -62,7 +72,7 @@ this file: CC BY-ND 4.0 by zer0Kerbal --># Changelog
 * Updates #7 - Localization Master
 * Closes #8 - Localization - English (United States)] <en-us.cfg>
 
-### Compatability
+### Compatability 2.0.99.0
 
 * Move
   * Patches to Compatibility
@@ -76,11 +86,12 @@ this file: CC BY-ND 4.0 by zer0Kerbal --># Changelog
   * Compatibility/FSMeshSwitch/
 
 * [TPmono0mL01875.cfg] = missing equals
+* closes #139 - [Bug 🐞]: Empty part config files MM errors
 
-### Status
+### Status 2.0.99.0
 
 * Issues
-  * closes #2 - Fuel Tanks Plus (FTP) 2.0.3.0-adoption `<EDITION>`
+  * closes #2 - Fuel Tanks Plus (FTP) 2.0.99.0-adoption `<Thank you NecroBones>`
   * closes #3 - Adoption - GitHub
   * closes #4 - Adoption Legal MumboJumbo
   * closes #5 - Adoption Documentation
