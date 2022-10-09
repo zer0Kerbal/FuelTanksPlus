@@ -1,11 +1,11 @@
 <!-- readme.md v1.6.9.9
-FuelTanksPlus (ABBV)
+Fuel Tanks Plus (FTP)
 created: 17 Jul 2017
 updated: 04 Oct 2022 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
-[![FuelTanksPlus][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Fuel Tanks Plus][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][ckan:shd]][ckan:url]   
 [![Pages][MOD:pages:shd]][MOD:pages]
 
@@ -172,6 +172,7 @@ or [![CKAN][ckan:img]][ckan:url]
 [![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
 
 *and it is true.*
+<!-- mod links -->
 [MOD:attr]: https://zer0kerbal.github.io/FuelTanksPlus/Attributions "Attribution"
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/changelog.md  "Changelog"
 [MOD:discu]: https://github.com/zer0Kerbal/FuelTanksPlus/discussions "Discussions"
