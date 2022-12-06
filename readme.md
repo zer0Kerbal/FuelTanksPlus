@@ -286,7 +286,7 @@ or [![CKAN][ckan:img]][ckan:url]
 [reddit]: https://www.reddit.com/user/zer0Kerbal
 [twitch]: https://www.twitch.tv/zer0kerbal
 [twitter]: https://twitter.com/zer0Kerbal
-[youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
+[youtube]: https://www.youtube.com/@zer0Kerbal
 
 [necrobones]:  https://forum.kerbalspaceprogram.com/index.php?/profile/102159-*/ "NecroBones"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
