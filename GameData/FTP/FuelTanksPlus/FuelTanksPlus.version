@@ -20,7 +20,7 @@
 	{
 		"MAJOR" : 1,
 		"MINOR" : 12,
-		"PATCH" : 3
+		"PATCH" : 4
 	},
 	"KSP_VERSION_MIN" :
 	{
@@ -32,5 +32,10 @@
 	{
 		"NAME"      : "FuelTanksPlus",
 		"DIRECTORY" : "FTP/FuelTanksPlus"
+	},
+	"INSTALL_LOC" :
+	{
+		"NAME"      : "Ships",
+		"DIRECTORY" : "Ships"
 	}
 }
