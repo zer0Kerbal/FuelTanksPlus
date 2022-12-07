@@ -21,6 +21,57 @@ this file: CC BY-ND 4.0 by zer0Kerbal --># Changelog
 | spacedock  | (https://spacedock.info/mod/92)                                   |
 | ckan       | FuelTanksPlus                                                     |
 
+## Version 2.0.99.1-prerelease - `<Thank you NecroBones>` edition
+
+* Released
+  * 05 Dec 2022
+  * for Kerbal Space Program 1.12.4
+  * by zer0Kerbal
+
+### Summary 2.0.99.1
+
+* Next in a series of updates, breaking down the update from one massive to several smaller and more manageable updates
+* Parts updated in this release
+  * RCS
+    * TPmono0mL01875
+    * TPmono1mL02850
+    * TPmono2mL05000
+    * TPmono3mL05000
+  * Size0
+    * TPtank0mL00175
+    * TPtank0mL00700
+    * TPtank0mL01350
+    * TPtank0mL01875
+    * TPcone0m1
+    * TPdecoupler0m
+
+### Localization 2.0.99.1
+
+* Add
+  * partial Italian (Italiano)
+  * <it-it.cfg> v1.0.1.0
+  * by [MattNot](https://github.com/MattNot)
+  * updated header
+  * linted comments
+* Update
+  * <en-us.cfg> v1.0.1.1
+  * updated header
+  * linted comments
+* updates #7 - Localization Master
+* updates #8 - Localization - English <en-us.cfg>
+* updates #19 - Localization - Italian (Italiano) <it-it.cfg>
+
+### Status 2.0.99.1
+
+* Issues
+  * updates #135 - Asset Updates
+  * closes #143 - Fuel Tanks Plus (FTP) 2.0.99.1-prerelease `<EDITION>`
+  * closes #144 - 2.0.99.1 Verify Legal Mumbo Jumbo
+  * closes #145 - 2.0.99.1 Update Documentation
+  * closes #146 - 2.0.99.1 Update Social Media
+
+---
+
 ## Version 2.0.99.0-adoption `<Thank you NecroBones>` edition
 
 * 09 Oct 2022
