@@ -13,7 +13,7 @@ updated: 15 May 2022 -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-explosion fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #FF7E03" ></i>
 
-# Fuel Tanks Plus (FTP)
+# Fuel Tanks Plus (FTP) [WIP]
 
 [Home](./index.md)
 
@@ -21,11 +21,10 @@ A set of fuel tanks that are 1.5x the length of the largest stock tanks in each 
 
 ## Parts Catalog
 
-This add-on adds nine (9) resource parts
+This add-on adds xxx (x) resource parts
 
 ---
 
-* Mallet *(Only with Kerbal Inventory System installed)*
 * SurveyStake
 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/GameData/FuelTanksPlus/Parts/%40thumbs/ElMallet_icon.png" alt="Mallet" width="25%" height="25%" />
