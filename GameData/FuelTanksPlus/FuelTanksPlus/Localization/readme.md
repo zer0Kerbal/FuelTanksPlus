@@ -2,9 +2,7 @@
 permalink: /readme.html
 title: Localization and Translation Readme
 ---
-
-<!--
-readme.md v2.1.2.0
+<!-- readme.md v2.1.2.0
 Localization project
 created: 01 Jan 2018
 updated: 13 May 2022  -->
