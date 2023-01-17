@@ -10,6 +10,48 @@
 | spacedock  | (https://spacedock.info/mod/92)                                   |
 | ckan       | FuelTanksPlus                                                     |
 
+## Version 2.0.99.2-prerelease - `<Thank you NecroBones>` edition
+
+* Released
+  * 16 Jan 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 2.0.99.2
+
+* Next in a series of updates, breaking down the update from one massive to several smaller and more manageable updates
+* FTP Ltd (FTPL) is now a hard dependancy
+  * Texture and Model assets have been relocated to FTP Ltd (FTPL)
+* Parts updated in this release
+  * RCS
+    * TPmono0mL01875
+    * TPmono1mL02850
+    * TPmono2mL05000
+    * TPmono3mL05000
+  * Size0
+    * TPtank0mL00175
+    * TPtank0mL00700
+    * TPtank0mL01350
+    * TPtank0mL01875
+    * TPcone0m1
+    * TPdecoupler0m
+
+### Localization 2.0.99.2
+
+* Update
+  * move theme strings to agency
+  * <it-it.cfg> v1.0.1.0
+  * <en-us.cfg> v1.0.1.1
+* updates #7 - Localization Master
+* updates #8 - Localization - English <en-us.cfg>
+* updates #19 - Localization - Italian (Italiano) <it-it.cfg>
+
+### Status 2.0.99.2
+
+* Issues
+
+---
+
 ## Version 2.0.99.1-prerelease - `<Thank you NecroBones>` edition
 
 * Released
