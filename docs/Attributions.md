@@ -51,10 +51,11 @@ updated: 03 Jun 2022
 ### Translations
 
 <ul>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png " alt="English" style="zoom:150%;" /> English</li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png " alt="Italiano" style="zoom:100%;" /> Italian (Italiano) - courtesy of <a href="https://github.com/MattNot" alt="MattNot">Mattnot</a></li>
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
-
+[MattNot](https://github.com/MattNot)
 ### Art Asset(s)
 
 * Flags
