@@ -4,7 +4,6 @@ title: The Change Log
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!-- hdr-changelog.md v1.0.0.0
 Fuel Tanks Plus (FTP)
 created: 13 May 2022
@@ -20,6 +19,35 @@ this file: CC BY-ND 4.0 by zer0Kerbal --># Changelog
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/FuelTanksPlus)        |
 | spacedock  | (https://spacedock.info/mod/92)                                   |
 | ckan       | FuelTanksPlus                                                     |
+
+## Version 2.0.99.2-prerelease - `<Thank you NecroBones>` edition
+
+* Released
+  * 16 Jan 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 2.0.99.2
+
+* Next in a series of updates, breaking down the update from one massive to several smaller and more manageable updates
+* FTP Ltd (FTPL) is now a hard dependancy
+  * Texture and Model assets have been relocated to FTP Ltd (FTPL)
+
+### Localization 2.0.99.2
+
+* Update
+  * move theme strings to agency
+  * <it-it.cfg> v1.0.1.0
+  * <en-us.cfg> v1.0.1.1
+* updates #7 - Localization Master
+* updates #8 - Localization - English <en-us.cfg>
+* updates #19 - Localization - Italian (Italiano) <it-it.cfg>
+
+### Status 2.0.99.2
+
+* Issues
+
+---
 
 ## Version 2.0.99.1-prerelease - `<Thank you NecroBones>` edition
 
@@ -716,3 +744,4 @@ this file: CC BY-ND 4.0 by zer0Kerbal --># Changelog
 * updates #26 - Previous Releases
 
 ---
+
