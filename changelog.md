@@ -22,19 +22,6 @@
 * Next in a series of updates, breaking down the update from one massive to several smaller and more manageable updates
 * FTP Ltd (FTPL) is now a hard dependancy
   * Texture and Model assets have been relocated to FTP Ltd (FTPL)
-* Parts updated in this release
-  * RCS
-    * TPmono0mL01875
-    * TPmono1mL02850
-    * TPmono2mL05000
-    * TPmono3mL05000
-  * Size0
-    * TPtank0mL00175
-    * TPtank0mL00700
-    * TPtank0mL01350
-    * TPtank0mL01875
-    * TPcone0m1
-    * TPdecoupler0m
 
 ### Localization 2.0.99.2
 
