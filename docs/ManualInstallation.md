@@ -30,48 +30,46 @@ You should be all good! (check for latest version on CurseForge)
 To install, place the FTP folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/FTP/FuelTanksPlus`
-* Extract the package's `FTP` folder into your KSP's GameData folder as follows:
-  * `<PACKAGE>/FTP` --> `<KSP_ROOT>/GameData`
+  * Delete `<KSP_ROOT>/GameData/FuelTanksPlus/FuelTanksPlus`
+* Extract the package's `FuelTanksPlus` folder into your KSP's GameData folder as follows:
+  * `<PACKAGE>/FuelTanksPlus` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting file.
-  * you should end up with `<KSP_ROOT>/GameData/FTP/FuelTanksPlus`
+  * you should end up with `<KSP_ROOT>/GameData/FuelTanksPlus/FuelTanksPlus`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
 To install, place the GameData folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/FTP/FuelTanksPlus`
+  * Delete `<KSP_ROOT>/GameData/FuelTanksPlus/FuelTanksPlus`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData/` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
-  * you should end up with `<KSP_ROOT>/GameData/FTP/FuelTanksPlus`
+  * you should end up with `<KSP_ROOT>/GameData/FuelTanksPlus/FuelTanksPlus`
 
 ## The following file layout must be present after installation
 
 ```markdown
 <KSP_ROOT>
   + [GameData]
-    + [FTP]
+    + [FuelTanksPlus]
       + [Fuel Tanks Plus Ltd (FTPL)][FTPL]
         ...
-        + [FuelTanksPlus]
-          + [Assets]
-            ...
-          + [Compatibility]
-            ...
-          + [Localization]
-            ...
-          + [Parts]
-            ...
-          * #.#.#.#.htm
-          * Attributions.htm
-          * CC-BY-NC-SA-4.0.txt
-          * changelog.md
-          * ManualInstallation.htm
-          * readme.htm
-          * FuelTanksPlus.version
+      + [FuelTanksPlus]
+        + [Compatibility]
           ...
+        + [Localization]
+          ...
+        + [Parts]
+          ...
+        * #.#.#.#.htm
+        * Attributions.htm
+        * CC-BY-NC-SA-4.0.txt
+        * changelog.md
+        * FuelTanksPlus.version
+        * ManualInstallation.htm
+        * readme.htm
+        ...
       ...
     * ModuleManager.ConfigCache
   * KSP.log
