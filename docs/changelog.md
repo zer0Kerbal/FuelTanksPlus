@@ -46,6 +46,9 @@ this file: CC BY-ND 4.0 by zer0Kerbal --># Changelog
 ### Status 2.0.99.2
 
 * Issues
+  * closes #150 - Fuel Tanks Plus (FTP) 2.0.99.2-prerelease `<Thank you NecroBones>` edition
+  * closes #151 - 2.0.99.2 Additional Tasks
+  * closes #135 - Asset Updates
 
 ---
 
