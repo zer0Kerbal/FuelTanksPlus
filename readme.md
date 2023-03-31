@@ -251,7 +251,6 @@ Comment, click, like, share, up-vote, subscribe
 [SIL]: https://forum.kerbalspaceprogram.com/index.php?/topic/193050-*/ "Stock Inline Lights (SIL)"
 [SLOG]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/ "SimpleLogistics! (SLOG)"
 [SOL]: https://forum.kerbalspaceprogram.com/index.php?/topic/192489-*/ "Solar Science (SOL)"
-Facility (FTF)"
 
 [BURG]: https://www.curseforge.com/kerbal/ksp-mods/burgermod "The Burger Mod (BURG)"
 [CCC]: https://www.curseforge.com/kerbal/ksp-mods/colorcodedcanisters "Color Coded Canisters (CCC)"
