@@ -1,13 +1,17 @@
-<!-- readme.md v1.7.0.1
+<!-- readme.md v2.0.99.3
 Fuel Tanks Plus (FTP)
+created: 01 Sep 2022
+updated: 31 Mar 2023
+
+TEMPLATE: readme.md v1.7.1.0
 created: 17 Jul 2017
-updated: 04 Oct 2022 -->
+updated: 15 Mar 2023
 
-<!--this file: CC BY-ND 4.0 by zer0Kerbal-->
+this file: CC BY-ND 4.0 by zer0Kerbal -->
 
-[![Fuel Tanks Plus (FTP)][MOD:shd]][forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
-[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][ckan:shd]][ckan:url]   
-[![Pages][pages:shd]][pages]
+[![Fuel Tanks Plus (FTP)][SHD:mod]][FTP]  
+[![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
 
 # Fuel Tanks Plus (FTP)
 
@@ -39,7 +43,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >* [GitHub Pages][pages]
 >* [Marketing Slicks][markt]
 >* [Parts Catalog][parts] for part pictures
->* [Discussions][discu] or [KSP Forums][forum] for discussions and news
+>* [Discussions][discu] or [Forums][forum] for discussions and news
 >* [ChangeLog][chlog] for more details of changes
 >* [Known Issues][issue] for more details of feature requests and known issues
 
@@ -64,14 +68,13 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 > * Variant textures
 > * Switch to stock variant textures
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
-> * Have a request? Glad to have them, kindly submit through [GitHub][issue].
-> * Marketing Images and Videos such as hero shots, animated gifs, short highlights
 > * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 > * Have a request? Glad to have them, kindly submit through [GitHub][issue].
 
 ### Localization
 
 >* ![English][EN] English
+>* ![Italiano][IT] Italian (Italiano) - courtesy of [MattNot](https://github.com/MattNot)
 >* ***your translation here***
 
 ### Installation Directions [^1]
@@ -189,8 +192,8 @@ OLD: [![CKAN][ckan:img]][ckan:url]
 [pages]: https://zer0kerbal.github.io/FuelTanksPlus "GitHub Pages"
 
 <!--- shields -->
-[MOD:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/json/mod.json
-[pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
+[SHD:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/json/mod.json
+[SHD:pgs]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
 [MOD:0:source]: https://spacedock.info/mod/92 "SpaceDock"
