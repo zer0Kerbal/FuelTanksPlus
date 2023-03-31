@@ -178,7 +178,7 @@ parts, resources, variants
 
 #### Original (0) - Author: [`NecroBones`][necrobones]
 
-> Forum: [Thread][MOD:0:thread] - Download: [CurseForge][MOD:0:dnload] - Source: [SpaceDock][MOD:0:source]
+> Forum: [Thread][MOD:0:thread] - Download: [CurseForge][MOD:0:dnload] - Source: [SpaceDock][MOD:0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
 
 ### How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
