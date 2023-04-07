@@ -20,6 +20,7 @@
 ### Summary 2.0.99.3
 
 * Next in a series of updates, breaking down the update from one massive to several smaller and more manageable updates
+* FTP Ltd (FTPL) is a hard dependancy
 * Updated
   * Size 1 parts (10 parts) have been initially updated
 * Left to Update
@@ -28,7 +29,6 @@
 * correct typo: [displayName], was [displaceName]
 * Documentation: Broken link(s) to FTP Ltd
   * thank you to [drmuelr](https://github.com/drmuelr)
-* FTP Ltd (FTPL) is a hard dependancy
 
 ### Status 2.0.99.3
 
