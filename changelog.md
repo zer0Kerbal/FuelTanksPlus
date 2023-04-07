@@ -10,6 +10,8 @@
 | spacedock  | (https://spacedock.info/mod/92)                                   |
 | ckan       | FuelTanksPlus                                                     |
 
+displayName/displaceName
+
 ## Version 2.0.99.2-prerelease - `<Thank you NecroBones>` edition
 
 * Released
