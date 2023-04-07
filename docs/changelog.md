@@ -20,6 +20,36 @@ this file: CC BY-ND 4.0 by zer0Kerbal --># Changelog
 | spacedock  | (https://spacedock.info/mod/92)                                   |
 | ckan       | FuelTanksPlus                                                     |
 
+## Version 2.0.99.3-prerelease - `<Thank you NecroBones>` edition
+
+* Released
+  * 06 Apr 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 2.0.99.3
+
+* Next in a series of updates, breaking down the update from one massive to several smaller and more manageable updates
+* FTP Ltd (FTPL) is a hard dependancy
+* Updated
+  * Size 1 parts (10 parts) have been initially updated
+* Left to Update
+  * Size 2
+  * Size 3
+* correct typo: [displayName], was [displaceName]
+* Documentation: Broken link(s) to FTP Ltd
+  * thank you to [drmuelr](https://github.com/drmuelr)
+
+### Status 2.0.99.3
+
+* Issues
+  * closes #154 - Fuel Tanks Plus (FTP) 2.0.99.3-prerelease `<Thank you NecroBones>` edition
+  * closes #155 - 2.0.99.3 Additional Tasks
+  * update #156 - [Update] Size
+  * closes #158 - [Documentation Issue 📚]: Broken link to FTP Ltd
+
+---
+
 ## Version 2.0.99.2-prerelease - `<Thank you NecroBones>` edition
 
 * Released
