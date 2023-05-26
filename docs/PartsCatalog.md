@@ -327,4 +327,4 @@ This add-on adds xxx (x) resource parts
 
 [top](#parts-catalog)
 
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+<!-- THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
