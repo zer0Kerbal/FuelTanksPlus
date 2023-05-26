@@ -8,7 +8,7 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 Fuel Tanks Plus (FTP)
 created: 13 May 2022
 updated:
-this file: CC BY-ND 4.0 by zer0Kerbal --># Changelog  
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal --># Changelog  
   
 | modName    | Fuel Tanks Plus (FTP)                                             |
 | ---------- | ----------------------------------------------------------------- |
