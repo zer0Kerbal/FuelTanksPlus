@@ -30,7 +30,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal --># Changelog
 ### Summary 2.0.99.3
 
 * Next in a series of updates, breaking down the update from one massive to several smaller and more manageable updates
-* FTP Ltd (FTPL) is a hard dependancy
+* FTP Ltd (FTPL) is a hard dependency
 * Updated
   * Size 1 parts (10 parts) have been initially updated
 * Left to Update
@@ -60,7 +60,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal --># Changelog
 ### Summary 2.0.99.2
 
 * Next in a series of updates, breaking down the update from one massive to several smaller and more manageable updates
-* FTP Ltd (FTPL) is now a hard dependancy
+* FTP Ltd (FTPL) is now a hard dependency
   * Texture and Model assets have been relocated to FTP Ltd (FTPL)
 
 ### Localization 2.0.99.2
