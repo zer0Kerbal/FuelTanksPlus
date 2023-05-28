@@ -31,6 +31,8 @@
   * Size 2
   * Size 3
 
+CopyTexturesWindows.bat v1.1.2.0
+
 ### Changes 2.0.99.4
 
 ### Status 2.0.99.4
