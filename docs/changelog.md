@@ -10,15 +10,85 @@ created: 13 May 2022
 updated:
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal --># Changelog  
   
-| modName    | Fuel Tanks Plus (FTP)							   |
+| modName    | Fuel Tanks Plus (FTP)                                             |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-NC-SA-4.0								   |
-| author     | NecroBones and zer0Kerbal						     |
-| forum	| (https://forum.kerbalspaceprogram.com/index.php?/topic/207702-*/) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/FuelTanksPlus)	    |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/FuelTanksPlus)	  |
-| spacedock  | (https://spacedock.info/mod/92)					     |
-| ckan	 | FuelTanksPlus								     |
+| license    | CC-BY-NC-SA-4.0                                                   |
+| author     | NecroBones and zer0Kerbal                                         |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207702-*/) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/FuelTanksPlus)          |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/FuelTanksPlus)        |
+| spacedock  | (https://spacedock.info/mod/92)                                   |
+| ckan       | FuelTanksPlus                                                     |
+
+## Version 2.0.99.4-prerelease - `<Thank you NecroBones>` edition
+
+* Released
+  * 28 May 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * Dependencies:
+    * [FTP Limited (FTPL)](https://www.curseforge.com/kerbal/ksp-mods/FTPLtd)
+  * search for `ftp` (and others) in the editor search bar to find all parts in this pack.
+  * some textures were deprecated by Squad
+    * `<KSP_ROOT>\GameData\\Squad\zDeprecated\Parts\FuelTank\fuelTankJumbo-64\*.dds`
+    * either manually copy back to `<KSP_ROOT>\GameData\Squad\Parts\FuelTank\fuelTankJumbo-64\`
+    * or use the newly added [CopyTexturesWindows.bat] v1.1.2.0 which copies only textures back to original directory which needs to be run from where it is `<KSP_ROOT>\GameData\FuelTanksPlus\FuelTanksPlus`
+
+### Change Summary 2.0.99.4
+
+* All 48 parts are included and initially updated
+  * parts are fully localized (English and Italian) included actions
+  * Phase I,II,III passes completed
+    * parts pass started (see 2.0.99.0 for more details)
+    * DRAG_CUBES, cargo, and node pass yet to complete
+* Added [CopyTexturesWindows.bat] v1.1.2.0
+* move out from part.cfg into patch: [CrossFeedEnabler.cfg] and [ReflectionPlugin.cfg]
+* Update [FuelTanksPlus.cfg]
+* remove superfluous strings and add new tag strings
+
+### Changes 2.0.99.4
+
+### Parts 2.0.99.4
+
+* Fix
+* Lint
+* Reformat
+* Errors
+
+### Compatibility 2.0.99.4
+
+* Create
+  * move out from part.cfg into patch
+  * [CrossFeedEnabler.cfg] v1.0.0.0
+  * [ReflectionPlugin.cfg] v1.0.0.0
+
+### Config 2.0.99.4
+
+* Update
+  * [FuelTanksPlus.cfg] v1.1.1.0
+
+### Localization 2.0.99.4
+
+* Update
+  * remove superfluous strings
+  * add new tag strings
+  * <en-us.cfg> v1.1.3.0
+  * <it-it.cfg> v1.0.3.0
+* closes #19 - Localization - Italian (Italiano) <it-it.cfg>
+* updates #7 - Localization Master
+* updates #8 - Localization - English <en-us.cfg>
+* updates #19 - Localization - Italian (Italiano) <it-it.cfg>
+
+### Status 2.0.99.4
+
+* Issues
+  * closes #162 - 2.0.99.4 Additional Tasks
+  * closes #161 - Fuel Tanks Plus (FTP) 2.0.99.4-prerelease `<Thank you NecroBones>` edition
+  * closes #156 - [Update] Size
+
+---
 
 ## Version 2.0.99.3-prerelease - `<Thank you NecroBones>` edition
 
@@ -110,10 +180,10 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal --># Changelog
 
 * Add
   * partial Italian (Italiano)
-  * <it-it.cfg> v1.0.1.0
-  * by [MattNot](https://github.com/MattNot)
-  * updated header
-  * linted comments
+    * <it-it.cfg> v1.0.1.0
+    * by [MattNot](https://github.com/MattNot)
+    * updated header
+    * linted comments
 * Update
   * <en-us.cfg> v1.0.1.1
   * updated header
