@@ -1,0 +1,61 @@
+@echo off
+:: CopyTexturesWindows.bat v1.1.2.0
+:: Fuel Tanks Plus (FTP)
+:: created: 20 Feb 2017
+:: updated: 28 May 2023
+:: THIS FILE:
+::   GPL-2.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+echo This file should be run on Windows, in the FuelTanksPlus directory
+echo.
+echo This batch file will copy the missing textures from the inaccessible
+echo Squad/zDeprecated directory for the Rockomax Jumbo-64 Fuel Tankt, also known as
+echo the Giant Orange Tank. It will then delete any stray part.cfg's that have
+echo hitched a ride.
+echo.
+echo Double-clicking on the file while in Windows Explorer should be sufficient
+echo.
+echo CopyTexturesWindows.bat v1.1.2.0
+echo.
+echo THIS FILE is licensed GPL-2.0
+echo.
+echo Copyright (C) 2017 by [zer0Kerbal](https://github.com/zer0Kerbal)
+echo.
+echo This batch program is free software; you can redistribute it and/or modify
+echo it under the terms of the GNU General Public License as published by
+echo the Free Software Foundation; either version 2 of the License, or (at
+echo your option) any later version.
+echo.
+echo This program is distributed in the hope that it will be useful, but
+echo WITHOUT ANY WARRANTY; without even the implied warranty of
+echo MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+echo General Public License for more details.
+echo.
+echo You should have received a copy of the GNU General Public License
+echo along with this program; if not, write to the Free Software
+echo Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307
+echo USA.
+pause
+echo.
+echo.
+echo ***********************************************************************
+echo *
+set OrigPath=%cd%
+set XC=%systemroot%\System32\xcopy
+chdir /d ..\..\
+set COPYTODIR=%cd%\Squad\Parts\FuelTank\fuelTankJumbo-64\
+chdir /d %OrigPath%
+chdir /d ..\..\Squad\zDeprecated\Parts\FuelTank\fuelTankJumbo-64\
+%XC% "%cd%" "%COPYTODIR%" /c /d /i /j /q /s /y
+del "%COPYTODIR%\*.cfg"
+del "%COPYTODIR%\*.mu"
+chdir /d %OrigPath%
+echo *											   *
+echo * The files have been copied							*
+echo *											   *
+echo ***********************************************************************
+echo *											   *
+echo * Thank you for using a KerbSimpleCo product!!				*
+echo *											   *
+echo ***********************************************************************
+pause
