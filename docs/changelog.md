@@ -50,26 +50,26 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal --># Changelog
 
 ### Changes 2.0.99.4
 
-### Parts 2.0.99.4
+#### Parts 2.0.99.4
 
 * Fix
 * Lint
 * Reformat
 * Errors
 
-### Compatibility 2.0.99.4
+#### Compatibility 2.0.99.4
 
 * Create
   * move out from part.cfg into patch
   * [CrossFeedEnabler.cfg] v1.0.0.0
   * [ReflectionPlugin.cfg] v1.0.0.0
 
-### Config 2.0.99.4
+#### Config 2.0.99.4
 
 * Update
   * [FuelTanksPlus.cfg] v1.1.1.0
 
-### Localization 2.0.99.4
+#### Localization 2.0.99.4
 
 * Update
   * remove superfluous strings
@@ -81,7 +81,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal --># Changelog
 * updates #8 - Localization - English <en-us.cfg>
 * updates #19 - Localization - Italian (Italiano) <it-it.cfg>
 
-### Status 2.0.99.4
+#### Status 2.0.99.4
 
 * Issues
   * closes #162 - 2.0.99.4 Additional Tasks
