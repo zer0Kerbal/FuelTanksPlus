@@ -87,12 +87,12 @@ Do **not** change the part to the left of the equals sign ("=")! These names mus
 
 The part to the right of the equals sign is the string to be used in-game. Most of the text will be shown as-is, but it can contain a few special strings as shown in the [Lingoona grammar module demo](http://lingoona.com/cgi-bin/grammar#l=en&oh=1):
 
-| String  | Purpose                                                                                                                    |
+| String  | Purpose																			  |
 | ------- | -------------------------------------------------------------------------------------------------------------------------- |
-| \n      | Line break; try to preserve these based on the original strings to make sure the strings will fit                          |
+| \n	| Line break; try to preserve these based on the original strings to make sure the strings will fit				  |
 | <<1>>   | The first substitutable token in the string, will be replaced by a number, name of a planet, etc., depending on the string |
-| <<2>>   | Second token, and so on                                                                                                    |
-| <<A:1>> | The first token, but substituted with a proper article                                                                     |
+| <<2>>   | Second token, and so on																    |
+| <<A:1>> | The first token, but substituted with a proper article											   |
 
 For example, this is a possible translation of the above line into Spanish, courtesy of Google Translate:
 

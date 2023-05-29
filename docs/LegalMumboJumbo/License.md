@@ -116,7 +116,7 @@ b. ___ShareAlike.___
 
 In addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.
 
- 1. The Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-NC-SA Compatible License.      
+ 1. The Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-NC-SA Compatible License.	
 
  2. You must include the text of, or the URI or hyperlink to, the Adapter's License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.
 

@@ -14,7 +14,7 @@ name: AVC .version file validation
 on:
   push:
     branches:
-      - master
+	- master
   pull_request:
     types: [opened, synchronize, reopened]
   workflow_dispatch:
@@ -23,9 +23,9 @@ jobs:
   validate_version_files:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@main
-        with:
-          fetch-depth: 1
-      - name: Validate files
-        uses: DasSkelett/AVC-VersionFileValidator@master
+	- name: Checkout repo
+	  uses: actions/checkout@main
+	  with:
+	    fetch-depth: 1
+	- name: Validate files
+	  uses: DasSkelett/AVC-VersionFileValidator@master

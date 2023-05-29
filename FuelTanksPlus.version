@@ -5,7 +5,7 @@
 	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/changelog.md",
 	"GITHUB" :
 	{
-		"USERNAME"	        : "zer0Kerbal",
+		"USERNAME"		  : "zer0Kerbal",
 		"REPOSITORY"		: "FuelTanksPlus",
 		"ALLOW_PRE_RELEASE" : false
 	},
@@ -14,7 +14,7 @@
 		"MAJOR" : 2,
 		"MINOR" : 0,
 		"PATCH" : 99,
-		"BUILD" : 3
+		"BUILD" : 4
 	},
 	"KSP_VERSION" :
 	{
@@ -30,12 +30,12 @@
 	},
 	"INSTALL_LOC" :
 	{
-		"NAME"      : "FuelTanksPlus",
+		"NAME"	: "FuelTanksPlus",
 		"DIRECTORY" : "FuelTanksPlus/FuelTanksPlus"
 	},
 	"INSTALL_LOC" :
 	{
-		"NAME"      : "Ships",
+		"NAME"	: "Ships",
 		"DIRECTORY" : "Ships"
 	}
 }
