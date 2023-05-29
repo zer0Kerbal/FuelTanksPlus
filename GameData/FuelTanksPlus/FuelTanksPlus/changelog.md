@@ -244,7 +244,7 @@
 * Updates #7 - Localization Master
 * Closes #8 - Localization - English (United States)] <en-us.cfg>
 
-### Compatability 2.0.99.0
+### Compatibility 2.0.99.0
 
 * Move
   * Patches to Compatibility
