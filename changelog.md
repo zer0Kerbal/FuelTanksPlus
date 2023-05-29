@@ -24,7 +24,8 @@
   * some textures were deprecated by Squad
     * `<KSP_ROOT>\GameData\\Squad\zDeprecated\Parts\FuelTank\fuelTankJumbo-64\*.dds`
     * either manually copy back to `<KSP_ROOT>\GameData\Squad\Parts\FuelTank\fuelTankJumbo-64\`
-    * or use the newly added [CopyTexturesWindows.bat] v1.1.2.0 which copies only textures back to original directory which needs to be run from where it is `<KSP_ROOT>\GameData\FuelTanksPlus\FuelTanksPlus`
+    * or use the newly added [CopyTexturesWindows.bat.0] v1.1.2.0 which copies only textures back to original directory which needs to be run from where it is `<KSP_ROOT>\GameData\FuelTanksPlus\FuelTanksPlus`
+    * rename from bat.0 to bat before running
 
 ### Change Summary 2.0.99.4
 
