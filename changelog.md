@@ -33,6 +33,15 @@
   * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
   * Спасибо [evanisrael](https://github.com/evanisrael)
 
+### Changes 2.0.99.5
+
+#### Compatibility 2.0.99.5
+
+* Add
+  * [DRElite.cfg] v1.0.0.0
+* Update
+  * [DeadlyReentry.cfg] v1.2.1.0
+
 #### Localization 2.0.99.5
 
 * Add
@@ -44,20 +53,30 @@
     * [quickstart-ru.md] v1.0.0.0
     * Спасибо [evanisrael](https://github.com/evanisrael)
 * Update
-  * [en-us.cfg] v1.0.1.0
-  * [it-it.cfg] v1.0.1.0
-  * [ru.cfg] v1.0.1.0
   * add header, give credit
+  * [en-us.cfg] v1.0.4.0
+  * [it-it.cfg] v1.0.4.0
+  * [ru.cfg] v1.0.1.0
+* closes #12 - Localization - Russian (Русский) <ru.cfg>
+* updates #19 - Localization - Italian (Italiano) <it-it.cfg>
+* updates #7 - Localization Master
+* updates #8 - Localization - English <en-us.cfg>
 
 #### Documentation 2.0.99.5
 
 * Update
-  * [Attributions.md] v1.0.1.0
-  * [Localizations.md] v1.0.1.0
+  * [404.md] v1.0.6.0
+  * [Attributions.md] v1.0.6.0
+  * [Attributions.md] v1.0.6.0
   * [readme.md] v2.0.99.5
   * [ReleaseLayout.md] v2.0.99.5
 
 ### Status 2.0.99.5
+
+* Issues
+  * closes #164 - Fuel Tanks Plus (FTP) 2.0.99.5-prerelease `<Спасибо evanisrael>` edition
+  * closes #165 - 2.0.99.5 Additional Tasks
+
 ---
 
 ## Version 2.0.99.4-prerelease - `<Thank you NecroBones>` edition
