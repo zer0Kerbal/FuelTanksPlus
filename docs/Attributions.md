@@ -24,26 +24,26 @@ updated: 03 Jun 2022
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/ "><img border="0" alt="NecroBones" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_11_2015/avatar_96x96.gif.787b9a3478ccb83beb330a550f437d88.thumb.gif.5afcf23f2446f3774eeeeca98687261b.gif" width="50" height="50" > NecroBones</a> for creating <a href="https://forum.kerbalspaceprogram.com/threads/207702-*/" alt="Fuel Tanks Plus (FTP)"> Fuel Tanks Plus (FTP)!</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/ "><img alt="NecroBones" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_11_2015/avatar_96x96.gif.787b9a3478ccb83beb330a550f437d88.thumb.gif.5afcf23f2446f3774eeeeca98687261b.gif" width="50" height="50" > NecroBones</a> for creating <a href="https://forum.kerbalspaceprogram.com/threads/207702-*/" alt="Fuel Tanks Plus (FTP)"> Fuel Tanks Plus (FTP)!</a></li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
 
 ### Flag(s)
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/ "><img border="0" alt="NecroBones" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_11_2015/avatar_96x96.gif.787b9a3478ccb83beb330a550f437d88.thumb.gif.5afcf23f2446f3774eeeeca98687261b.gif" width="50" height="50" > NecroBones</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/ "><img alt="NecroBones" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_11_2015/avatar_96x96.gif.787b9a3478ccb83beb330a550f437d88.thumb.gif.5afcf23f2446f3774eeeeca98687261b.gif" width="50" height="50" > NecroBones</a></li>
 </ul>
 
 ### Agency
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/ "><img border="0" alt="NecroBones" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_11_2015/avatar_96x96.gif.787b9a3478ccb83beb330a550f437d88.thumb.gif.5afcf23f2446f3774eeeeca98687261b.gif" width="50" height="50" > NecroBones</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/ "><img alt="NecroBones" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_11_2015/avatar_96x96.gif.787b9a3478ccb83beb330a550f437d88.thumb.gif.5afcf23f2446f3774eeeeca98687261b.gif" width="50" height="50" > NecroBones</a></li>
 </ul>
 
 ### Special Thanks
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/70516-captainkipard/"><img border="0" alt="Captain Kipard" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/itsame.png.3227b08e54fc9e3eaa0c6c2ad8e9ad07.thumb.png.5d3a3eb0344a23048ea58826e47b9781.png" width="50" height="50" > Captain Kipard</a> for the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/85372-*/"> Mod Development Links Compilation</a> and other tutorials.</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/70516-*/"><img alt="Captain Kipard" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/itsame.png.3227b08e54fc9e3eaa0c6c2ad8e9ad07.thumb.png.5d3a3eb0344a23048ea58826e47b9781.png" width="50" height="50" > Captain Kipard</a> for the <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/85372-*/"> Mod Development Links Compilation</a> and other tutorials.</li>
   <li>Squad, for making such a great game!</li>
   <li>Everyone else who made modding tutorials.</li>
 </ul>

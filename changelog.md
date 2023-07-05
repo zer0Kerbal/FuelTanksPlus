@@ -1,8 +1,8 @@
 # Changelog  
   
-| modName    | Fuel Tanks Plus (FTP)                                             |
+| modName    | Fuel Tanks Plus (FTP) by NecroBones                               |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-NC-SA-4.0                                                   |
+| license    | CC-BY-NC-SA-4.0+ARR                                               |
 | author     | NecroBones and zer0Kerbal                                         |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207702-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/FuelTanksPlus)          |

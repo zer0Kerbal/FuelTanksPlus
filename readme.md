@@ -126,7 +126,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 * [SimpleConstruction! (SCON)][SCON]
 * [SimpleLogistics! (SLOG)][SLOG]
 * [SimpleNotes! (NOTE)][NOTES]
-* [Stock Inline Lights (SIL)][SIL]
+* [Stack Inline Lights (SIL)][SIL]
 * Science!
   * [Mkerb Science Instruments][MSI]
   * [OScience Laboratories (OSL)][OSL]
