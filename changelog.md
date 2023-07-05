@@ -10,6 +10,56 @@
 | spacedock  | (https://spacedock.info/mod/92)                                   |
 | ckan       | FuelTanksPlus                                                     |
 
+## Version 2.0.99.5-prerelease - `<Спасибо evanisrael>` edition
+
+* Released
+  * 04 Jul 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * Dependencies:
+    * [FTP Limited (FTPL)](https://www.curseforge.com/kerbal/ksp-mods/FTPLtd)
+  * search for `ftp` (and others) in the editor search bar to find all parts in this pack.
+  * some textures were deprecated by Squad
+    * `<KSP_ROOT>\GameData\\Squad\zDeprecated\Parts\FuelTank\fuelTankJumbo-64\*.dds`
+    * either manually copy back to `<KSP_ROOT>\GameData\Squad\Parts\FuelTank\fuelTankJumbo-64\`
+    * or use the newly added [CopyTexturesWindows.bat.0] v1.1.2.0 which copies only textures back to original directory which needs to be run from where it is `<KSP_ROOT>\GameData\FuelTanksPlus\FuelTanksPlus`
+    * rename from bat.0 to bat before running
+
+### Change Summary 2.0.99.5
+
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [evanisrael](https://github.com/evanisrael)
+
+#### Localization 2.0.99.5
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github.com/evanisrael)
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github.com/evanisrael)
+* Update
+  * [en-us.cfg] v1.0.1.0
+  * [it-it.cfg] v1.0.1.0
+  * [ru.cfg] v1.0.1.0
+  * add header, give credit
+
+#### Documentation 2.0.99.5
+
+* Update
+  * [Attributions.md] v1.0.1.0
+  * [Localizations.md] v1.0.1.0
+  * [readme.md] v2.0.99.5
+  * [ReleaseLayout.md] v2.0.99.5
+
+### Status 2.0.99.5
+---
+
 ## Version 2.0.99.4-prerelease - `<Thank you NecroBones>` edition
 
 * Released
