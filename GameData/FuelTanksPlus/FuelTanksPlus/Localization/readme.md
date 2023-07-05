@@ -1,156 +1,158 @@
 ---
-permalink: /readme-ru.html
-title: Иструкция по переводу и локализации
+permalink: /readme.html
+title: Localization and Translation Readme
 ---
-<!-- readme-ru.md v1.0.1.0
+<!--
+readme.md v2.1.2.1
 Localization project
-created: 04 Jun 2023
+created: 01 Jan 2018
+updated: 13 May 2022
 updated: 04 Jun 2023
 
 THIS FILE:
     CC BY-ND-4.0
     by [zer0Kerbal](https://gitbug.com/zer0Kerbal)
-    Переведено/translated by [evanisrael](https://github.com/evanisrael)
+    inspired by: HebruSan (thank you)
 -->
 
-# Перевод на ваш язык
+# Translating to your language
 
-![Языки поддерживаемые в KSP 1.3: Английский, Испанский, Китайский, Русский, Японский](https://i.imgur.com/DbCCJWK.png)
+![Languages supported by KSP 1.3: English, Spanish, Chinese, Russian, Japanese](https://i.imgur.com/DbCCJWK.png)
 
-В версии KSP 1.3 появилась локализация, которая позволяет переводить текст в игре на другие языки. Блягодаря этому большее число людей сможет наслаждаться игрой на предпочитаемом ими языке и сообщество игроков будет только расширяться. Однако, для модов этот процесс не автоматизирован; по умолчанию, мод будет на английском языке, независимо от языка основного клиента игры. Чтобы и основной клиент и моды были доступны на одном языке, при этом отличном от английского, создателю мода нужно проделать дополнительную работу.
+The 1.3 release of KSP introduces localization, which allows in-game text to be translated to other languages. This allows more people to enjoy the game in their preferred language and enlarges the community. However, it does not happen automatically for mods; by default, a mod will appear in English regardless of the language of the base game. In order to have both the base game and mods available in the same non-English languages, some additional work must be done by the modder.
 
-К сожалению, я говорю только на английском, и я разрабатываю и поддерживаю этот мод бесплатно. ПОэтому я не могу заниматься переводами самостоятельно и не имею возможности заплатить  переводчикам за профессиональный перевод. Лучшее что я могу сделать самостоятельно - это использовать Google Переводчик, который не очень хорошо справляется с краткими и идиоматическими фразами, необходимыми в пользовательском интерфейсе мода KSP. Вместо этого, я мне придется полагаться на ваш, многоязычного члена сообщества KSP, профессионализм, чтобы вы показали мне как выглядят по настоящему хорошие переводы. Если вы хотите помочь в этом деле, пожалуйста, подробно изучите этот файл до конца, чтобы узнать, как устроены языковые файлы мода и как подготовить переводы для использования другими игроками.
+Unfortunately, I only speak English, and I maintain this mod for free. This means I cannot create my own translations, and I cannot pay a professional translation service to produce high quality translations. The best I can do on my own is to use Google Translate, which is of dubious value for the terse, idiomatic strings needed in a KSP mod's UI. Instead, I must rely on the expertise of you, the multilingual KSP mod user, to tell me what good translations look like for your language. If you would like to help in this effort, please keep reading to learn how the mod's language files are structured and how to submit translations for use by others.
 
-Примечание: Несмотря на то что вы редактируете файлы проекта, не бойтесь ошибиться. GitHub сохранит ваши изменения отдельно от основных файлов до тех пор, пока я не проверю их и не подтвержу, что все в норме. Я даже смогу, в случае чего, задавать вам вопросы или просить внести изменения, прежде чем ваша работа будет добавлена в основной код.
+Note: Even though you will appear to be editing the project's files, don't worry about making mistakes. GitHub will keep your changes separate from the main files until I have verified that they are OK to use. It is even possible for me to ask questions or request changes before your work is committed to the main files.
 
-## Языки
+## Languages
 
-* Поддерживаемые Kerbal Space Program на момент версии 1.12.x
-  * ![Английский][EN] Английский <en-us.cfg>
-  * ![Бразильский][BR] Бразильский <pt-br.cfg>
-  * ![Китайский][CN] Упрощенный китайский (中文) <zh-cn.cfg>
-  * ![Немецкий][DE] Немецкий (Deutsch) <de.cfg>
-  * ![Испанский][ES] Испанский (Español) <es-es.cfg>
-  * ![Французский][FR] Французский (Français)<fr-fr.cfg>
-  * ![Итальянский][IT] Итальянский (Italiano) <it-it.cfg>
-  * ![Японский][JA] Японский (日本語) <ja.cfg>
+* Supported by Kerbal Space Program as of 1.12.x
+  * ![English][EN] English <en-us.cfg>
+  * ![Brasil][BR] Brazilian <pt-br.cfg>
+  * ![中文][CN] Simplified Chinese (中文) <zh-cn.cfg>
+  * ![Deutsch][DE] German (Deutsch) <de.cfg>
+  * ![Español][ES] Spanish (Español) <es-es.cfg>
+  * ![Français][FR] French (Français)<fr-fr.cfg>
+  * ![Italiano][IT] Italian (Italiano) <it-it.cfg>
+  * ![日本語][JA] Japanese (日本語) <ja.cfg>
 * Included as well
-  * ![Корейский][KO] Корейский (한국어) <ko.cfg>
-  * ![Мексиканский испанский][MX] Мексиканский испанский (Español Mexicano) <es-mx.cfg>
-  * ![Голландский][NL] Голландский <nl-nl.cfg>
-  * ![Норвежский][NO] Норвежский (Norsk) <no-no.cfg>
-  * ![Польский][PO] Польский (Polski) <pl.cfg>
-  * ![Русский][RU] Русский (Русский) <ru.cfg>
-  * ![Шведский][SW] Шведский (Svenska) <sw-sw.cfg>
-  * ![Тайваньский][TW] Тайваньский (国语) <zh-tw.cfg>
+  * ![한국어][KO] Korean (한국어) <ko.cfg>
+  * ![Español Mexicano][MX] Mexican Spanish (Español Mexicano) <es-mx.cfg>
+  * ![Dutch][NL] Dutch <nl-nl.cfg>
+  * ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>
+  * ![Polski][PO] Polish (Polski) <pl.cfg>
+  * ![Русский][RU] Russian (Русский) <ru.cfg>
+  * ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>
+  * ![国语][TW] Taiwanese (国语) <zh-tw.cfg>
 
-## Создание или редактирование перевода
+## Creating or editing a translation
 
-Рекомендуется вносить изменения сначала локально на вашем устройстве, чтобы вы могли их протестировать перед отправкой. Особенно если вы создаете новый перевод с нуля.
+It is recommended to make your changes on your own computer at first so you can test them before uploading, especially if you are creating a new translation from scratch.
 
-1. Установите последнюю версию xxx мода, если еще этого не сделали.
-2. Откройте папку <KSP_ROOT>/GameData/xxxMod/Localization на вашем локальном диске.
-3. Найдите файл с названием *lang*.cfg, где *lang* - это название языка в KSP; начиная с KSP 1.3, в него входят:
+1. Install the current release of xxx mod if you have not already
+2. Open your `<KSP_ROOT>/GameData/xxxMod/Localization` folder on your local disk
+3. Look for a file called *lang*.cfg, where *lang* is KSP's name for your locale; as of KSP 1.3, this includes:
 
-* en-us (английский)
-* es-es (испанский)
-* ja (японский)
-* ru (русский)
-* zh-cn (китайский)
+* en-us (English)
+* es-es (Spanish)
+* ja (Japanese)
+* ru (Russian)
+* zh-cn (Chinese)
 
-Дальнейшие действия зависят от того, существует ли файл:
+The remaining steps are different depending on whether the file already exists:
 
-### Если файл существует
+### If the file exists
 
-Чтобы внести улучшения в существующий перевод, выполните следующие действия:
+Follow these steps to make improvements to an existing translation:
 
-4. Откройте файл вашего языка в выбранном вами текстовом редакторе.
-5. Внесите изменения которые хотели бы видеть в игре (подробнее в разделе [Формат файла](#file-format) ниже)
-6. Сохраните ваши изменения
-7. Не забудьте [их протестировать](#testing)!
+4 Edit the file for your language in your favorite text editor
+5 Make the changes you wish to see in-game (see the [File format section](#file-format) below for details)
+6 Save your changes
+7 Remember to [test your changes](#testing)!
 
-### Если файл не существует
+### If the file does not exist
 
-Чтобы создать свой собственный перевод с нуля, выполните следующие действия:
+Follow these steps to start your own translation from scratch:
 
-4. Сделайте копию файла `en-us.cfg` в папке `Localization`.
-5. Переименуйте файл в соответствии со списком языков выше.
-6. Откройте файл вашего языка в выбранном вами текстовом редакторе.
-7. Замените третью строку с `en-us` на название вашего языка (подробнее в разделе [Языки](#Languages))
-8. Переведите каждую строку с английского на ваш язык (подробнее в разделе [Формат файла](#file-format) ниже)
-9. Сохраните внесенные изменения
-10. Не забудьте [их протестировать](#testing)!
+4. Make a copy of `en-us.cfg` in the `Localization` folder
+5. Rename the file according to the list of languages above
+6. Edit the file for your language in your favorite text editor
+7. Change the third line from `en-us` to the string for your language (see the [Languages section](#Languages) for details)
+8. Translate each string from English to your language (see the [File format section](#file-format) below for details)
+9.  Save your changes
+10. Remember to [test your changes](#testing)!
 
-### Формат файла
+### File format
 
-Центральная часть файла `cfg` содержит строки, которые нужно перевести. Формат записи выглядит так: `имя = перевод`, где имя - это особая строка, определенная модом. Например:
+The middle part of the `cfg` file contains the strings to translate. The format is `name = translation`, where the name is a special string defined by the mod. For example:
 
     #launchSubtitle = Transfers from <<1>>\n(Launch ~<<2>>)
 
-**Не нужно** изменять часть слева от знака равенства ("=")! Эта часть должна быть одинаковой во всех файлах с переводами.
+Do **not** change the part to the left of the equals sign ("=")! These names must be the same in every language file.
 
-Часть справа от знака равенства - это строка, которая будет использоваться в игре. Большая часть текста будет отображаться как есть, но он может содержать несколько особых строк, как показано в [демонстрационном грамматическом модуле Lingoona](http://lingoona.com/cgi-bin/grammar#l=en&oh=1):
+The part to the right of the equals sign is the string to be used in-game. Most of the text will be shown as-is, but it can contain a few special strings as shown in the [Lingoona grammar module demo](http://lingoona.com/cgi-bin/grammar#l=en&oh=1):
 
-| Строка  | Назначение                                                                                                                 |
+| String  | Purpose                                                                                                                    |
 | ------- | -------------------------------------------------------------------------------------------------------------------------- |
-| \n      | Перенос строки; старайтесь сохранить их исходя из исходных строк, чтобы убедиться, что все строки поместятся               |
-| <<1>>   | Первый подставляемый токен в строке, который будет заменен на число, название планеты и т.д., в зависимости от строки      |
-| <<2>>   | Второй токен и так далее                                                                                                   |
-| <<A:1>> | Первый токен, но замененный правильным значением                                                                           |
+| \n      | Line break; try to preserve these based on the original strings to make sure the strings will fit                          |
+| <<1>>   | The first substitutable token in the string, will be replaced by a number, name of a planet, etc., depending on the string |
+| <<2>>   | Second token, and so on                                                                                                    |
+| <<A:1>> | The first token, but substituted with a proper article                                                                     |
 
-Например, вот так может выглядеть перевод строки, указанной выше, на испанский, выполненный через Google Переводчик:
+For example, this is a possible translation of the above line into Spanish, courtesy of Google Translate:
 
     #launchSubtitle = Transferencias desde <<1>>\n(Lanzamiento ~<<2>>)
 
-### Тестирование
+### Testing
 
-Очень важно убедиться что ваши изменения работают корректно. Если вы используете Steam:
+It's important to make sure that your changes work correctly. If you use Steam:
 
-1. [Выберите язык для использования в Steam](https://www.youtube.com/watch?v=iBwYCvQxfeI)
-2. Дождитесь полной загрузки языкового пакета
-3. Запустите KSP
-4. Активируйте xxxMod в игре и убедитесь что ваши изменения работают так, как вы задумывали
+1. [Select the language to use in Steam](https://www.youtube.com/watch?v=iBwYCvQxfeI)
+2. Wait for the language pack download to complete
+3. Run KSP
+4. Use the xxxMod ingame and make sure your changes appear as you intended
 
-Если вы не пользуетесь Steam, я не знаю какие шаги необходимо предпринять для смены языка. Свяжитесь со SQUAD если не сможете разобраться самостоятельно.
+If you do not use Steam, I don't know the steps to choose a language. Contact SQUAD if you can't figure it out.
 
-## Публикация перевода в общий доступ
+## Contributing your translation for others to use
 
-После того как вы подготовили `cfg` файл для вашего языка и убедились что все работает как нужно, если вы хотите предоставить его для переиспользования под xxxModd's лицензией - следуйте следующим шагам чтобы загрузить перевод в основной репозиторий:
+After you have prepared a `cfg` file for your language and confirmed that it works as you intend, if you are willing to contribute it for redistribution under the xxxModd's license, follow these steps to upload it for inclusion in the main mod distribution:
 
-1. Войдите в свою учетную запись [GitHub](https://github.com); Вам нужно будет зарегистрировать новый аккаунт если вы заходите туда впервые.
-2. Перейдите в папку Localization внутри xxxMod 
-3. Найдите файл над которым вы работали
+1. Log in to [GitHub](https://github.com); you may need to register an account if you do not already have one
+2. Navigate to the xxxMod's Localization folder
+3. Look for the file you edited
 
-Дальнейшие действия зависят от того, существует ли файл:
+The remaining steps are different depending on whether the file already exists:
 
-### Если файл существует
+### If the file exists
 
-4. Нажмите на название файла чтобы посмотреть его
-5. Нажмите на [иконку карандаша](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png) для внесения изменений
-6. Замените текст на отредактированный вами локально
-7. **Важно**: Внизу страницы, под кнопкой Propose file change, напишите краткое описание своий изменений на английском языке, что именно изменено и почему вы считаете эти правки необходимыми. Это поможет мне понять что правки действительно следует внести. Помните, что я не говорю на языке текста в `cfg` файле, поэтому мне нужно чтобы вы объяснили мне почему ваш вариант лучший!
-6. Нажмите на кнопку `Propose file change` внизу страницы, когда вы закончите
+4. Click the file's name to view it
+5. Click the [pencil icon](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png) to edit
+6. Replace the text with the pasted contents of the file you edited locally
+7. **Important**: At the bottom of the page, under Propose file change, type an English description of the changes you have made and the reason you think they should be made. This will help me to confirm that your changes are appropriate. Remember, I do not speak the language in the `cfg` file, so I need you to tell me why your way is better!
+6. Click `Propose file change` at the bottom when done
 
-### Если файл не существует
+### If the file does not exist
 
-4. Нажмите на кнопку [Create new file](https://help.github.com/assets/images/help/repository/create_new_file.png) для создания нового файла
-5. Введите корректное название файла в поле сверху
-6. Вставьте отредактированный вами локально текст в большое поле посередине страницы
-8. Нажмите на кнопку `Propose file change` внизу страницы, когда вы закончите
+4. Click [Create new file](https://help.github.com/assets/images/help/repository/create_new_file.png) to create it
+5. Enter the correct file name in the box at the top
+6. Paste the contents of the file you edited locally into the big box in the middle
+8. Click `Propose new file` at the bottom when done
 
-### Ревью
+### Review
 
-Как только вы внесете изменения, GitHub пришлет мне уведомление о том, что появился новый пул реквест. Я обязательно взгляну на него в течении суток или двух и попробую определить валидность правок следующими методами:
+Once you finish your changes, GitHub will send me a notification that a pull request has been submitted. I will take a look at it within a day or two and attempt to verify that the changes make sense by:
 
-* Убеждаясь что название файла и третья строка в нем совпадают с кодом выбранного языка
-* Просмотрев все измененные строки в игре
-* Проверив перевод через Google Переводчик
-* Спросив нескольких знакомых экспертов
-* Запросив помощь на форуме KSP
+* Confirming that the file name and the third line of the file match one of the supported locale names
+* Viewing each changed string in-game
+* Checking Google Translate
+* Asking individual human experts
+* Requesting help on the KSP forum
 
-Если у меня будут какие-нибдь вопросы касательно конкретных изменений которые вы внесли, я добавлю их в пул реквест, вам должно будет придти уведомление об этом. Пожалуйста, постарайтесь отвечать на эти вопросы как можно оперативнее, насколько вам позволяет ваше время. Ваш пул реквест может быть закрыт без утверждения и добавления ваших правок в основной репозиторий если от вас слишком долго не будет ответа.
+If I have any questions about specific changes you've made, I will add them to the pull request, which should trigger a notification to you. Please try to respond to these in as timely a manner as you can manage. Your pull request may be closed without merging if you do not reply for a long time.
 
-Как только я буду полностью удовлетворен решениями всех возникших вопросов, ваши правки будут добавлены в основной репозиторий и будут включены в следующий релиз. Также, я добавлю ваш никнейм на Github в секцию Acknowledgements в файле README.
+Once all the questions and comments are resolved to my satisfaction, your changes will be merged into the main files and included in the next release. I will also add your GitHub name to the Acknowledgements section of the README file.
 
 [EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png "English"  
 [BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png "Português Brasil"
@@ -168,3 +170,6 @@ THIS FILE:
 [RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png "Русский"  
 [SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/SW.png "Svenska"  
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TW.png "国语"
+
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
