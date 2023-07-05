@@ -1,14 +1,91 @@
 # Changelog  
   
-| modName    | Fuel Tanks Plus (FTP)                                             |
+| modName    | Fuel Tanks Plus (FTP) by NecroBones                               |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-NC-SA-4.0                                                   |
+| license    | CC-BY-NC-SA-4.0+ARR                                               |
 | author     | NecroBones and zer0Kerbal                                         |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207702-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/FuelTanksPlus)          |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/FuelTanksPlus)        |
 | spacedock  | (https://spacedock.info/mod/92)                                   |
 | ckan       | FuelTanksPlus                                                     |
+
+## Version 2.0.99.5-prerelease - `<Спасибо evanisrael>` edition
+
+* Released
+  * 04 Jul 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * Dependencies:
+    * [FTP Limited (FTPL)](https://www.curseforge.com/kerbal/ksp-mods/FTPLtd)
+  * search for `ftp` (and others) in the editor search bar to find all parts in this pack.
+  * some textures were deprecated by Squad
+    * `<KSP_ROOT>\GameData\\Squad\zDeprecated\Parts\FuelTank\fuelTankJumbo-64\*.dds`
+    * either manually copy back to `<KSP_ROOT>\GameData\Squad\Parts\FuelTank\fuelTankJumbo-64\`
+    * or use the newly added [CopyTexturesWindows.bat.0] v1.1.2.0 which copies only textures back to original directory which needs to be run from where it is `<KSP_ROOT>\GameData\FuelTanksPlus\FuelTanksPlus`
+    * rename from bat.0 to bat before running
+
+### Change Summary 2.0.99.5
+
+* Localize
+  * ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский)
+  * Спасибо [evanisrael](https://github.com/evanisrael)
+
+### Changes 2.0.99.5
+
+#### Parts 2.0.99.5
+
+* Update nodes
+  * [TPtankTri.cfg] v3.0.1.0
+  * [TPtankCube0050.cfg] v3.0.1.0
+  * [TPtankCube0075.cfg] v3.0.1.0
+  * [TPtankCube0125.cfg] v3.0.1.0
+
+#### Compatibility 2.0.99.5
+
+* Add
+  * [DRElite.cfg] v1.0.0.0
+* Update
+  * [DeadlyReentry.cfg] v1.2.1.0
+
+#### Localization 2.0.99.5
+
+* Add
+  * Russian (Русский)
+    * [ru.cfg] v1.0.0.0
+    * Спасибо [evanisrael](https://github.com/evanisrael)
+  * Translation guides
+    * [readme-ru.md] v1.0.1.0
+    * [quickstart-ru.md] v1.0.0.0
+    * Спасибо [evanisrael](https://github.com/evanisrael)
+* Update
+  * add header, give credit
+  * [en-us.cfg] v1.0.4.0
+  * [it-it.cfg] v1.0.4.0
+  * [ru.cfg] v1.0.1.0
+* closes #12 - Localization - Russian (Русский) <ru.cfg>
+* updates #19 - Localization - Italian (Italiano) <it-it.cfg>
+* updates #7 - Localization Master
+* updates #8 - Localization - English <en-us.cfg>
+
+#### Documentation 2.0.99.5
+
+* Update
+  * [404.md] v1.0.6.0
+  * [Attributions.md] v1.0.6.0
+  * [Attributions.md] v1.0.6.0
+  * [readme.md] v2.0.99.5
+  * [ReleaseLayout.md] v2.0.99.5
+
+### Status 2.0.99.5
+
+* Issues
+  * closes #164 - Fuel Tanks Plus (FTP) 2.0.99.5-prerelease `<Спасибо evanisrael>` edition
+  * closes #165 - 2.0.99.5 Additional Tasks
+
+---
 
 ## Version 2.0.99.4-prerelease - `<Thank you NecroBones>` edition
 
@@ -24,7 +101,8 @@
   * some textures were deprecated by Squad
     * `<KSP_ROOT>\GameData\\Squad\zDeprecated\Parts\FuelTank\fuelTankJumbo-64\*.dds`
     * either manually copy back to `<KSP_ROOT>\GameData\Squad\Parts\FuelTank\fuelTankJumbo-64\`
-    * or use the newly added [CopyTexturesWindows.bat] v1.1.2.0 which copies only textures back to original directory which needs to be run from where it is `<KSP_ROOT>\GameData\FuelTanksPlus\FuelTanksPlus`
+    * or use the newly added [CopyTexturesWindows.bat.0] v1.1.2.0 which copies only textures back to original directory which needs to be run from where it is `<KSP_ROOT>\GameData\FuelTanksPlus\FuelTanksPlus`
+    * rename from bat.0 to bat before running
 
 ### Change Summary 2.0.99.4
 
@@ -242,7 +320,7 @@
     * [readme.md] v2.1.2.0
     * [quickstart.md] v1.0.1.1
 * Updates #7 - Localization Master
-* Closes #8 - Localization - English (United States)] <en-us.cfg>
+* Closes #8 - Localization - English (United States) <en-us.cfg>
 
 ### Compatibility 2.0.99.0
 
